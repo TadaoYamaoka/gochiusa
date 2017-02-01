@@ -1,0 +1,4749 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='000.jpg'>
+    <box top='2' left='809' width='369' height='295'>
+      <part name='C01' x='907' y='261'/>
+      <part name='C02' x='1001' y='290'/>
+      <part name='C03' x='1064' y='247'/>
+      <part name='L01' x='873' y='181'/>
+      <part name='L02' x='941' y='158'/>
+      <part name='L03' x='929' y='208'/>
+      <part name='M01' x='975' y='237'/>
+      <part name='M02' x='1013' y='234'/>
+      <part name='R01' x='1013' y='147'/>
+      <part name='R02' x='1088' y='150'/>
+      <part name='R03' x='1047' y='191'/>
+    </box>
+    <box top='422' left='509' width='317' height='299'>
+      <part name='C01' x='635' y='705'/>
+      <part name='C02' x='733' y='700'/>
+      <part name='C03' x='782' y='620'/>
+      <part name='L01' x='585' y='644'/>
+      <part name='L02' x='659' y='605'/>
+      <part name='L03' x='645' y='655'/>
+      <part name='M01' x='717' y='672'/>
+      <part name='M02' x='731' y='661'/>
+      <part name='R01' x='720' y='569'/>
+      <part name='R02' x='768' y='523'/>
+      <part name='R03' x='754' y='592'/>
+    </box>
+    <box top='731' left='1151' width='283' height='289'>
+      <part name='C01' x='1169' y='918'/>
+      <part name='C02' x='1213' y='995'/>
+      <part name='C03' x='1300' y='1006'/>
+      <part name='L01' x='1192' y='835'/>
+      <part name='L02' x='1242' y='865'/>
+      <part name='L03' x='1201' y='895'/>
+      <part name='M01' x='1222' y='956'/>
+      <part name='M02' x='1227' y='960'/>
+      <part name='R01' x='1300' y='905'/>
+      <part name='R02' x='1353' y='959'/>
+      <part name='R03' x='1296' y='960'/>
+    </box>
+  </image>
+  <image file='001.jpg'>
+    <box top='187' left='235' width='278' height='223'>
+      <part name='C01' x='336' y='390'/>
+      <part name='C02' x='407' y='392'/>
+      <part name='C03' x='437' y='359'/>
+      <part name='L01' x='293' y='347'/>
+      <part name='L02' x='331' y='317'/>
+      <part name='L03' x='339' y='354'/>
+      <part name='M01' x='380' y='364'/>
+      <part name='M02' x='401' y='353'/>
+      <part name='R01' x='381' y='289'/>
+      <part name='R02' x='435' y='267'/>
+      <part name='R03' x='422' y='309'/>
+    </box>
+  </image>
+  <image file='002.jpg'>
+    <box top='98' left='156' width='190' height='199'>
+      <part name='C01' x='188' y='252'/>
+      <part name='C02' x='240' y='287'/>
+      <part name='C03' x='295' y='271'/>
+      <part name='L01' x='197' y='196'/>
+      <part name='L02' x='245' y='205'/>
+      <part name='L03' x='216' y='224'/>
+      <part name='M01' x='250' y='260'/>
+      <part name='M02' x='255' y='262'/>
+      <part name='R01' x='284' y='216'/>
+      <part name='R02' x='320' y='221'/>
+      <part name='R03' x='287' y='242'/>
+    </box>
+    <box top='82' left='511' width='359' height='297'>
+      <part name='C01' x='612' y='341'/>
+      <part name='C02' x='712' y='365'/>
+      <part name='C03' x='792' y='293'/>
+      <part name='L01' x='563' y='254'/>
+      <part name='L02' x='628' y='237'/>
+      <part name='L03' x='627' y='284'/>
+      <part name='M01' x='690' y='313'/>
+      <part name='M02' x='710' y='306'/>
+      <part name='R01' x='697' y='208'/>
+      <part name='R02' x='780' y='177'/>
+      <part name='R03' x='752' y='237'/>
+    </box>
+    <box top='163' left='1402' width='335' height='295'>
+      <part name='C01' x='1456' y='381'/>
+      <part name='C02' x='1543' y='432'/>
+      <part name='C03' x='1611' y='410'/>
+      <part name='L01' x='1452' y='339'/>
+      <part name='L02' x='1489' y='346'/>
+      <part name='L03' x='1469' y='337'/>
+      <part name='M01' x='1522' y='389'/>
+      <part name='M02' x='1554' y='397'/>
+      <part name='R01' x='1563' y='312'/>
+      <part name='R02' x='1638' y='325'/>
+      <part name='R03' x='1591' y='369'/>
+    </box>
+    <box top='433' left='1252' width='309' height='256'>
+      <part name='C01' x='1333' y='636'/>
+      <part name='C02' x='1435' y='674'/>
+      <part name='C03' x='1503' y='613'/>
+      <part name='L01' x='1310' y='574'/>
+      <part name='L02' x='1368' y='547'/>
+      <part name='L03' x='1362' y='599'/>
+      <part name='M01' x='1421' y='626'/>
+      <part name='M02' x='1433' y='622'/>
+      <part name='R01' x='1440' y='538'/>
+      <part name='R02' x='1499' y='536'/>
+      <part name='R03' x='1473' y='579'/>
+    </box>
+    <box top='727' left='309' width='336' height='290'>
+      <part name='C01' x='348' y='918'/>
+      <part name='C02' x='415' y='995'/>
+      <part name='C03' x='521' y='975'/>
+      <part name='L01' x='342' y='828'/>
+      <part name='L02' x='394' y='855'/>
+      <part name='L03' x='374' y='894'/>
+      <part name='M01' x='412' y='951'/>
+      <part name='M02' x='433' y='962'/>
+      <part name='R01' x='466' y='866'/>
+      <part name='R02' x='538' y='912'/>
+      <part name='R03' x='484' y='932'/>
+    </box>
+  </image>
+  <image file='003.jpg'>
+    <box top='84' left='1580' width='234' height='216'>
+      <part name='C01' x='1624' y='253'/>
+      <part name='C02' x='1676' y='284'/>
+      <part name='C03' x='1726' y='264'/>
+      <part name='L01' x='1605' y='192'/>
+      <part name='L02' x='1647' y='189'/>
+      <part name='L03' x='1636' y='222'/>
+      <part name='M01' x='1651' y='248'/>
+      <part name='M02' x='1657' y='250'/>
+      <part name='R01' x='1698' y='180'/>
+      <part name='R02' x='1755' y='187'/>
+      <part name='R03' x='1723' y='216'/>
+    </box>
+    <box top='1114' left='1666' width='107' height='102'>
+      <part name='C01' x='1675' y='1193'/>
+      <part name='C02' x='1699' y='1212'/>
+      <part name='C03' x='1731' y='1205'/>
+      <part name='L01' x='1675' y='1177'/>
+      <part name='L02' x='1692' y='1178'/>
+      <part name='L03' x='1683' y='1178'/>
+      <part name='M01' x='1698' y='1199'/>
+      <part name='M02' x='1704' y='1201'/>
+      <part name='R01' x='1717' y='1182'/>
+      <part name='R02' x='1736' y='1189'/>
+      <part name='R03' x='1726' y='1186'/>
+    </box>
+    <box top='1151' left='1585' width='91' height='86'>
+      <part name='C01' x='1605' y='1222'/>
+      <part name='C02' x='1633' y='1232'/>
+      <part name='C03' x='1658' y='1224'/>
+      <part name='L01' x='1597' y='1196'/>
+      <part name='L02' x='1621' y='1193'/>
+      <part name='L03' x='1613' y='1210'/>
+      <part name='M01' x='1630' y='1222'/>
+      <part name='M02' x='1635' y='1222'/>
+      <part name='R01' x='1644' y='1194'/>
+      <part name='R02' x='1668' y='1196'/>
+      <part name='R03' x='1653' y='1210'/>
+    </box>
+    <box top='783' left='1161' width='197' height='192'>
+      <part name='C01' x='1191' y='932'/>
+      <part name='C02' x='1238' y='967'/>
+      <part name='C03' x='1293' y='949'/>
+      <part name='L01' x='1191' y='896'/>
+      <part name='L02' x='1222' y='897'/>
+      <part name='L03' x='1207' y='895'/>
+      <part name='M01' x='1232' y='933'/>
+      <part name='M02' x='1254' y='936'/>
+      <part name='R01' x='1269' y='903'/>
+      <part name='R02' x='1300' y='912'/>
+      <part name='R03' x='1286' y='907'/>
+    </box>
+    <box top='154' left='665' width='153' height='133'>
+      <part name='C01' x='701' y='261'/>
+      <part name='C02' x='734' y='273'/>
+      <part name='C03' x='765' y='256'/>
+      <part name='L01' x='687' y='229'/>
+      <part name='L02' x='710' y='225'/>
+      <part name='L03' x='706' y='244'/>
+      <part name='M01' x='728' y='258'/>
+      <part name='M02' x='732' y='258'/>
+      <part name='R01' x='739' y='220'/>
+      <part name='R02' x='770' y='222'/>
+      <part name='R03' x='754' y='237'/>
+    </box>
+    <box top='454' left='646' width='153' height='131'>
+      <part name='C01' x='697' y='570'/>
+      <part name='C02' x='739' y='579'/>
+      <part name='C03' x='767' y='553'/>
+      <part name='L01' x='692' y='546'/>
+      <part name='L02' x='719' y='534'/>
+      <part name='L03' x='713' y='556'/>
+      <part name='M01' x='731' y='568'/>
+      <part name='M02' x='742' y='562'/>
+      <part name='R01' x='747' y='526'/>
+      <part name='R02' x='771' y='518'/>
+      <part name='R03' x='759' y='542'/>
+    </box>
+    <box top='163' left='125' width='204' height='179'>
+      <part name='C01' x='166' y='311'/>
+      <part name='C02' x='222' y='334'/>
+      <part name='C03' x='279' y='307'/>
+      <part name='L01' x='155' y='261'/>
+      <part name='L02' x='196' y='258'/>
+      <part name='L03' x='180' y='285'/>
+      <part name='M01' x='218' y='310'/>
+      <part name='M02' x='224' y='310'/>
+      <part name='R01' x='243' y='252'/>
+      <part name='R02' x='290' y='255'/>
+      <part name='R03' x='262' y='282'/>
+    </box>
+    <box top='531' left='281' width='101' height='98'>
+      <part name='C01' x='304' y='616'/>
+      <part name='C02' x='341' y='621'/>
+      <part name='C03' x='371' y='605'/>
+      <part name='L01' x='295' y='587'/>
+      <part name='L02' x='320' y='582'/>
+      <part name='L03' x='314' y='604'/>
+      <part name='M01' x='334' y='614'/>
+      <part name='M02' x='337' y='614'/>
+      <part name='R01' x='349' y='578'/>
+      <part name='R02' x='372' y='575'/>
+      <part name='R03' x='359' y='600'/>
+    </box>
+    <box top='807' left='203' width='248' height='236'>
+      <part name='C01' x='320' y='1031'/>
+      <part name='C02' x='404' y='1010'/>
+      <part name='C03' x='437' y='920'/>
+      <part name='L01' x='258' y='990'/>
+      <part name='L02' x='305' y='945'/>
+      <part name='L03' x='311' y='985'/>
+      <part name='M01' x='375' y='983'/>
+      <part name='M02' x='381' y='976'/>
+      <part name='R01' x='350' y='895'/>
+      <part name='R02' x='407' y='865'/>
+      <part name='R03' x='396' y='913'/>
+    </box>
+    <box top='831' left='1132' width='57' height='54'>
+      <part name='C01' x='1151' y='873'/>
+      <part name='C02' x='1164' y='874'/>
+      <part name='C03' x='1173' y='867'/>
+      <part name='L01' x='1151' y='867'/>
+      <part name='L02' x='1155' y='865'/>
+      <part name='L03' x='1155' y='870'/>
+      <part name='M01' x='1161' y='871'/>
+      <part name='M02' x='1163' y='870'/>
+      <part name='R01' x='1165' y='862'/>
+      <part name='R02' x='1169' y='860'/>
+      <part name='R03' x='1170' y='865'/>
+    </box>
+    <box top='288' left='402' width='75' height='63'>
+      <part name='C01' x='431' y='339'/>
+      <part name='C02' x='447' y='336'/>
+      <part name='C03' x='455' y='326'/>
+      <part name='L01' x='429' y='332'/>
+      <part name='L02' x='435' y='328'/>
+      <part name='L03' x='432' y='330'/>
+      <part name='M01' x='442' y='335'/>
+      <part name='M02' x='446' y='332'/>
+      <part name='R01' x='444' y='323'/>
+      <part name='R02' x='450' y='320'/>
+      <part name='R03' x='447' y='322'/>
+    </box>
+  </image>
+  <image file='004.jpg'>
+    <box top='71' left='1542' width='351' height='298'>
+      <part name='C01' x='1565' y='203'/>
+      <part name='C02' x='1559' y='283'/>
+      <part name='C03' x='1610' y='326'/>
+      <part name='L01' x='1630' y='149'/>
+      <part name='L02' x='1642' y='201'/>
+      <part name='L03' x='1606' y='199'/>
+      <part name='M01' x='1585' y='252'/>
+      <part name='M02' x='1598' y='281'/>
+      <part name='R01' x='1669' y='257'/>
+      <part name='R02' x='1699' y='319'/>
+      <part name='R03' x='1652' y='302'/>
+    </box>
+    <box top='1066' left='1187' width='182' height='174'>
+      <part name='C01' x='1228' y='1205'/>
+      <part name='C02' x='1268' y='1225'/>
+      <part name='C03' x='1304' y='1212'/>
+      <part name='L01' x='1219' y='1152'/>
+      <part name='L02' x='1254' y='1155'/>
+      <part name='L03' x='1240' y='1176'/>
+      <part name='M01' x='1257' y='1199'/>
+      <part name='M02' x='1280' y='1200'/>
+      <part name='R01' x='1289' y='1161'/>
+      <part name='R02' x='1324' y='1159'/>
+      <part name='R03' x='1303' y='1182'/>
+    </box>
+    <box top='128' left='706' width='115' height='114'>
+      <part name='C01' x='726' y='213'/>
+      <part name='C02' x='753' y='233'/>
+      <part name='C03' x='785' y='223'/>
+      <part name='L01' x='727' y='185'/>
+      <part name='L02' x='752' y='184'/>
+      <part name='L03' x='739' y='199'/>
+      <part name='M01' x='751' y='218'/>
+      <part name='M02' x='761' y='219'/>
+      <part name='R01' x='776' y='191'/>
+      <part name='R02' x='796' y='195'/>
+      <part name='R03' x='779' y='207'/>
+    </box>
+    <box top='406' left='648' width='159' height='138'>
+      <part name='C01' x='684' y='521'/>
+      <part name='C02' x='722' y='538'/>
+      <part name='C03' x='764' y='521'/>
+      <part name='L01' x='672' y='476'/>
+      <part name='L02' x='705' y='471'/>
+      <part name='L03' x='694' y='496'/>
+      <part name='M01' x='720' y='518'/>
+      <part name='M02' x='727' y='518'/>
+      <part name='R01' x='743' y='472'/>
+      <part name='R02' x='776' y='474'/>
+      <part name='R03' x='755' y='496'/>
+    </box>
+    <box top='166' left='309' width='127' height='118'>
+      <part name='C01' x='334' y='271'/>
+      <part name='C02' x='360' y='284'/>
+      <part name='C03' x='396' y='265'/>
+      <part name='L01' x='328' y='245'/>
+      <part name='L02' x='343' y='236'/>
+      <part name='L03' x='341' y='252'/>
+      <part name='M01' x='354' y='266'/>
+      <part name='M02' x='358' y='266'/>
+      <part name='R01' x='367' y='232'/>
+      <part name='R02' x='392' y='232'/>
+      <part name='R03' x='377' y='246'/>
+    </box>
+    <box top='133' left='169' width='104' height='96'>
+      <part name='C01' x='198' y='216'/>
+      <part name='C02' x='233' y='228'/>
+      <part name='C03' x='255' y='210'/>
+      <part name='L01' x='195' y='197'/>
+      <part name='L02' x='212' y='187'/>
+      <part name='L03' x='209' y='206'/>
+      <part name='M01' x='229' y='216'/>
+      <part name='M02' x='232' y='215'/>
+      <part name='R01' x='239' y='182'/>
+      <part name='R02' x='258' y='181'/>
+      <part name='R03' x='246' y='199'/>
+    </box>
+    <box top='493' left='243' width='127' height='106'>
+      <part name='C01' x='270' y='574'/>
+      <part name='C02' x='300' y='585'/>
+      <part name='C03' x='335' y='574'/>
+      <part name='L01' x='279' y='557'/>
+      <part name='L02' x='282' y='557'/>
+      <part name='L03' x='281' y='565'/>
+      <part name='M01' x='297' y='576'/>
+      <part name='M02' x='303' y='576'/>
+      <part name='R01' x='316' y='555'/>
+      <part name='R02' x='321' y='555'/>
+      <part name='R03' x='319' y='563'/>
+    </box>
+    <box top='783' left='128' width='301' height='264'>
+      <part name='C01' x='245' y='1017'/>
+      <part name='C02' x='325' y='1019'/>
+      <part name='C03' x='368' y='959'/>
+      <part name='L01' x='200' y='974'/>
+      <part name='L02' x='244' y='950'/>
+      <part name='L03' x='251' y='984'/>
+      <part name='M01' x='297' y='991'/>
+      <part name='M02' x='315' y='982'/>
+      <part name='R01' x='288' y='911'/>
+      <part name='R02' x='343' y='887'/>
+      <part name='R03' x='334' y='929'/>
+    </box>
+  </image>
+  <image file='005.jpg'>
+    <box top='138' left='1595' width='97' height='81'>
+      <part name='C01' x='1626' y='205'/>
+      <part name='C02' x='1656' y='210'/>
+      <part name='C03' x='1677' y='185'/>
+      <part name='L01' x='1613' y='187'/>
+      <part name='L02' x='1626' y='180'/>
+      <part name='L03' x='1629' y='192'/>
+      <part name='M01' x='1643' y='196'/>
+      <part name='M02' x='1650' y='191'/>
+      <part name='R01' x='1646' y='166'/>
+      <part name='R02' x='1664' y='157'/>
+      <part name='R03' x='1660' y='174'/>
+    </box>
+    <box top='490' left='1715' width='89' height='72'>
+      <part name='C01' x='1729' y='550'/>
+      <part name='C02' x='1746' y='561'/>
+      <part name='C03' x='1767' y='553'/>
+      <part name='L01' x='1727' y='532'/>
+      <part name='L02' x='1739' y='532'/>
+      <part name='L03' x='1735' y='542'/>
+      <part name='M01' x='1744' y='552'/>
+      <part name='M02' x='1747' y='552'/>
+      <part name='R01' x='1755' y='532'/>
+      <part name='R02' x='1771' y='536'/>
+      <part name='R03' x='1760' y='543'/>
+    </box>
+    <box top='500' left='1596' width='81' height='77'>
+      <part name='C01' x='1617' y='557'/>
+      <part name='C02' x='1637' y='566'/>
+      <part name='C03' x='1656' y='558'/>
+      <part name='L01' x='1616' y='542'/>
+      <part name='L02' x='1632' y='542'/>
+      <part name='L03' x='1625' y='552'/>
+      <part name='M01' x='1635' y='560'/>
+      <part name='M02' x='1640' y='560'/>
+      <part name='R01' x='1647' y='543'/>
+      <part name='R02' x='1661' y='539'/>
+      <part name='R03' x='1652' y='550'/>
+    </box>
+    <box top='241' left='1082' width='155' height='143'>
+      <part name='C01' x='1104' y='344'/>
+      <part name='C02' x='1160' y='373'/>
+      <part name='C03' x='1203' y='351'/>
+      <part name='L01' x='1113' y='306'/>
+      <part name='L02' x='1148' y='304'/>
+      <part name='L03' x='1135' y='326'/>
+      <part name='M01' x='1152' y='349'/>
+      <part name='M02' x='1171' y='349'/>
+      <part name='R01' x='1181' y='307'/>
+      <part name='R02' x='1208' y='305'/>
+      <part name='R03' x='1190' y='329'/>
+    </box>
+    <box top='474' left='1232' width='131' height='120'>
+      <part name='C01' x='1266' y='574'/>
+      <part name='C02' x='1299' y='589'/>
+      <part name='C03' x='1331' y='576'/>
+      <part name='L01' x='1275' y='549'/>
+      <part name='L02' x='1279' y='549'/>
+      <part name='L03' x='1277' y='558'/>
+      <part name='M01' x='1293' y='572'/>
+      <part name='M02' x='1306' y='571'/>
+      <part name='R01' x='1320' y='549'/>
+      <part name='R02' x='1324' y='549'/>
+      <part name='R03' x='1322' y='559'/>
+    </box>
+    <box top='168' left='654' width='216' height='181'>
+      <part name='C01' x='704' y='315'/>
+      <part name='C02' x='753' y='337'/>
+      <part name='C03' x='808' y='305'/>
+      <part name='L01' x='684' y='265'/>
+      <part name='L02' x='720' y='259'/>
+      <part name='L03' x='715' y='289'/>
+      <part name='M01' x='739' y='306'/>
+      <part name='M02' x='761' y='304'/>
+      <part name='R01' x='761' y='254'/>
+      <part name='R02' x='812' y='253'/>
+      <part name='R03' x='789' y='279'/>
+    </box>
+    <box top='282' left='416' width='176' height='159'>
+      <part name='C01' x='455' y='400'/>
+      <part name='C02' x='492' y='429'/>
+      <part name='C03' x='539' y='416'/>
+      <part name='L01' x='451' y='363'/>
+      <part name='L02' x='485' y='364'/>
+      <part name='L03' x='468' y='382'/>
+      <part name='M01' x='492' y='409'/>
+      <part name='M02' x='497' y='410'/>
+      <part name='R01' x='522' y='374'/>
+      <part name='R02' x='555' y='382'/>
+      <part name='R03' x='532' y='394'/>
+    </box>
+    <box top='165' left='229' width='156' height='175'>
+      <part name='C01' x='244' y='275'/>
+      <part name='C02' x='269' y='320'/>
+      <part name='C03' x='317' y='324'/>
+      <part name='L01' x='264' y='231'/>
+      <part name='L02' x='296' y='254'/>
+      <part name='L03' x='266' y='260'/>
+      <part name='M01' x='274' y='296'/>
+      <part name='M02' x='286' y='305'/>
+      <part name='R01' x='320' y='290'/>
+      <part name='R02' x='336' y='301'/>
+      <part name='R03' x='325' y='300'/>
+    </box>
+    <box top='874' left='602' width='69' height='68'>
+      <part name='C01' x='619' y='923'/>
+      <part name='C02' x='632' y='933'/>
+      <part name='C03' x='646' y='932'/>
+      <part name='L01' x='620' y='909'/>
+      <part name='L02' x='632' y='911'/>
+      <part name='L03' x='625' y='917'/>
+      <part name='M01' x='633' y='924'/>
+      <part name='M02' x='635' y='926'/>
+      <part name='R01' x='642' y='914'/>
+      <part name='R02' x='654' y='917'/>
+      <part name='R03' x='646' y='923'/>
+    </box>
+    <box top='764' left='290' width='74' height='73'>
+      <part name='C01' x='309' y='825'/>
+      <part name='C02' x='325' y='831'/>
+      <part name='C03' x='338' y='823'/>
+      <part name='L01' x='307' y='816'/>
+      <part name='L02' x='314' y='813'/>
+      <part name='L03' x='311' y='815'/>
+      <part name='M01' x='321' y='824'/>
+      <part name='M02' x='327' y='823'/>
+      <part name='R01' x='327' y='811'/>
+      <part name='R02' x='339' y='811'/>
+      <part name='R03' x='333' y='811'/>
+    </box>
+    <box top='1073' left='220' width='195' height='171'>
+      <part name='C01' x='269' y='1224'/>
+      <part name='C02' x='335' y='1234'/>
+      <part name='C03' x='366' y='1202'/>
+      <part name='L01' x='268' y='1189'/>
+      <part name='L02' x='302' y='1173'/>
+      <part name='L03' x='296' y='1200'/>
+      <part name='M01' x='320' y='1216'/>
+      <part name='M02' x='335' y='1206'/>
+      <part name='R01' x='338' y='1164'/>
+      <part name='R02' x='365' y='1158'/>
+      <part name='R03' x='353' y='1184'/>
+    </box>
+    <box top='730' left='1524' width='333' height='311'>
+      <part name='C01' x='1587' y='840'/>
+      <part name='C02' x='1565' y='946'/>
+      <part name='C03' x='1615' y='1002'/>
+      <part name='L01' x='1638' y='834'/>
+      <part name='L02' x='1650' y='894'/>
+      <part name='L03' x='1615' y='874'/>
+      <part name='M01' x='1591' y='930'/>
+      <part name='M02' x='1596' y='948'/>
+      <part name='R01' x='1664' y='956'/>
+      <part name='R02' x='1688' y='996'/>
+      <part name='R03' x='1641' y='971'/>
+    </box>
+  </image>
+  <image file='006.jpg'>
+    <box top='122' left='1650' width='165' height='167'>
+      <part name='C01' x='1668' y='207'/>
+      <part name='C02' x='1681' y='257'/>
+      <part name='C03' x='1717' y='272'/>
+      <part name='L01' x='1694' y='196'/>
+      <part name='L02' x='1709' y='215'/>
+      <part name='L03' x='1702' y='205'/>
+      <part name='M01' x='1690' y='237'/>
+      <part name='M02' x='1702' y='248'/>
+      <part name='R01' x='1729' y='245'/>
+      <part name='R02' x='1740' y='260'/>
+      <part name='R03' x='1736' y='253'/>
+    </box>
+    <box top='470' left='1640' width='115' height='106'>
+      <part name='C01' x='1667' y='559'/>
+      <part name='C02' x='1693' y='567'/>
+      <part name='C03' x='1718' y='554'/>
+      <part name='L01' x='1658' y='533'/>
+      <part name='L02' x='1675' y='530'/>
+      <part name='L03' x='1673' y='546'/>
+      <part name='M01' x='1689' y='555'/>
+      <part name='M02' x='1692' y='555'/>
+      <part name='R01' x='1700' y='528'/>
+      <part name='R02' x='1721' y='528'/>
+      <part name='R03' x='1710' y='542'/>
+    </box>
+    <box top='756' left='1697' width='127' height='122'>
+      <part name='C01' x='1732' y='862'/>
+      <part name='C02' x='1763' y='871'/>
+      <part name='C03' x='1792' y='851'/>
+      <part name='L01' x='1720' y='835'/>
+      <part name='L02' x='1739' y='829'/>
+      <part name='L03' x='1738' y='845'/>
+      <part name='M01' x='1756' y='856'/>
+      <part name='M02' x='1759' y='854'/>
+      <part name='R01' x='1761' y='821'/>
+      <part name='R02' x='1789' y='820'/>
+      <part name='R03' x='1777' y='836'/>
+    </box>
+    <box top='867' left='1526' width='94' height='82'>
+      <part name='C01' x='1548' y='927'/>
+      <part name='C02' x='1570' y='941'/>
+      <part name='C03' x='1590' y='934'/>
+      <part name='L01' x='1550' y='909'/>
+      <part name='L02' x='1569' y='909'/>
+      <part name='L03' x='1560' y='919'/>
+      <part name='M01' x='1570' y='929'/>
+      <part name='M02' x='1573' y='931'/>
+      <part name='R01' x='1584' y='914'/>
+      <part name='R02' x='1597' y='915'/>
+      <part name='R03' x='1586' y='924'/>
+    </box>
+    <box top='1079' left='1631' width='154' height='135'>
+      <part name='C01' x='1661' y='1184'/>
+      <part name='C02' x='1694' y='1206'/>
+      <part name='C03' x='1730' y='1191'/>
+      <part name='L01' x='1656' y='1154'/>
+      <part name='L02' x='1683' y='1151'/>
+      <part name='L03' x='1674' y='1172'/>
+      <part name='M01' x='1688' y='1185'/>
+      <part name='M02' x='1704' y='1185'/>
+      <part name='R01' x='1712' y='1154'/>
+      <part name='R02' x='1739' y='1158'/>
+      <part name='R03' x='1722' y='1174'/>
+    </box>
+    <box top='207' left='1271' width='107' height='90'>
+      <part name='C01' x='1292' y='282'/>
+      <part name='C02' x='1314' y='292'/>
+      <part name='C03' x='1337' y='282'/>
+      <part name='L01' x='1296' y='269'/>
+      <part name='L02' x='1299' y='269'/>
+      <part name='L03' x='1298' y='276'/>
+      <part name='M01' x='1309' y='284'/>
+      <part name='M02' x='1311' y='284'/>
+      <part name='R01' x='1323' y='268'/>
+      <part name='R02' x='1326' y='268'/>
+      <part name='R03' x='1325' y='276'/>
+    </box>
+    <box top='475' left='1167' width='203' height='183'>
+      <part name='C01' x='1223' y='628'/>
+      <part name='C02' x='1263' y='645'/>
+      <part name='C03' x='1306' y='625'/>
+      <part name='L01' x='1208' y='582'/>
+      <part name='L02' x='1243' y='580'/>
+      <part name='L03' x='1232' y='602'/>
+      <part name='M01' x='1260' y='623'/>
+      <part name='M02' x='1266' y='623'/>
+      <part name='R01' x='1283' y='580'/>
+      <part name='R02' x='1319' y='581'/>
+      <part name='R03' x='1296' y='602'/>
+    </box>
+    <box top='768' left='1267' width='100' height='91'>
+      <part name='C01' x='1291' y='848'/>
+      <part name='C02' x='1313' y='857'/>
+      <part name='C03' x='1335' y='850'/>
+      <part name='L01' x='1283' y='824'/>
+      <part name='L02' x='1303' y='822'/>
+      <part name='L03' x='1295' y='835'/>
+      <part name='M01' x='1311' y='847'/>
+      <part name='M02' x='1314' y='847'/>
+      <part name='R01' x='1323' y='822'/>
+      <part name='R02' x='1343' y='825'/>
+      <part name='R03' x='1332' y='835'/>
+    </box>
+    <box top='1077' left='1256' width='128' height='125'>
+      <part name='C01' x='1289' y='1184'/>
+      <part name='C02' x='1318' y='1190'/>
+      <part name='C03' x='1339' y='1172'/>
+      <part name='L01' x='1276' y='1160'/>
+      <part name='L02' x='1293' y='1156'/>
+      <part name='L03' x='1293' y='1169'/>
+      <part name='M01' x='1307' y='1178'/>
+      <part name='M02' x='1319' y='1173'/>
+      <part name='R01' x='1314' y='1147'/>
+      <part name='R02' x='1337' y='1144'/>
+      <part name='R03' x='1327' y='1159'/>
+    </box>
+    <box top='441' left='603' width='208' height='202'>
+      <part name='C01' x='660' y='602'/>
+      <part name='C02' x='713' y='626'/>
+      <part name='C03' x='758' y='600'/>
+      <part name='L01' x='661' y='570'/>
+      <part name='L02' x='698' y='556'/>
+      <part name='L03' x='686' y='588'/>
+      <part name='M01' x='706' y='608'/>
+      <part name='M02' x='721' y='605'/>
+      <part name='R01' x='739' y='560'/>
+      <part name='R02' x='771' y='555'/>
+      <part name='R03' x='746' y='586'/>
+    </box>
+    <box top='739' left='700' width='122' height='115'>
+      <part name='C01' x='720' y='832'/>
+      <part name='C02' x='741' y='850'/>
+      <part name='C03' x='769' y='843'/>
+      <part name='L01' x='718' y='807'/>
+      <part name='L02' x='738' y='805'/>
+      <part name='L03' x='729' y='819'/>
+      <part name='M01' x='744' y='836'/>
+      <part name='M02' x='747' y='837'/>
+      <part name='R01' x='761' y='809'/>
+      <part name='R02' x='782' y='815'/>
+      <part name='R03' x='768' y='826'/>
+    </box>
+    <box top='1102' left='714' width='70' height='71'>
+      <part name='C01' x='731' y='1162'/>
+      <part name='C02' x='748' y='1169'/>
+      <part name='C03' x='763' y='1161'/>
+      <part name='L01' x='735' y='1154'/>
+      <part name='L02' x='737' y='1154'/>
+      <part name='L03' x='736' y='1158'/>
+      <part name='M01' x='744' y='1162'/>
+      <part name='M02' x='750' y='1162'/>
+      <part name='R01' x='755' y='1153'/>
+      <part name='R02' x='757' y='1153'/>
+      <part name='R03' x='756' y='1157'/>
+    </box>
+    <box top='100' left='183' width='204' height='186'>
+      <part name='C01' x='228' y='235'/>
+      <part name='C02' x='270' y='270'/>
+      <part name='C03' x='319' y='257'/>
+      <part name='L01' x='236' y='206'/>
+      <part name='L02' x='264' y='210'/>
+      <part name='L03' x='249' y='207'/>
+      <part name='M01' x='266' y='245'/>
+      <part name='M02' x='285' y='248'/>
+      <part name='R01' x='304' y='219'/>
+      <part name='R02' x='329' y='227'/>
+      <part name='R03' x='318' y='222'/>
+    </box>
+    <box top='730' left='177' width='247' height='220'>
+      <part name='C01' x='236' y='892'/>
+      <part name='C02' x='278' y='913'/>
+      <part name='C03' x='320' y='894'/>
+      <part name='L01' x='228' y='859'/>
+      <part name='L02' x='252' y='861'/>
+      <part name='L03' x='240' y='858'/>
+      <part name='M01' x='267' y='891'/>
+      <part name='M02' x='287' y='895'/>
+      <part name='R01' x='294' y='861'/>
+      <part name='R02' x='326' y='864'/>
+      <part name='R03' x='312' y='862'/>
+    </box>
+    <box top='1106' left='308' width='107' height='87'>
+      <part name='C01' x='337' y='1179'/>
+      <part name='C02' x='361' y='1184'/>
+      <part name='C03' x='375' y='1170'/>
+      <part name='L01' x='329' y='1164'/>
+      <part name='L02' x='341' y='1157'/>
+      <part name='L03' x='342' y='1170'/>
+      <part name='M01' x='354' y='1176'/>
+      <part name='M02' x='358' y='1174'/>
+      <part name='R01' x='357' y='1150'/>
+      <part name='R02' x='374' y='1148'/>
+      <part name='R03' x='368' y='1162'/>
+    </box>
+    <box top='1144' left='168' width='86' height='81'>
+      <part name='C01' x='188' y='1206'/>
+      <part name='C02' x='209' y='1218'/>
+      <part name='C03' x='228' y='1213'/>
+      <part name='L01' x='195' y='1183'/>
+      <part name='L02' x='208' y='1186'/>
+      <part name='L03' x='201' y='1199'/>
+      <part name='M01' x='211' y='1208'/>
+      <part name='M02' x='214' y='1209'/>
+      <part name='R01' x='223' y='1190'/>
+      <part name='R02' x='234' y='1191'/>
+      <part name='R03' x='225' y='1203'/>
+    </box>
+    <box top='450' left='177' width='212' height='188'>
+      <part name='C01' x='248' y='607'/>
+      <part name='C02' x='289' y='611'/>
+      <part name='C03' x='328' y='580'/>
+      <part name='L01' x='225' y='573'/>
+      <part name='L02' x='251' y='559'/>
+      <part name='L03' x='252' y='585'/>
+      <part name='M01' x='282' y='594'/>
+      <part name='M02' x='285' y='593'/>
+      <part name='R01' x='290' y='542'/>
+      <part name='R02' x='322' y='534'/>
+      <part name='R03' x='310' y='559'/>
+    </box>
+    <box top='295' left='768' width='65' height='54'>
+      <part name='C01' x='792' y='342'/>
+      <part name='C02' x='807' y='341'/>
+      <part name='C03' x='816' y='333'/>
+      <part name='L01' x='789' y='335'/>
+      <part name='L02' x='795' y='331'/>
+      <part name='L03' x='793' y='334'/>
+      <part name='M01' x='802' y='338'/>
+      <part name='M02' x='806' y='335'/>
+      <part name='R01' x='806' y='326'/>
+      <part name='R02' x='813' y='323'/>
+      <part name='R03' x='810' y='325'/>
+    </box>
+  </image>
+  <image file='007.jpg'>
+    <box top='134' left='1585' width='143' height='120'>
+      <part name='C01' x='1637' y='238'/>
+      <part name='C02' x='1670' y='245'/>
+      <part name='C03' x='1692' y='223'/>
+      <part name='L01' x='1629' y='217'/>
+      <part name='L02' x='1647' y='206'/>
+      <part name='L03' x='1645' y='221'/>
+      <part name='M01' x='1661' y='232'/>
+      <part name='M02' x='1671' y='228'/>
+      <part name='R01' x='1673' y='200'/>
+      <part name='R02' x='1691' y='197'/>
+      <part name='R03' x='1681' y='213'/>
+    </box>
+    <box top='418' left='1576' width='255' height='217'>
+      <part name='C01' x='1620' y='591'/>
+      <part name='C02' x='1665' y='630'/>
+      <part name='C03' x='1726' y='612'/>
+      <part name='L01' x='1615' y='543'/>
+      <part name='L02' x='1646' y='542'/>
+      <part name='L03' x='1636' y='571'/>
+      <part name='M01' x='1661' y='596'/>
+      <part name='M02' x='1679' y='602'/>
+      <part name='R01' x='1691' y='549'/>
+      <part name='R02' x='1735' y='564'/>
+      <part name='R03' x='1705' y='581'/>
+    </box>
+    <box top='1132' left='1692' width='187' height='180'>
+      <part name='C01' x='1744' y='1278'/>
+      <part name='C02' x='1792' y='1301'/>
+      <part name='C03' x='1838' y='1283'/>
+      <part name='L01' x='1734' y='1229'/>
+      <part name='L02' x='1768' y='1227'/>
+      <part name='L03' x='1758' y='1255'/>
+      <part name='M01' x='1787' y='1278'/>
+      <part name='M02' x='1794' y='1278'/>
+      <part name='R01' x='1810' y='1225'/>
+      <part name='R02' x='1851' y='1229'/>
+      <part name='R03' x='1826' y='1254'/>
+    </box>
+    <box top='128' left='1115' width='139' height='125'>
+      <part name='C01' x='1161' y='230'/>
+      <part name='C02' x='1196' y='240'/>
+      <part name='C03' x='1219' y='223'/>
+      <part name='L01' x='1160' y='212'/>
+      <part name='L02' x='1178' y='207'/>
+      <part name='L03' x='1170' y='209'/>
+      <part name='M01' x='1188' y='231'/>
+      <part name='M02' x='1197' y='227'/>
+      <part name='R01' x='1205' y='205'/>
+      <part name='R02' x='1222' y='204'/>
+      <part name='R03' x='1213' y='203'/>
+    </box>
+    <box top='582' left='1175' width='112' height='101'>
+      <part name='C01' x='1199' y='667'/>
+      <part name='C02' x='1228' y='678'/>
+      <part name='C03' x='1255' y='668'/>
+      <part name='L01' x='1199' y='649'/>
+      <part name='L02' x='1215' y='646'/>
+      <part name='L03' x='1208' y='648'/>
+      <part name='M01' x='1222' y='664'/>
+      <part name='M02' x='1233' y='664'/>
+      <part name='R01' x='1240' y='647'/>
+      <part name='R02' x='1257' y='650'/>
+      <part name='R03' x='1249' y='647'/>
+    </box>
+    <box top='760' left='1172' width='135' height='123'>
+      <part name='C01' x='1218' y='861'/>
+      <part name='C02' x='1260' y='871'/>
+      <part name='C03' x='1286' y='848'/>
+      <part name='L01' x='1209' y='831'/>
+      <part name='L02' x='1233' y='819'/>
+      <part name='L03' x='1229' y='839'/>
+      <part name='M01' x='1253' y='850'/>
+      <part name='M02' x='1259' y='849'/>
+      <part name='R01' x='1262' y='818'/>
+      <part name='R02' x='1282' y='816'/>
+      <part name='R03' x='1273' y='832'/>
+    </box>
+    <box top='1123' left='1036' width='200' height='191'>
+      <part name='C01' x='1074' y='1278'/>
+      <part name='C02' x='1129' y='1308'/>
+      <part name='C03' x='1179' y='1282'/>
+      <part name='L01' x='1074' y='1236'/>
+      <part name='L02' x='1113' y='1227'/>
+      <part name='L03' x='1099' y='1256'/>
+      <part name='M01' x='1127' y='1279'/>
+      <part name='M02' x='1137' y='1279'/>
+      <part name='R01' x='1153' y='1231'/>
+      <part name='R02' x='1187' y='1236'/>
+      <part name='R03' x='1166' y='1258'/>
+    </box>
+    <box top='125' left='702' width='127' height='114'>
+      <part name='C01' x='732' y='215'/>
+      <part name='C02' x='765' y='232'/>
+      <part name='C03' x='792' y='217'/>
+      <part name='L01' x='733' y='195'/>
+      <part name='L02' x='755' y='190'/>
+      <part name='L03' x='746' y='204'/>
+      <part name='M01' x='764' y='219'/>
+      <part name='M02' x='767' y='218'/>
+      <part name='R01' x='777' y='191'/>
+      <part name='R02' x='796' y='193'/>
+      <part name='R03' x='785' y='205'/>
+    </box>
+    <box top='215' left='557' width='92' height='85'>
+      <part name='C01' x='580' y='285'/>
+      <part name='C02' x='600' y='296'/>
+      <part name='C03' x='623' y='288'/>
+      <part name='L01' x='577' y='266'/>
+      <part name='L02' x='593' y='265'/>
+      <part name='L03' x='586' y='276'/>
+      <part name='M01' x='600' y='288'/>
+      <part name='M02' x='603' y='288'/>
+      <part name='R01' x='612' y='266'/>
+      <part name='R02' x='628' y='268'/>
+      <part name='R03' x='618' y='278'/>
+    </box>
+    <box top='449' left='641' width='188' height='189'>
+      <part name='C01' x='693' y='589'/>
+      <part name='C02' x='744' y='612'/>
+      <part name='C03' x='783' y='584'/>
+      <part name='L01' x='695' y='563'/>
+      <part name='L02' x='728' y='554'/>
+      <part name='L03' x='718' y='577'/>
+      <part name='M01' x='738' y='599'/>
+      <part name='M02' x='750' y='593'/>
+      <part name='R01' x='765' y='552'/>
+      <part name='R02' x='791' y='542'/>
+      <part name='R03' x='772' y='569'/>
+    </box>
+    <box top='760' left='595' width='147' height='137'>
+      <part name='C01' x='642' y='879'/>
+      <part name='C02' x='693' y='882'/>
+      <part name='C03' x='719' y='855'/>
+      <part name='L01' x='648' y='863'/>
+      <part name='L02' x='672' y='856'/>
+      <part name='L03' x='662' y='862'/>
+      <part name='M01' x='678' y='872'/>
+      <part name='M02' x='699' y='863'/>
+      <part name='R01' x='698' y='844'/>
+      <part name='R02' x='717' y='831'/>
+      <part name='R03' x='712' y='842'/>
+    </box>
+    <box top='135' left='321' width='126' height='106'>
+      <part name='C01' x='356' y='228'/>
+      <part name='C02' x='381' y='235'/>
+      <part name='C03' x='402' y='223'/>
+      <part name='L01' x='344' y='202'/>
+      <part name='L02' x='361' y='197'/>
+      <part name='L03' x='359' y='212'/>
+      <part name='M01' x='378' y='222'/>
+      <part name='M02' x='380' y='221'/>
+      <part name='R01' x='384' y='193'/>
+      <part name='R02' x='407' y='192'/>
+      <part name='R03' x='394' y='204'/>
+    </box>
+    <box top='198' left='146' width='93' height='86'>
+      <part name='C01' x='166' y='268'/>
+      <part name='C02' x='186' y='277'/>
+      <part name='C03' x='208' y='268'/>
+      <part name='L01' x='163' y='252'/>
+      <part name='L02' x='176' y='250'/>
+      <part name='L03' x='170' y='250'/>
+      <part name='M01' x='181' y='265'/>
+      <part name='M02' x='190' y='265'/>
+      <part name='R01' x='198' y='251'/>
+      <part name='R02' x='210' y='253'/>
+      <part name='R03' x='204' y='251'/>
+    </box>
+    <box top='753' left='228' width='137' height='121'>
+      <part name='C01' x='258' y='852'/>
+      <part name='C02' x='289' y='864'/>
+      <part name='C03' x='315' y='844'/>
+      <part name='L01' x='250' y='828'/>
+      <part name='L02' x='268' y='820'/>
+      <part name='L03' x='265' y='836'/>
+      <part name='M01' x='280' y='847'/>
+      <part name='M02' x='293' y='843'/>
+      <part name='R01' x='292' y='815'/>
+      <part name='R02' x='316' y='812'/>
+      <part name='R03' x='304' y='827'/>
+    </box>
+    <box top='1053' left='306' width='114' height='110'>
+      <part name='C01' x='318' y='1130'/>
+      <part name='C02' x='336' y='1150'/>
+      <part name='C03' x='369' y='1143'/>
+      <part name='L01' x='320' y='1104'/>
+      <part name='L02' x='336' y='1109'/>
+      <part name='L03' x='328' y='1121'/>
+      <part name='M01' x='338' y='1137'/>
+      <part name='M02' x='341' y='1139'/>
+      <part name='R01' x='355' y='1115'/>
+      <part name='R02' x='375' y='1121'/>
+      <part name='R03' x='360' y='1129'/>
+    </box>
+    <box top='881' left='1711' width='94' height='82'>
+      <part name='C01' x='1729' y='942'/>
+      <part name='C02' x='1746' y='951'/>
+      <part name='C03' x='1764' y='948'/>
+      <part name='L01' x='1733' y='928'/>
+      <part name='L02' x='1736' y='928'/>
+      <part name='L03' x='1735' y='934'/>
+      <part name='M01' x='1742' y='943'/>
+      <part name='M02' x='1753' y='944'/>
+      <part name='R01' x='1756' y='928'/>
+      <part name='R02' x='1759' y='928'/>
+      <part name='R03' x='1757' y='934'/>
+    </box>
+    <box top='480' left='1065' width='62' height='45'>
+      <part name='C01' x='1088' y='520'/>
+      <part name='C02' x='1101' y='520'/>
+      <part name='C03' x='1111' y='513'/>
+      <part name='L01' x='1088' y='514'/>
+      <part name='L02' x='1092' y='511'/>
+      <part name='L03' x='1092' y='516'/>
+      <part name='M01' x='1099' y='517'/>
+      <part name='M02' x='1100' y='517'/>
+      <part name='R01' x='1102' y='508'/>
+      <part name='R02' x='1107' y='506'/>
+      <part name='R03' x='1106' y='511'/>
+    </box>
+    <box top='445' left='1145' width='56' height='49'>
+      <part name='C01' x='1168' y='487'/>
+      <part name='C02' x='1178' y='491'/>
+      <part name='C03' x='1188' y='486'/>
+      <part name='L01' x='1170' y='479'/>
+      <part name='L02' x='1173' y='479'/>
+      <part name='L03' x='1172' y='484'/>
+      <part name='M01' x='1178' y='487'/>
+      <part name='M02' x='1179' y='487'/>
+      <part name='R01' x='1184' y='479'/>
+      <part name='R02' x='1187' y='479'/>
+      <part name='R03' x='1185' y='483'/>
+    </box>
+  </image>
+  <image file='008.jpg'>
+    <box top='117' left='1702' width='166' height='152'>
+      <part name='C01' x='1724' y='224'/>
+      <part name='C02' x='1742' y='249'/>
+      <part name='C03' x='1783' y='249'/>
+      <part name='L01' x='1729' y='191'/>
+      <part name='L02' x='1752' y='198'/>
+      <part name='L03' x='1737' y='211'/>
+      <part name='M01' x='1745' y='235'/>
+      <part name='M02' x='1754' y='241'/>
+      <part name='R01' x='1778' y='210'/>
+      <part name='R02' x='1800' y='222'/>
+      <part name='R03' x='1779' y='232'/>
+    </box>
+    <box top='188' left='1492' width='181' height='186'>
+      <part name='C01' x='1529' y='327'/>
+      <part name='C02' x='1559' y='364'/>
+      <part name='C03' x='1602' y='360'/>
+      <part name='L01' x='1542' y='297'/>
+      <part name='L02' x='1572' y='312'/>
+      <part name='L03' x='1551' y='322'/>
+      <part name='M01' x='1565' y='354'/>
+      <part name='M02' x='1571' y='354'/>
+      <part name='R01' x='1602' y='324'/>
+      <part name='R02' x='1629' y='327'/>
+      <part name='R03' x='1602' y='341'/>
+    </box>
+    <box top='421' left='1558' width='276' height='207'>
+      <part name='C01' x='1642' y='597'/>
+      <part name='C02' x='1695' y='616'/>
+      <part name='C03' x='1739' y='584'/>
+      <part name='L01' x='1632' y='543'/>
+      <part name='L02' x='1679' y='543'/>
+      <part name='L03' x='1659' y='563'/>
+      <part name='M01' x='1684' y='594'/>
+      <part name='M02' x='1702' y='587'/>
+      <part name='R01' x='1717' y='539'/>
+      <part name='R02' x='1748' y='524'/>
+      <part name='R03' x='1727' y='557'/>
+    </box>
+    <box top='840' left='1728' width='85' height='88'>
+      <part name='C01' x='1744' y='909'/>
+      <part name='C02' x='1759' y='920'/>
+      <part name='C03' x='1780' y='917'/>
+      <part name='L01' x='1751' y='892'/>
+      <part name='L02' x='1755' y='893'/>
+      <part name='L03' x='1751' y='898'/>
+      <part name='M01' x='1755' y='910'/>
+      <part name='M02' x='1770' y='914'/>
+      <part name='R01' x='1778' y='898'/>
+      <part name='R02' x='1782' y='900'/>
+      <part name='R03' x='1777' y='905'/>
+    </box>
+    <box top='118' left='605' width='122' height='119'>
+      <part name='C01' x='659' y='225'/>
+      <part name='C02' x='690' y='224'/>
+      <part name='C03' x='703' y='201'/>
+      <part name='L01' x='637' y='204'/>
+      <part name='L02' x='657' y='200'/>
+      <part name='L03' x='656' y='212'/>
+      <part name='M01' x='681' y='217'/>
+      <part name='M02' x='683' y='216'/>
+      <part name='R01' x='675' y='187'/>
+      <part name='R02' x='694' y='173'/>
+      <part name='R03' x='691' y='192'/>
+    </box>
+    <box top='293' left='1305' width='80' height='79'>
+      <part name='C01' x='1320' y='358'/>
+      <part name='C02' x='1340' y='368'/>
+      <part name='C03' x='1364' y='359'/>
+      <part name='L01' x='1316' y='337'/>
+      <part name='L02' x='1331' y='334'/>
+      <part name='L03' x='1327' y='347'/>
+      <part name='M01' x='1339' y='357'/>
+      <part name='M02' x='1341' y='357'/>
+      <part name='R01' x='1351' y='334'/>
+      <part name='R02' x='1367' y='337'/>
+      <part name='R03' x='1356' y='346'/>
+    </box>
+    <box top='254' left='1201' width='91' height='89'>
+      <part name='C01' x='1217' y='327'/>
+      <part name='C02' x='1242' y='339'/>
+      <part name='C03' x='1263' y='325'/>
+      <part name='L01' x='1214' y='306'/>
+      <part name='L02' x='1226' y='300'/>
+      <part name='L03' x='1223' y='313'/>
+      <part name='M01' x='1234' y='323'/>
+      <part name='M02' x='1248' y='321'/>
+      <part name='R01' x='1247' y='295'/>
+      <part name='R02' x='1267' y='295'/>
+      <part name='R03' x='1256' y='307'/>
+    </box>
+    <box top='509' left='1265' width='90' height='94'>
+      <part name='C01' x='1280' y='588'/>
+      <part name='C02' x='1310' y='599'/>
+      <part name='C03' x='1334' y='581'/>
+      <part name='L01' x='1286' y='571'/>
+      <part name='L02' x='1289' y='571'/>
+      <part name='L03' x='1288' y='577'/>
+      <part name='M01' x='1300' y='589'/>
+      <part name='M02' x='1316' y='587'/>
+      <part name='R01' x='1318' y='567'/>
+      <part name='R02' x='1322' y='567'/>
+      <part name='R03' x='1321' y='573'/>
+    </box>
+    <box top='1091' left='1199' width='144' height='126'>
+      <part name='C01' x='1229' y='1197'/>
+      <part name='C02' x='1268' y='1213'/>
+      <part name='C03' x='1304' y='1196'/>
+      <part name='L01' x='1220' y='1154'/>
+      <part name='L02' x='1250' y='1155'/>
+      <part name='L03' x='1237' y='1173'/>
+      <part name='M01' x='1261' y='1196'/>
+      <part name='M02' x='1275' y='1196'/>
+      <part name='R01' x='1285' y='1156'/>
+      <part name='R02' x='1314' y='1152'/>
+      <part name='R03' x='1298' y='1173'/>
+    </box>
+    <box top='522' left='600' width='100' height='90'>
+      <part name='C01' x='642' y='605'/>
+      <part name='C02' x='667' y='605'/>
+      <part name='C03' x='682' y='584'/>
+      <part name='L01' x='623' y='582'/>
+      <part name='L02' x='637' y='578'/>
+      <part name='L03' x='640' y='591'/>
+      <part name='M01' x='657' y='597'/>
+      <part name='M02' x='664' y='592'/>
+      <part name='R01' x='654' y='568'/>
+      <part name='R02' x='673' y='557'/>
+      <part name='R03' x='668' y='574'/>
+    </box>
+    <box top='746' left='604' width='207' height='188'>
+      <part name='C01' x='648' y='898'/>
+      <part name='C02' x='698' y='923'/>
+      <part name='C03' x='753' y='896'/>
+      <part name='L01' x='634' y='844'/>
+      <part name='L02' x='667' y='853'/>
+      <part name='L03' x='658' y='872'/>
+      <part name='M01' x='685' y='899'/>
+      <part name='M02' x='702' y='903'/>
+      <part name='R01' x='706' y='850'/>
+      <part name='R02' x='749' y='855'/>
+      <part name='R03' x='727' y='874'/>
+    </box>
+    <box top='1102' left='711' width='105' height='113'>
+      <part name='C01' x='727' y='1198'/>
+      <part name='C02' x='758' y='1213'/>
+      <part name='C03' x='786' y='1199'/>
+      <part name='L01' x='727' y='1170'/>
+      <part name='L02' x='747' y='1171'/>
+      <part name='L03' x='740' y='1182'/>
+      <part name='M01' x='751' y='1200'/>
+      <part name='M02' x='765' y='1199'/>
+      <part name='R01' x='770' y='1173'/>
+      <part name='R02' x='791' y='1172'/>
+      <part name='R03' x='780' y='1184'/>
+    </box>
+    <box top='120' left='356' width='104' height='106'>
+      <part name='C01' x='368' y='200'/>
+      <part name='C02' x='386' y='220'/>
+      <part name='C03' x='411' y='217'/>
+      <part name='L01' x='370' y='178'/>
+      <part name='L02' x='386' y='180'/>
+      <part name='L03' x='378' y='192'/>
+      <part name='M01' x='387' y='207'/>
+      <part name='M02' x='395' y='210'/>
+      <part name='R01' x='408' y='186'/>
+      <part name='R02' x='426' y='195'/>
+      <part name='R03' x='411' y='202'/>
+    </box>
+    <box top='861' left='355' width='93' height='85'>
+      <part name='C01' x='374' y='933'/>
+      <part name='C02' x='402' y='939'/>
+      <part name='C03' x='422' y='929'/>
+      <part name='L01' x='373' y='920'/>
+      <part name='L02' x='387' y='920'/>
+      <part name='L03' x='381' y='924'/>
+      <part name='M01' x='395' y='935'/>
+      <part name='M02' x='406' y='932'/>
+      <part name='R01' x='408' y='917'/>
+      <part name='R02' x='425' y='914'/>
+      <part name='R03' x='417' y='920'/>
+    </box>
+    <box top='749' left='75' width='121' height='121'>
+      <part name='C01' x='101' y='842'/>
+      <part name='C02' x='130' y='866'/>
+      <part name='C03' x='162' y='855'/>
+      <part name='L01' x='107' y='812'/>
+      <part name='L02' x='131' y='818'/>
+      <part name='L03' x='118' y='831'/>
+      <part name='M01' x='132' y='851'/>
+      <part name='M02' x='139' y='851'/>
+      <part name='R01' x='155' y='826'/>
+      <part name='R02' x='176' y='826'/>
+      <part name='R03' x='156' y='841'/>
+    </box>
+    <box top='1138' left='192' width='109' height='103'>
+      <part name='C01' x='221' y='1225'/>
+      <part name='C02' x='251' y='1236'/>
+      <part name='C03' x='274' y='1223'/>
+      <part name='L01' x='210' y='1197'/>
+      <part name='L02' x='233' y='1198'/>
+      <part name='L03' x='227' y='1211'/>
+      <part name='M01' x='246' y='1225'/>
+      <part name='M02' x='257' y='1224'/>
+      <part name='R01' x='257' y='1192'/>
+      <part name='R02' x='276' y='1189'/>
+      <part name='R03' x='269' y='1204'/>
+    </box>
+    <box top='327' left='837' width='51' height='44'>
+      <part name='C01' x='853' y='365'/>
+      <part name='C02' x='868' y='365'/>
+      <part name='C03' x='877' y='358'/>
+      <part name='L01' x='854' y='358'/>
+      <part name='L02' x='858' y='357'/>
+      <part name='L03' x='859' y='361'/>
+      <part name='M01' x='865' y='363'/>
+      <part name='M02' x='866' y='363'/>
+      <part name='R01' x='869' y='353'/>
+      <part name='R02' x='873' y='352'/>
+      <part name='R03' x='872' y='357'/>
+    </box>
+    <box top='147' left='518' width='55' height='52'>
+      <part name='C01' x='532' y='188'/>
+      <part name='C02' x='544' y='194'/>
+      <part name='C03' x='559' y='189'/>
+      <part name='L01' x='535' y='180'/>
+      <part name='L02' x='537' y='180'/>
+      <part name='L03' x='536' y='183'/>
+      <part name='M01' x='542' y='190'/>
+      <part name='M02' x='546' y='190'/>
+      <part name='R01' x='552' y='182'/>
+      <part name='R02' x='554' y='182'/>
+      <part name='R03' x='553' y='185'/>
+    </box>
+    <box top='204' left='202' width='51' height='56'>
+      <part name='C01' x='207' y='242'/>
+      <part name='C02' x='218' y='256'/>
+      <part name='C03' x='234' y='255'/>
+      <part name='L01' x='212' y='228'/>
+      <part name='L02' x='221' y='233'/>
+      <part name='L03' x='214' y='237'/>
+      <part name='M01' x='219' y='249'/>
+      <part name='M02' x='222' y='250'/>
+      <part name='R01' x='234' y='238'/>
+      <part name='R02' x='242' y='242'/>
+      <part name='R03' x='234' y='246'/>
+    </box>
+    <box top='206' left='131' width='49' height='56'>
+      <part name='C01' x='135' y='241'/>
+      <part name='C02' x='144' y='254'/>
+      <part name='C03' x='161' y='255'/>
+      <part name='L01' x='139' y='229'/>
+      <part name='L02' x='147' y='233'/>
+      <part name='L03' x='141' y='237'/>
+      <part name='M01' x='146' y='249'/>
+      <part name='M02' x='147' y='249'/>
+      <part name='R01' x='161' y='239'/>
+      <part name='R02' x='169' y='243'/>
+      <part name='R03' x='161' y='246'/>
+    </box>
+  </image>
+  <image file='009.jpg'>
+    <box top='172' left='1688' width='99' height='93'>
+      <part name='C01' x='1715' y='254'/>
+      <part name='C02' x='1745' y='261'/>
+      <part name='C03' x='1768' y='243'/>
+      <part name='L01' x='1706' y='229'/>
+      <part name='L02' x='1723' y='226'/>
+      <part name='L03' x='1721' y='239'/>
+      <part name='M01' x='1738' y='250'/>
+      <part name='M02' x='1744' y='248'/>
+      <part name='R01' x='1744' y='219'/>
+      <part name='R02' x='1765' y='215'/>
+      <part name='R03' x='1755' y='229'/>
+    </box>
+    <box top='437' left='1597' width='140' height='137'>
+      <part name='C01' x='1644' y='559'/>
+      <part name='C02' x='1679' y='568'/>
+      <part name='C03' x='1710' y='545'/>
+      <part name='L01' x='1626' y='526'/>
+      <part name='L02' x='1650' y='521'/>
+      <part name='L03' x='1647' y='538'/>
+      <part name='M01' x='1673' y='550'/>
+      <part name='M02' x='1679' y='547'/>
+      <part name='R01' x='1677' y='508'/>
+      <part name='R02' x='1705' y='500'/>
+      <part name='R03' x='1693' y='520'/>
+    </box>
+    <box top='765' left='1574' width='195' height='164'>
+      <part name='C01' x='1657' y='909'/>
+      <part name='C02' x='1702' y='915'/>
+      <part name='C03' x='1737' y='882'/>
+      <part name='L01' x='1643' y='880'/>
+      <part name='L02' x='1673' y='864'/>
+      <part name='L03' x='1668' y='887'/>
+      <part name='M01' x='1701' y='900'/>
+      <part name='M02' x='1705' y='898'/>
+      <part name='R01' x='1712' y='853'/>
+      <part name='R02' x='1737' y='837'/>
+      <part name='R03' x='1723' y='868'/>
+    </box>
+    <box top='1081' left='1687' width='105' height='98'>
+      <part name='C01' x='1711' y='1163'/>
+      <part name='C02' x='1737' y='1177'/>
+      <part name='C03' x='1763' y='1163'/>
+      <part name='L01' x='1707' y='1141'/>
+      <part name='L02' x='1726' y='1140'/>
+      <part name='L03' x='1719' y='1149'/>
+      <part name='M01' x='1733' y='1166'/>
+      <part name='M02' x='1741' y='1167'/>
+      <part name='R01' x='1747' y='1140'/>
+      <part name='R02' x='1767' y='1140'/>
+      <part name='R03' x='1756' y='1151'/>
+    </box>
+    <box top='1142' left='1572' width='98' height='85'>
+      <part name='C01' x='1598' y='1208'/>
+      <part name='C02' x='1626' y='1221'/>
+      <part name='C03' x='1650' y='1208'/>
+      <part name='L01' x='1596' y='1184'/>
+      <part name='L02' x='1616' y='1180'/>
+      <part name='L03' x='1610' y='1194'/>
+      <part name='M01' x='1625' y='1206'/>
+      <part name='M02' x='1628' y='1206'/>
+      <part name='R01' x='1639' y='1184'/>
+      <part name='R02' x='1653' y='1185'/>
+      <part name='R03' x='1644' y='1195'/>
+    </box>
+    <box top='186' left='1293' width='124' height='115'>
+      <part name='C01' x='1312' y='277'/>
+      <part name='C02' x='1343' y='292'/>
+      <part name='C03' x='1374' y='277'/>
+      <part name='L01' x='1305' y='248'/>
+      <part name='L02' x='1327' y='244'/>
+      <part name='L03' x='1321' y='264'/>
+      <part name='M01' x='1338' y='282'/>
+      <part name='M02' x='1346' y='282'/>
+      <part name='R01' x='1355' y='248'/>
+      <part name='R02' x='1379' y='251'/>
+      <part name='R03' x='1362' y='266'/>
+    </box>
+    <box top='596' left='1314' width='92' height='90'>
+      <part name='C01' x='1327' y='673'/>
+      <part name='C02' x='1348' y='682'/>
+      <part name='C03' x='1373' y='676'/>
+      <part name='L01' x='1333' y='658'/>
+      <part name='L02' x='1336' y='658'/>
+      <part name='L03' x='1334' y='666'/>
+      <part name='M01' x='1345' y='676'/>
+      <part name='M02' x='1353' y='676'/>
+      <part name='R01' x='1363' y='662'/>
+      <part name='R02' x='1366' y='662'/>
+      <part name='R03' x='1364' y='670'/>
+    </box>
+    <box top='639' left='1208' width='89' height='73'>
+      <part name='C01' x='1230' y='700'/>
+      <part name='C02' x='1252' y='707'/>
+      <part name='C03' x='1274' y='700'/>
+      <part name='L01' x='1230' y='680'/>
+      <part name='L02' x='1241' y='680'/>
+      <part name='L03' x='1238' y='695'/>
+      <part name='M01' x='1250' y='702'/>
+      <part name='M02' x='1254' y='702'/>
+      <part name='R01' x='1261' y='679'/>
+      <part name='R02' x='1275' y='679'/>
+      <part name='R03' x='1268' y='694'/>
+    </box>
+    <box top='594' left='1099' width='83' height='81'>
+      <part name='C01' x='1118' y='665'/>
+      <part name='C02' x='1143' y='673'/>
+      <part name='C03' x='1161' y='667'/>
+      <part name='L01' x='1129' y='649'/>
+      <part name='L02' x='1132' y='649'/>
+      <part name='L03' x='1130' y='657'/>
+      <part name='M01' x='1139' y='668'/>
+      <part name='M02' x='1145' y='668'/>
+      <part name='R01' x='1156' y='652'/>
+      <part name='R02' x='1159' y='653'/>
+      <part name='R03' x='1157' y='660'/>
+    </box>
+    <box top='748' left='1127' width='221' height='200'>
+      <part name='C01' x='1172' y='889'/>
+      <part name='C02' x='1221' y='935'/>
+      <part name='C03' x='1280' y='925'/>
+      <part name='L01' x='1190' y='849'/>
+      <part name='L02' x='1225' y='855'/>
+      <part name='L03' x='1208' y='853'/>
+      <part name='M01' x='1222' y='902'/>
+      <part name='M02' x='1242' y='911'/>
+      <part name='R01' x='1271' y='876'/>
+      <part name='R02' x='1297' y='889'/>
+      <part name='R03' x='1286' y='883'/>
+    </box>
+    <box top='141' left='572' width='164' height='152'>
+      <part name='C01' x='627' y='280'/>
+      <part name='C02' x='671' y='285'/>
+      <part name='C03' x='696' y='255'/>
+      <part name='L01' x='603' y='249'/>
+      <part name='L02' x='627' y='235'/>
+      <part name='L03' x='630' y='256'/>
+      <part name='M01' x='656' y='266'/>
+      <part name='M02' x='669' y='258'/>
+      <part name='R01' x='655' y='218'/>
+      <part name='R02' x='687' y='206'/>
+      <part name='R03' x='677' y='230'/>
+    </box>
+    <box top='231' left='436' width='140' height='128'>
+      <part name='C01' x='468' y='333'/>
+      <part name='C02' x='521' y='358'/>
+      <part name='C03' x='556' y='335'/>
+      <part name='L01' x='473' y='300'/>
+      <part name='L02' x='502' y='294'/>
+      <part name='L03' x='494' y='314'/>
+      <part name='M01' x='517' y='330'/>
+      <part name='M02' x='522' y='330'/>
+      <part name='R01' x='535' y='296'/>
+      <part name='R02' x='558' y='296'/>
+      <part name='R03' x='542' y='314'/>
+    </box>
+    <box top='161' left='262' width='148' height='152'>
+      <part name='C01' x='288' y='265'/>
+      <part name='C02' x='322' y='302'/>
+      <part name='C03' x='360' y='294'/>
+      <part name='L01' x='301' y='223'/>
+      <part name='L02' x='331' y='236'/>
+      <part name='L03' x='310' y='247'/>
+      <part name='M01' x='323' y='276'/>
+      <part name='M02' x='333' y='281'/>
+      <part name='R01' x='361' y='251'/>
+      <part name='R02' x='383' y='259'/>
+      <part name='R03' x='358' y='271'/>
+    </box>
+    <box top='759' left='774' width='111' height='105'>
+      <part name='C01' x='803' y='848'/>
+      <part name='C02' x='831' y='859'/>
+      <part name='C03' x='851' y='845'/>
+      <part name='L01' x='794' y='826'/>
+      <part name='L02' x='810' y='820'/>
+      <part name='L03' x='809' y='836'/>
+      <part name='M01' x='825' y='845'/>
+      <part name='M02' x='834' y='844'/>
+      <part name='R01' x='833' y='815'/>
+      <part name='R02' x='855' y='816'/>
+      <part name='R03' x='844' y='829'/>
+    </box>
+    <box top='859' left='687' width='64' height='62'>
+      <part name='C01' x='698' y='909'/>
+      <part name='C02' x='719' y='918'/>
+      <part name='C03' x='738' y='909'/>
+      <part name='L01' x='696' y='893'/>
+      <part name='L02' x='712' y='891'/>
+      <part name='L03' x='704' y='901'/>
+      <part name='M01' x='717' y='910'/>
+      <part name='M02' x='719' y='910'/>
+      <part name='R01' x='726' y='891'/>
+      <part name='R02' x='741' y='892'/>
+      <part name='R03' x='732' y='901'/>
+    </box>
+    <box top='821' left='593' width='73' height='78'>
+      <part name='C01' x='609' y='879'/>
+      <part name='C02' x='627' y='895'/>
+      <part name='C03' x='649' y='890'/>
+      <part name='L01' x='613' y='859'/>
+      <part name='L02' x='632' y='864'/>
+      <part name='L03' x='622' y='871'/>
+      <part name='M01' x='627' y='884'/>
+      <part name='M02' x='630' y='886'/>
+      <part name='R01' x='647' y='867'/>
+      <part name='R02' x='660' y='871'/>
+      <part name='R03' x='647' y='879'/>
+    </box>
+    <box top='1102' left='605' width='123' height='116'>
+      <part name='C01' x='636' y='1199'/>
+      <part name='C02' x='674' y='1215'/>
+      <part name='C03' x='709' y='1191'/>
+      <part name='L01' x='634' y='1178'/>
+      <part name='L02' x='655' y='1173'/>
+      <part name='L03' x='645' y='1175'/>
+      <part name='M01' x='666' y='1198'/>
+      <part name='M02' x='680' y='1196'/>
+      <part name='R01' x='687' y='1170'/>
+      <part name='R02' x='707' y='1169'/>
+      <part name='R03' x='698' y='1167'/>
+    </box>
+    <box top='775' left='302' width='109' height='98'>
+      <part name='C01' x='324' y='858'/>
+      <part name='C02' x='350' y='871'/>
+      <part name='C03' x='377' y='851'/>
+      <part name='L01' x='315' y='829'/>
+      <part name='L02' x='332' y='827'/>
+      <part name='L03' x='329' y='841'/>
+      <part name='M01' x='346' y='854'/>
+      <part name='M02' x='352' y='852'/>
+      <part name='R01' x='356' y='823'/>
+      <part name='R02' x='380' y='818'/>
+      <part name='R03' x='367' y='832'/>
+    </box>
+    <box top='830' left='173' width='96' height='92'>
+      <part name='C01' x='194' y='909'/>
+      <part name='C02' x='221' y='918'/>
+      <part name='C03' x='250' y='902'/>
+      <part name='L01' x='187' y='883'/>
+      <part name='L02' x='206' y='880'/>
+      <part name='L03' x='199' y='894'/>
+      <part name='M01' x='217' y='905'/>
+      <part name='M02' x='220' y='904'/>
+      <part name='R01' x='226' y='876'/>
+      <part name='R02' x='249' y='875'/>
+      <part name='R03' x='237' y='887'/>
+    </box>
+    <box top='1172' left='230' width='69' height='66'>
+      <part name='C01' x='248' y='1230'/>
+      <part name='C02' x='266' y='1236'/>
+      <part name='C03' x='283' y='1230'/>
+      <part name='L01' x='245' y='1211'/>
+      <part name='L02' x='257' y='1212'/>
+      <part name='L03' x='253' y='1222'/>
+      <part name='M01' x='263' y='1230'/>
+      <part name='M02' x='268' y='1230'/>
+      <part name='R01' x='273' y='1212'/>
+      <part name='R02' x='285' y='1210'/>
+      <part name='R03' x='278' y='1222'/>
+    </box>
+    <box top='1213' left='115' width='66' height='59'>
+      <part name='C01' x='130' y='1263'/>
+      <part name='C02' x='149' y='1267'/>
+      <part name='C03' x='167' y='1261'/>
+      <part name='L01' x='130' y='1244'/>
+      <part name='L02' x='141' y='1244'/>
+      <part name='L03' x='137' y='1256'/>
+      <part name='M01' x='147' y='1263'/>
+      <part name='M02' x='150' y='1263'/>
+      <part name='R01' x='156' y='1244'/>
+      <part name='R02' x='167' y='1244'/>
+      <part name='R03' x='161' y='1256'/>
+    </box>
+    <box top='214' left='1152' width='134' height='129'>
+      <part name='C01' x='1202' y='322'/>
+      <part name='C02' x='1235' y='326'/>
+      <part name='C03' x='1256' y='310'/>
+      <part name='L01' x='1192' y='289'/>
+      <part name='L02' x='1214' y='280'/>
+      <part name='L03' x='1209' y='298'/>
+      <part name='M01' x='1233' y='316'/>
+      <part name='M02' x='1235' y='316'/>
+      <part name='R01' x='1238' y='281'/>
+      <part name='R02' x='1254' y='277'/>
+      <part name='R03' x='1249' y='292'/>
+    </box>
+  </image>
+  <image file='010.jpg'>
+    <box top='166' left='1679' width='108' height='96'>
+      <part name='C01' x='1691' y='236'/>
+      <part name='C02' x='1712' y='256'/>
+      <part name='C03' x='1745' y='252'/>
+      <part name='L01' x='1693' y='209'/>
+      <part name='L02' x='1713' y='212'/>
+      <part name='L03' x='1703' y='226'/>
+      <part name='M01' x='1712' y='241'/>
+      <part name='M02' x='1723' y='244'/>
+      <part name='R01' x='1735' y='218'/>
+      <part name='R02' x='1753' y='231'/>
+      <part name='R03' x='1737' y='236'/>
+    </box>
+    <box top='449' left='1571' width='108' height='101'>
+      <part name='C01' x='1598' y='535'/>
+      <part name='C02' x='1624' y='547'/>
+      <part name='C03' x='1652' y='528'/>
+      <part name='L01' x='1591' y='508'/>
+      <part name='L02' x='1608' y='507'/>
+      <part name='L03' x='1603' y='518'/>
+      <part name='M01' x='1618' y='529'/>
+      <part name='M02' x='1627' y='527'/>
+      <part name='R01' x='1625' y='500'/>
+      <part name='R02' x='1648' y='495'/>
+      <part name='R03' x='1639' y='507'/>
+    </box>
+    <box top='761' left='1555' width='108' height='116'>
+      <part name='C01' x='1579' y='855'/>
+      <part name='C02' x='1608' y='869'/>
+      <part name='C03' x='1640' y='856'/>
+      <part name='L01' x='1572' y='819'/>
+      <part name='L02' x='1593' y='826'/>
+      <part name='L03' x='1586' y='839'/>
+      <part name='M01' x='1606' y='856'/>
+      <part name='M02' x='1609' y='856'/>
+      <part name='R01' x='1617' y='826'/>
+      <part name='R02' x='1643' y='822'/>
+      <part name='R03' x='1630' y='838'/>
+    </box>
+    <box top='1085' left='1597' width='164' height='149'>
+      <part name='C01' x='1646' y='1217'/>
+      <part name='C02' x='1693' y='1223'/>
+      <part name='C03' x='1725' y='1191'/>
+      <part name='L01' x='1627' y='1185'/>
+      <part name='L02' x='1650' y='1181'/>
+      <part name='L03' x='1637' y='1183'/>
+      <part name='M01' x='1676' y='1209'/>
+      <part name='M02' x='1697' y='1201'/>
+      <part name='R01' x='1693' y='1165'/>
+      <part name='R02' x='1720' y='1156'/>
+      <part name='R03' x='1706' y='1159'/>
+    </box>
+    <box top='253' left='1238' width='66' height='63'>
+      <part name='C01' x='1251' y='304'/>
+      <part name='C02' x='1270' y='312'/>
+      <part name='C03' x='1289' y='302'/>
+      <part name='L01' x='1248' y='287'/>
+      <part name='L02' x='1259' y='286'/>
+      <part name='L03' x='1255' y='296'/>
+      <part name='M01' x='1267' y='302'/>
+      <part name='M02' x='1269' y='302'/>
+      <part name='R01' x='1275' y='283'/>
+      <part name='R02' x='1290' y='284'/>
+      <part name='R03' x='1281' y='292'/>
+    </box>
+    <box top='208' left='1137' width='72' height='76'>
+      <part name='C01' x='1151' y='268'/>
+      <part name='C02' x='1172' y='279'/>
+      <part name='C03' x='1195' y='268'/>
+      <part name='L01' x='1151' y='243'/>
+      <part name='L02' x='1167' y='247'/>
+      <part name='L03' x='1158' y='258'/>
+      <part name='M01' x='1169' y='270'/>
+      <part name='M02' x='1173' y='270'/>
+      <part name='R01' x='1184' y='249'/>
+      <part name='R02' x='1198' y='248'/>
+      <part name='R03' x='1188' y='260'/>
+    </box>
+    <box top='597' left='1200' width='73' height='68'>
+      <part name='C01' x='1217' y='656'/>
+      <part name='C02' x='1240' y='660'/>
+      <part name='C03' x='1256' y='654'/>
+      <part name='L01' x='1218' y='647'/>
+      <part name='L02' x='1231' y='649'/>
+      <part name='L03' x='1225' y='648'/>
+      <part name='M01' x='1238' y='658'/>
+      <part name='M02' x='1242' y='658'/>
+      <part name='R01' x='1248' y='648'/>
+      <part name='R02' x='1257' y='644'/>
+      <part name='R03' x='1253' y='646'/>
+    </box>
+    <box top='813' left='1283' width='99' height='94'>
+      <part name='C01' x='1307' y='896'/>
+      <part name='C02' x='1332' y='906'/>
+      <part name='C03' x='1354' y='888'/>
+      <part name='L01' x='1299' y='873'/>
+      <part name='L02' x='1313' y='867'/>
+      <part name='L03' x='1312' y='881'/>
+      <part name='M01' x='1326' y='892'/>
+      <part name='M02' x='1335' y='889'/>
+      <part name='R01' x='1335' y='862'/>
+      <part name='R02' x='1357' y='861'/>
+      <part name='R03' x='1345' y='874'/>
+    </box>
+    <box top='1098' left='1195' width='143' height='136'>
+      <part name='C01' x='1222' y='1211'/>
+      <part name='C02' x='1264' y='1229'/>
+      <part name='C03' x='1307' y='1208'/>
+      <part name='L01' x='1212' y='1169'/>
+      <part name='L02' x='1245' y='1165'/>
+      <part name='L03' x='1234' y='1187'/>
+      <part name='M01' x='1260' y='1207'/>
+      <part name='M02' x='1267' y='1207'/>
+      <part name='R01' x='1282' y='1166'/>
+      <part name='R02' x='1316' y='1168'/>
+      <part name='R03' x='1295' y='1187'/>
+    </box>
+    <box top='131' left='714' width='117' height='105'>
+      <part name='C01' x='746' y='223'/>
+      <part name='C02' x='775' y='228'/>
+      <part name='C03' x='798' y='205'/>
+      <part name='L01' x='731' y='198'/>
+      <part name='L02' x='750' y='192'/>
+      <part name='L03' x='747' y='206'/>
+      <part name='M01' x='764' y='215'/>
+      <part name='M02' x='775' y='211'/>
+      <part name='R01' x='768' y='181'/>
+      <part name='R02' x='788' y='174'/>
+      <part name='R03' x='781' y='191'/>
+    </box>
+    <box top='240' left='579' width='71' height='63'>
+      <part name='C01' x='590' y='288'/>
+      <part name='C02' x='608' y='301'/>
+      <part name='C03' x='627' y='296'/>
+      <part name='L01' x='592' y='270'/>
+      <part name='L02' x='607' y='269'/>
+      <part name='L03' x='600' y='280'/>
+      <part name='M01' x='609' y='291'/>
+      <part name='M02' x='612' y='292'/>
+      <part name='R01' x='623' y='275'/>
+      <part name='R02' x='634' y='282'/>
+      <part name='R03' x='623' y='285'/>
+    </box>
+    <box top='585' left='684' width='90' height='78'>
+      <part name='C01' x='705' y='655'/>
+      <part name='C02' x='729' y='659'/>
+      <part name='C03' x='750' y='643'/>
+      <part name='L01' x='708' y='640'/>
+      <part name='L02' x='710' y='639'/>
+      <part name='L03' x='711' y='644'/>
+      <part name='M01' x='724' y='652'/>
+      <part name='M02' x='728' y='651'/>
+      <part name='R01' x='733' y='632'/>
+      <part name='R02' x='736' y='631'/>
+      <part name='R03' x='736' y='637'/>
+    </box>
+    <box top='601' left='581' width='68' height='71'>
+      <part name='C01' x='596' y='654'/>
+      <part name='C02' x='617' y='668'/>
+      <part name='C03' x='640' y='663'/>
+      <part name='L01' x='609' y='641'/>
+      <part name='L02' x='611' y='642'/>
+      <part name='L03' x='610' y='647'/>
+      <part name='M01' x='615' y='658'/>
+      <part name='M02' x='623' y='658'/>
+      <part name='R01' x='633' y='647'/>
+      <part name='R02' x='635' y='648'/>
+      <part name='R03' x='632' y='652'/>
+    </box>
+    <box top='803' left='586' width='107' height='102'>
+      <part name='C01' x='613' y='889'/>
+      <part name='C02' x='647' y='900'/>
+      <part name='C03' x='671' y='884'/>
+      <part name='L01' x='608' y='860'/>
+      <part name='L02' x='631' y='861'/>
+      <part name='L03' x='622' y='873'/>
+      <part name='M01' x='644' y='887'/>
+      <part name='M02' x='647' y='887'/>
+      <part name='R01' x='656' y='856'/>
+      <part name='R02' x='677' y='853'/>
+      <part name='R03' x='665' y='869'/>
+    </box>
+    <box top='1088' left='619' width='189' height='170'>
+      <part name='C01' x='662' y='1239'/>
+      <part name='C02' x='708' y='1252'/>
+      <part name='C03' x='754' y='1218'/>
+      <part name='L01' x='642' y='1197'/>
+      <part name='L02' x='671' y='1184'/>
+      <part name='L03' x='670' y='1209'/>
+      <part name='M01' x='697' y='1225'/>
+      <part name='M02' x='713' y='1219'/>
+      <part name='R01' x='713' y='1168'/>
+      <part name='R02' x='749' y='1165'/>
+      <part name='R03' x='731' y='1192'/>
+    </box>
+    <box top='109' left='144' width='169' height='154'>
+      <part name='C01' x='187' y='225'/>
+      <part name='C02' x='231' y='248'/>
+      <part name='C03' x='276' y='225'/>
+      <part name='L01' x='181' y='180'/>
+      <part name='L02' x='220' y='174'/>
+      <part name='L03' x='206' y='200'/>
+      <part name='M01' x='219' y='226'/>
+      <part name='M02' x='244' y='222'/>
+      <part name='R01' x='256' y='177'/>
+      <part name='R02' x='289' y='179'/>
+      <part name='R03' x='264' y='201'/>
+    </box>
+    <box top='479' left='281' width='140' height='140'>
+      <part name='C01' x='311' y='595'/>
+      <part name='C02' x='348' y='611'/>
+      <part name='C03' x='384' y='592'/>
+      <part name='L01' x='300' y='557'/>
+      <part name='L02' x='327' y='559'/>
+      <part name='L03' x='320' y='575'/>
+      <part name='M01' x='344' y='595'/>
+      <part name='M02' x='351' y='595'/>
+      <part name='R01' x='360' y='556'/>
+      <part name='R02' x='387' y='555'/>
+      <part name='R03' x='372' y='574'/>
+    </box>
+    <box top='748' left='181' width='167' height='152'>
+      <part name='C01' x='216' y='871'/>
+      <part name='C02' x='252' y='885'/>
+      <part name='C03' x='286' y='870'/>
+      <part name='L01' x='208' y='842'/>
+      <part name='L02' x='230' y='842'/>
+      <part name='L03' x='219' y='847'/>
+      <part name='M01' x='247' y='872'/>
+      <part name='M02' x='255' y='869'/>
+      <part name='R01' x='266' y='842'/>
+      <part name='R02' x='294' y='838'/>
+      <part name='R03' x='280' y='843'/>
+    </box>
+    <box top='1255' left='379' width='50' height='47'>
+      <part name='C01' x='388' y='1289'/>
+      <part name='C02' x='399' y='1297'/>
+      <part name='C03' x='411' y='1296'/>
+      <part name='L01' x='392' y='1282'/>
+      <part name='L02' x='394' y='1282'/>
+      <part name='L03' x='393' y='1285'/>
+      <part name='M01' x='398' y='1292'/>
+      <part name='M02' x='401' y='1292'/>
+      <part name='R01' x='408' y='1285'/>
+      <part name='R02' x='410' y='1285'/>
+      <part name='R03' x='409' y='1288'/>
+    </box>
+    <box top='1269' left='137' width='51' height='46'>
+      <part name='C01' x='154' y='1310'/>
+      <part name='C02' x='168' y='1311'/>
+      <part name='C03' x='178' y='1305'/>
+      <part name='L01' x='155' y='1301'/>
+      <part name='L02' x='157' y='1301'/>
+      <part name='L03' x='156' y='1303'/>
+      <part name='M01' x='164' y='1307'/>
+      <part name='M02' x='169' y='1306'/>
+      <part name='R01' x='171' y='1297'/>
+      <part name='R02' x='173' y='1296'/>
+      <part name='R03' x='173' y='1300'/>
+    </box>
+  </image>
+  <image file='011.jpg'>
+    <box top='117' left='1674' width='156' height='138'>
+      <part name='C01' x='1719' y='244'/>
+      <part name='C02' x='1751' y='255'/>
+      <part name='C03' x='1772' y='241'/>
+      <part name='L01' x='1707' y='212'/>
+      <part name='L02' x='1727' y='205'/>
+      <part name='L03' x='1726' y='223'/>
+      <part name='M01' x='1743' y='240'/>
+      <part name='M02' x='1754' y='237'/>
+      <part name='R01' x='1756' y='199'/>
+      <part name='R02' x='1783' y='198'/>
+      <part name='R03' x='1769' y='216'/>
+    </box>
+    <box top='177' left='1525' width='123' height='104'>
+      <part name='C01' x='1564' y='266'/>
+      <part name='C02' x='1587' y='277'/>
+      <part name='C03' x='1612' y='265'/>
+      <part name='L01' x='1559' y='242'/>
+      <part name='L02' x='1578' y='243'/>
+      <part name='L03' x='1570' y='242'/>
+      <part name='M01' x='1581' y='264'/>
+      <part name='M02' x='1592' y='263'/>
+      <part name='R01' x='1602' y='243'/>
+      <part name='R02' x='1616' y='243'/>
+      <part name='R03' x='1610' y='243'/>
+    </box>
+    <box top='441' left='1692' width='143' height='126'>
+      <part name='C01' x='1727' y='546'/>
+      <part name='C02' x='1757' y='561'/>
+      <part name='C03' x='1787' y='546'/>
+      <part name='L01' x='1719' y='518'/>
+      <part name='L02' x='1744' y='517'/>
+      <part name='L03' x='1732' y='528'/>
+      <part name='M01' x='1751' y='545'/>
+      <part name='M02' x='1765' y='545'/>
+      <part name='R01' x='1769' y='517'/>
+      <part name='R02' x='1794' y='515'/>
+      <part name='R03' x='1780' y='528'/>
+    </box>
+    <box top='446' left='1545' width='132' height='126'>
+      <part name='C01' x='1575' y='543'/>
+      <part name='C02' x='1593' y='567'/>
+      <part name='C03' x='1626' y='565'/>
+      <part name='L01' x='1580' y='511'/>
+      <part name='L02' x='1606' y='520'/>
+      <part name='L03' x='1587' y='530'/>
+      <part name='M01' x='1600' y='555'/>
+      <part name='M02' x='1603' y='556'/>
+      <part name='R01' x='1627' y='532'/>
+      <part name='R02' x='1648' y='540'/>
+      <part name='R03' x='1625' y='549'/>
+    </box>
+    <box top='807' left='1470' width='177' height='164'>
+      <part name='C01' x='1518' y='944'/>
+      <part name='C02' x='1571' y='954'/>
+      <part name='C03' x='1604' y='923'/>
+      <part name='L01' x='1511' y='905'/>
+      <part name='L02' x='1540' y='895'/>
+      <part name='L03' x='1536' y='917'/>
+      <part name='M01' x='1549' y='940'/>
+      <part name='M02' x='1580' y='929'/>
+      <part name='R01' x='1574' y='887'/>
+      <part name='R02' x='1599' y='880'/>
+      <part name='R03' x='1589' y='904'/>
+    </box>
+    <box top='1082' left='1728' width='147' height='149'>
+      <part name='C01' x='1763' y='1204'/>
+      <part name='C02' x='1805' y='1218'/>
+      <part name='C03' x='1834' y='1205'/>
+      <part name='L01' x='1757' y='1170'/>
+      <part name='L02' x='1787' y='1173'/>
+      <part name='L03' x='1773' y='1189'/>
+      <part name='M01' x='1802' y='1210'/>
+      <part name='M02' x='1805' y='1210'/>
+      <part name='R01' x='1820' y='1176'/>
+      <part name='R02' x='1845' y='1171'/>
+      <part name='R03' x='1821' y='1191'/>
+    </box>
+    <box top='1137' left='1547' width='99' height='93'>
+      <part name='C01' x='1569' y='1215'/>
+      <part name='C02' x='1600' y='1226'/>
+      <part name='C03' x='1628' y='1217'/>
+      <part name='L01' x='1580' y='1202'/>
+      <part name='L02' x='1585' y='1202'/>
+      <part name='L03' x='1583' y='1210'/>
+      <part name='M01' x='1591' y='1219'/>
+      <part name='M02' x='1608' y='1219'/>
+      <part name='R01' x='1616' y='1201'/>
+      <part name='R02' x='1620' y='1201'/>
+      <part name='R03' x='1618' y='1209'/>
+    </box>
+    <box top='126' left='1107' width='161' height='136'>
+      <part name='C01' x='1188' y='249'/>
+      <part name='C02' x='1220' y='242'/>
+      <part name='C03' x='1236' y='212'/>
+      <part name='L01' x='1161' y='230'/>
+      <part name='L02' x='1176' y='217'/>
+      <part name='L03' x='1185' y='232'/>
+      <part name='M01' x='1207' y='231'/>
+      <part name='M02' x='1212' y='229'/>
+      <part name='R01' x='1195' y='194'/>
+      <part name='R02' x='1218' y='179'/>
+      <part name='R03' x='1216' y='201'/>
+    </box>
+    <box top='1229' left='1233' width='79' height='69'>
+      <part name='C01' x='1256' y='1287'/>
+      <part name='C02' x='1275' y='1292'/>
+      <part name='C03' x='1292' y='1283'/>
+      <part name='L01' x='1253' y='1273'/>
+      <part name='L02' x='1266' y='1271'/>
+      <part name='L03' x='1262' y='1282'/>
+      <part name='M01' x='1274' y='1287'/>
+      <part name='M02' x='1277' y='1286'/>
+      <part name='R01' x='1281' y='1268'/>
+      <part name='R02' x='1292' y='1267'/>
+      <part name='R03' x='1286' y='1279'/>
+    </box>
+    <box top='237' left='644' width='79' height='76'>
+      <part name='C01' x='662' y='301'/>
+      <part name='C02' x='681' y='309'/>
+      <part name='C03' x='697' y='298'/>
+      <part name='L01' x='659' y='288'/>
+      <part name='L02' x='669' y='286'/>
+      <part name='L03' x='664' y='287'/>
+      <part name='M01' x='676' y='300'/>
+      <part name='M02' x='685' y='298'/>
+      <part name='R01' x='687' y='283'/>
+      <part name='R02' x='699' y='283'/>
+      <part name='R03' x='693' y='283'/>
+    </box>
+    <box top='219' left='530' width='80' height='78'>
+      <part name='C01' x='552' y='284'/>
+      <part name='C02' x='570' y='294'/>
+      <part name='C03' x='588' y='285'/>
+      <part name='L01' x='548' y='264'/>
+      <part name='L02' x='565' y='263'/>
+      <part name='L03' x='557' y='273'/>
+      <part name='M01' x='565' y='284'/>
+      <part name='M02' x='574' y='283'/>
+      <part name='R01' x='580' y='265'/>
+      <part name='R02' x='594' y='261'/>
+      <part name='R03' x='585' y='274'/>
+    </box>
+    <box top='499' left='734' width='104' height='91'>
+      <part name='C01' x='764' y='568'/>
+      <part name='C02' x='779' y='584'/>
+      <part name='C03' x='800' y='579'/>
+      <part name='L01' x='765' y='542'/>
+      <part name='L02' x='783' y='546'/>
+      <part name='L03' x='772' y='554'/>
+      <part name='M01' x='782' y='571'/>
+      <part name='M02' x='786' y='571'/>
+      <part name='R01' x='797' y='555'/>
+      <part name='R02' x='810' y='557'/>
+      <part name='R03' x='800' y='566'/>
+    </box>
+    <box top='432' left='607' width='124' height='118'>
+      <part name='C01' x='636' y='514'/>
+      <part name='C02' x='656' y='535'/>
+      <part name='C03' x='685' y='534'/>
+      <part name='L01' x='642' y='485'/>
+      <part name='L02' x='664' y='487'/>
+      <part name='L03' x='651' y='498'/>
+      <part name='M01' x='658' y='515'/>
+      <part name='M02' x='668' y='520'/>
+      <part name='R01' x='685' y='499'/>
+      <part name='R02' x='703' y='504'/>
+      <part name='R03' x='686' y='514'/>
+    </box>
+    <box top='756' left='691' width='141' height='132'>
+      <part name='C01' x='731' y='875'/>
+      <part name='C02' x='768' y='882'/>
+      <part name='C03' x='792' y='861'/>
+      <part name='L01' x='717' y='847'/>
+      <part name='L02' x='738' y='837'/>
+      <part name='L03' x='735' y='855'/>
+      <part name='M01' x='756' y='865'/>
+      <part name='M02' x='769' y='860'/>
+      <part name='R01' x='764' y='825'/>
+      <part name='R02' x='789' y='822'/>
+      <part name='R03' x='778' y='841'/>
+    </box>
+    <box top='808' left='543' width='125' height='123'>
+      <part name='C01' x='572' y='911'/>
+      <part name='C02' x='600' y='925'/>
+      <part name='C03' x='632' y='911'/>
+      <part name='L01' x='566' y='885'/>
+      <part name='L02' x='585' y='884'/>
+      <part name='L03' x='580' y='899'/>
+      <part name='M01' x='599' y='915'/>
+      <part name='M02' x='601' y='915'/>
+      <part name='R01' x='612' y='884'/>
+      <part name='R02' x='636' y='888'/>
+      <part name='R03' x='622' y='900'/>
+    </box>
+    <box top='1052' left='606' width='150' height='131'>
+      <part name='C01' x='665' y='1170'/>
+      <part name='C02' x='705' y='1169'/>
+      <part name='C03' x='725' y='1133'/>
+      <part name='L01' x='638' y='1142'/>
+      <part name='L02' x='659' y='1131'/>
+      <part name='L03' x='663' y='1148'/>
+      <part name='M01' x='689' y='1154'/>
+      <part name='M02' x='699' y='1147'/>
+      <part name='R01' x='685' y='1112'/>
+      <part name='R02' x='709' y='1095'/>
+      <part name='R03' x='703' y='1119'/>
+    </box>
+    <box top='125' left='324' width='95' height='99'>
+      <part name='C01' x='348' y='203'/>
+      <part name='C02' x='367' y='214'/>
+      <part name='C03' x='385' y='203'/>
+      <part name='L01' x='344' y='174'/>
+      <part name='L02' x='359' y='172'/>
+      <part name='L03' x='352' y='176'/>
+      <part name='M01' x='358' y='200'/>
+      <part name='M02' x='376' y='200'/>
+      <part name='R01' x='372' y='171'/>
+      <part name='R02' x='388' y='170'/>
+      <part name='R03' x='380' y='176'/>
+    </box>
+    <box top='217' left='144' width='88' height='88'>
+      <part name='C01' x='172' y='292'/>
+      <part name='C02' x='192' y='301'/>
+      <part name='C03' x='213' y='291'/>
+      <part name='L01' x='168' y='272'/>
+      <part name='L02' x='184' y='269'/>
+      <part name='L03' x='179' y='280'/>
+      <part name='M01' x='192' y='290'/>
+      <part name='M02' x='195' y='290'/>
+      <part name='R01' x='202' y='271'/>
+      <part name='R02' x='218' y='269'/>
+      <part name='R03' x='209' y='281'/>
+    </box>
+    <box top='443' left='313' width='102' height='105'>
+      <part name='C01' x='329' y='528'/>
+      <part name='C02' x='352' y='542'/>
+      <part name='C03' x='377' y='534'/>
+      <part name='L01' x='326' y='503'/>
+      <part name='L02' x='344' y='502'/>
+      <part name='L03' x='337' y='516'/>
+      <part name='M01' x='349' y='531'/>
+      <part name='M02' x='356' y='531'/>
+      <part name='R01' x='365' y='505'/>
+      <part name='R02' x='386' y='509'/>
+      <part name='R03' x='373' y='520'/>
+    </box>
+    <box top='1083' left='285' width='135' height='133'>
+      <part name='C01' x='314' y='1198'/>
+      <part name='C02' x='349' y='1211'/>
+      <part name='C03' x='378' y='1189'/>
+      <part name='L01' x='303' y='1167'/>
+      <part name='L02' x='324' y='1162'/>
+      <part name='L03' x='321' y='1180'/>
+      <part name='M01' x='340' y='1192'/>
+      <part name='M02' x='353' y='1189'/>
+      <part name='R01' x='352' y='1154'/>
+      <part name='R02' x='378' y='1153'/>
+      <part name='R03' x='365' y='1170'/>
+    </box>
+    <box top='1139' left='139' width='115' height='118'>
+      <part name='C01' x='167' y='1233'/>
+      <part name='C02' x='199' y='1248'/>
+      <part name='C03' x='234' y='1231'/>
+      <part name='L01' x='163' y='1210'/>
+      <part name='L02' x='188' y='1207'/>
+      <part name='L03' x='179' y='1222'/>
+      <part name='M01' x='199' y='1238'/>
+      <part name='M02' x='203' y='1238'/>
+      <part name='R01' x='214' y='1207'/>
+      <part name='R02' x='239' y='1207'/>
+      <part name='R03' x='223' y='1222'/>
+    </box>
+    <box top='602' left='395' width='114' height='122'>
+      <part name='C01' x='413' y='691'/>
+      <part name='C02' x='431' y='712'/>
+      <part name='C03' x='469' y='712'/>
+      <part name='L01' x='419' y='656'/>
+      <part name='L02' x='438' y='665'/>
+      <part name='L03' x='425' y='676'/>
+      <part name='M01' x='436' y='699'/>
+      <part name='M02' x='438' y='700'/>
+      <part name='R01' x='464' y='677'/>
+      <part name='R02' x='483' y='689'/>
+      <part name='R03' x='465' y='697'/>
+    </box>
+    <box top='527' left='90' width='178' height='161'>
+      <part name='C01' x='158' y='654'/>
+      <part name='C02' x='208' y='670'/>
+      <part name='C03' x='232' y='642'/>
+      <part name='L01' x='175' y='610'/>
+      <part name='L02' x='193' y='610'/>
+      <part name='L03' x='186' y='613'/>
+      <part name='M01' x='187' y='656'/>
+      <part name='M02' x='219' y='648'/>
+      <part name='R01' x='222' y='606'/>
+      <part name='R02' x='239' y='600'/>
+      <part name='R03' x='233' y='607'/>
+    </box>
+  </image>
+  <image file='012.jpg'>
+    <box top='129' left='1695' width='128' height='134'>
+      <part name='C01' x='1713' y='232'/>
+      <part name='C02' x='1740' y='254'/>
+      <part name='C03' x='1781' y='245'/>
+      <part name='L01' x='1713' y='202'/>
+      <part name='L02' x='1736' y='208'/>
+      <part name='L03' x='1722' y='220'/>
+      <part name='M01' x='1740' y='241'/>
+      <part name='M02' x='1742' y='241'/>
+      <part name='R01' x='1762' y='212'/>
+      <part name='R02' x='1787' y='220'/>
+      <part name='R03' x='1768' y='230'/>
+    </box>
+    <box top='201' left='1540' width='91' height='81'>
+      <part name='C01' x='1559' y='269'/>
+      <part name='C02' x='1581' y='277'/>
+      <part name='C03' x='1598' y='267'/>
+      <part name='L01' x='1554' y='250'/>
+      <part name='L02' x='1568' y='248'/>
+      <part name='L03' x='1564' y='258'/>
+      <part name='M01' x='1575' y='267'/>
+      <part name='M02' x='1584' y='264'/>
+      <part name='R01' x='1584' y='244'/>
+      <part name='R02' x='1602' y='243'/>
+      <part name='R03' x='1593' y='254'/>
+    </box>
+    <box top='454' left='1675' width='131' height='125'>
+      <part name='C01' x='1699' y='559'/>
+      <part name='C02' x='1727' y='575'/>
+      <part name='C03' x='1761' y='562'/>
+      <part name='L01' x='1694' y='535'/>
+      <part name='L02' x='1711' y='537'/>
+      <part name='L03' x='1702' y='534'/>
+      <part name='M01' x='1724' y='561'/>
+      <part name='M02' x='1733' y='563'/>
+      <part name='R01' x='1742' y='539'/>
+      <part name='R02' x='1763' y='544'/>
+      <part name='R03' x='1753' y='541'/>
+    </box>
+    <box top='487' left='1502' width='140' height='118'>
+      <part name='C01' x='1546' y='587'/>
+      <part name='C02' x='1580' y='596'/>
+      <part name='C03' x='1607' y='578'/>
+      <part name='L01' x='1540' y='562'/>
+      <part name='L02' x='1563' y='555'/>
+      <part name='L03' x='1557' y='572'/>
+      <part name='M01' x='1579' y='583'/>
+      <part name='M02' x='1581' y='583'/>
+      <part name='R01' x='1589' y='553'/>
+      <part name='R02' x='1609' y='548'/>
+      <part name='R03' x='1598' y='566'/>
+    </box>
+    <box top='761' left='1605' width='194' height='185'>
+      <part name='C01' x='1646' y='924'/>
+      <part name='C02' x='1696' y='941'/>
+      <part name='C03' x='1742' y='914'/>
+      <part name='L01' x='1630' y='881'/>
+      <part name='L02' x='1662' y='876'/>
+      <part name='L03' x='1658' y='901'/>
+      <part name='M01' x='1689' y='922'/>
+      <part name='M02' x='1694' y='922'/>
+      <part name='R01' x='1706' y='873'/>
+      <part name='R02' x='1744' y='874'/>
+      <part name='R03' x='1723' y='893'/>
+    </box>
+    <box top='1078' left='1685' width='153' height='152'>
+      <part name='C01' x='1724' y='1198'/>
+      <part name='C02' x='1756' y='1218'/>
+      <part name='C03' x='1795' y='1205'/>
+      <part name='L01' x='1724' y='1169'/>
+      <part name='L02' x='1749' y='1172'/>
+      <part name='L03' x='1738' y='1174'/>
+      <part name='M01' x='1746' y='1200'/>
+      <part name='M02' x='1766' y='1205'/>
+      <part name='R01' x='1781' y='1179'/>
+      <part name='R02' x='1800' y='1181'/>
+      <part name='R03' x='1790' y='1186'/>
+    </box>
+    <box top='194' left='1107' width='88' height='79'>
+      <part name='C01' x='1134' y='263'/>
+      <part name='C02' x='1158' y='268'/>
+      <part name='C03' x='1176' y='254'/>
+      <part name='L01' x='1131' y='244'/>
+      <part name='L02' x='1146' y='241'/>
+      <part name='L03' x='1142' y='252'/>
+      <part name='M01' x='1155' y='261'/>
+      <part name='M02' x='1160' y='258'/>
+      <part name='R01' x='1163' y='239'/>
+      <part name='R02' x='1175' y='235'/>
+      <part name='R03' x='1168' y='248'/>
+    </box>
+    <box top='452' left='1267' width='109' height='106'>
+      <part name='C01' x='1297' y='543'/>
+      <part name='C02' x='1330' y='551'/>
+      <part name='C03' x='1353' y='531'/>
+      <part name='L01' x='1294' y='524'/>
+      <part name='L02' x='1313' y='515'/>
+      <part name='L03' x='1310' y='530'/>
+      <part name='M01' x='1324' y='540'/>
+      <part name='M02' x='1332' y='538'/>
+      <part name='R01' x='1338' y='510'/>
+      <part name='R02' x='1355' y='503'/>
+      <part name='R03' x='1344' y='522'/>
+    </box>
+    <box top='518' left='1108' width='130' height='122'>
+      <part name='C01' x='1149' y='615'/>
+      <part name='C02' x='1177' y='620'/>
+      <part name='C03' x='1201' y='600'/>
+      <part name='L01' x='1142' y='595'/>
+      <part name='L02' x='1161' y='587'/>
+      <part name='L03' x='1157' y='602'/>
+      <part name='M01' x='1176' y='610'/>
+      <part name='M02' x='1179' y='608'/>
+      <part name='R01' x='1185' y='580'/>
+      <part name='R02' x='1202' y='574'/>
+      <part name='R03' x='1193' y='591'/>
+    </box>
+    <box top='1078' left='1244' width='158' height='144'>
+      <part name='C01' x='1268' y='1194'/>
+      <part name='C02' x='1298' y='1218'/>
+      <part name='C03' x='1332' y='1209'/>
+      <part name='L01' x='1268' y='1159'/>
+      <part name='L02' x='1293' y='1160'/>
+      <part name='L03' x='1280' y='1176'/>
+      <part name='M01' x='1295' y='1196'/>
+      <part name='M02' x='1311' y='1199'/>
+      <part name='R01' x='1324' y='1167'/>
+      <part name='R02' x='1349' y='1175'/>
+      <part name='R03' x='1328' y='1185'/>
+    </box>
+    <box top='432' left='709' width='115' height='112'>
+      <part name='C01' x='731' y='522'/>
+      <part name='C02' x='754' y='540'/>
+      <part name='C03' x='784' y='530'/>
+      <part name='L01' x='728' y='495'/>
+      <part name='L02' x='747' y='493'/>
+      <part name='L03' x='740' y='508'/>
+      <part name='M01' x='753' y='524'/>
+      <part name='M02' x='760' y='524'/>
+      <part name='R01' x='774' y='497'/>
+      <part name='R02' x='794' y='503'/>
+      <part name='R03' x='778' y='512'/>
+    </box>
+    <box top='515' left='611' width='106' height='109'>
+      <part name='C01' x='638' y='607'/>
+      <part name='C02' x='670' y='619'/>
+      <part name='C03' x='697' y='602'/>
+      <part name='L01' x='635' y='584'/>
+      <part name='L02' x='657' y='580'/>
+      <part name='L03' x='650' y='594'/>
+      <part name='M01' x='669' y='607'/>
+      <part name='M02' x='671' y='607'/>
+      <part name='R01' x='681' y='580'/>
+      <part name='R02' x='700' y='576'/>
+      <part name='R03' x='690' y='591'/>
+    </box>
+    <box top='743' left='681' width='168' height='151'>
+      <part name='C01' x='706' y='860'/>
+      <part name='C02' x='747' y='882'/>
+      <part name='C03' x='783' y='858'/>
+      <part name='L01' x='701' y='833'/>
+      <part name='L02' x='723' y='832'/>
+      <part name='L03' x='711' y='829'/>
+      <part name='M01' x='736' y='859'/>
+      <part name='M02' x='755' y='859'/>
+      <part name='R01' x='760' y='831'/>
+      <part name='R02' x='786' y='834'/>
+      <part name='R03' x='772' y='830'/>
+    </box>
+    <box top='117' left='255' width='127' height='108'>
+      <part name='C01' x='286' y='206'/>
+      <part name='C02' x='314' y='216'/>
+      <part name='C03' x='339' y='195'/>
+      <part name='L01' x='280' y='186'/>
+      <part name='L02' x='291' y='181'/>
+      <part name='L03' x='286' y='186'/>
+      <part name='M01' x='306' y='198'/>
+      <part name='M02' x='316' y='193'/>
+      <part name='R01' x='313' y='171'/>
+      <part name='R02' x='331' y='163'/>
+      <part name='R03' x='323' y='169'/>
+    </box>
+    <box top='457' left='145' width='165' height='168'>
+      <part name='C01' x='197' y='606'/>
+      <part name='C02' x='245' y='616'/>
+      <part name='C03' x='283' y='583'/>
+      <part name='L01' x='185' y='576'/>
+      <part name='L02' x='209' y='568'/>
+      <part name='L03' x='198' y='576'/>
+      <part name='M01' x='232' y='601'/>
+      <part name='M02' x='252' y='593'/>
+      <part name='R01' x='250' y='554'/>
+      <part name='R02' x='278' y='547'/>
+      <part name='R03' x='266' y='556'/>
+    </box>
+    <box top='260' left='850' width='54' height='52'>
+      <part name='C01' x='865' y='302'/>
+      <part name='C02' x='880' y='304'/>
+      <part name='C03' x='893' y='295'/>
+      <part name='L01' x='867' y='295'/>
+      <part name='L02' x='869' y='294'/>
+      <part name='L03' x='870' y='298'/>
+      <part name='M01' x='877' y='301'/>
+      <part name='M02' x='881' y='299'/>
+      <part name='R01' x='883' y='291'/>
+      <part name='R02' x='885' y='289'/>
+      <part name='R03' x='885' y='293'/>
+    </box>
+    <box top='797' left='558' width='163' height='147'>
+      <part name='C01' x='615' y='919'/>
+      <part name='C02' x='655' y='921'/>
+      <part name='C03' x='682' y='896'/>
+      <part name='L01' x='594' y='888'/>
+      <part name='L02' x='619' y='875'/>
+      <part name='L03' x='620' y='896'/>
+      <part name='M01' x='645' y='910'/>
+      <part name='M02' x='648' y='909'/>
+      <part name='R01' x='650' y='858'/>
+      <part name='R02' x='681' y='851'/>
+      <part name='R03' x='668' y='877'/>
+    </box>
+  </image>
+  <image file='013.jpg'>
+    <box top='123' left='1596' width='91' height='80'>
+      <part name='C01' x='1621' y='188'/>
+      <part name='C02' x='1638' y='201'/>
+      <part name='C03' x='1655' y='189'/>
+      <part name='L01' x='1621' y='169'/>
+      <part name='L02' x='1629' y='169'/>
+      <part name='L03' x='1626' y='170'/>
+      <part name='M01' x='1633' y='188'/>
+      <part name='M02' x='1644' y='187'/>
+      <part name='R01' x='1644' y='167'/>
+      <part name='R02' x='1653' y='167'/>
+      <part name='R03' x='1649' y='169'/>
+    </box>
+    <box top='452' left='1579' width='91' height='88'>
+      <part name='C01' x='1608' y='525'/>
+      <part name='C02' x='1622' y='535'/>
+      <part name='C03' x='1644' y='518'/>
+      <part name='L01' x='1601' y='504'/>
+      <part name='L02' x='1610' y='500'/>
+      <part name='L03' x='1607' y='504'/>
+      <part name='M01' x='1616' y='523'/>
+      <part name='M02' x='1628' y='521'/>
+      <part name='R01' x='1624' y='496'/>
+      <part name='R02' x='1634' y='493'/>
+      <part name='R03' x='1629' y='497'/>
+    </box>
+    <box top='128' left='1129' width='187' height='156'>
+      <part name='C01' x='1199' y='264'/>
+      <part name='C02' x='1242' y='257'/>
+      <part name='C03' x='1258' y='227'/>
+      <part name='L01' x='1179' y='244'/>
+      <part name='L02' x='1193' y='228'/>
+      <part name='L03' x='1202' y='246'/>
+      <part name='M01' x='1227' y='246'/>
+      <part name='M02' x='1230' y='244'/>
+      <part name='R01' x='1210' y='207'/>
+      <part name='R02' x='1234' y='183'/>
+      <part name='R03' x='1233' y='208'/>
+    </box>
+    <box top='739' left='1162' width='297' height='248'>
+      <part name='C01' x='1240' y='957'/>
+      <part name='C02' x='1307' y='977'/>
+      <part name='C03' x='1370' y='927'/>
+      <part name='L01' x='1213' y='900'/>
+      <part name='L02' x='1255' y='890'/>
+      <part name='L03' x='1252' y='923'/>
+      <part name='M01' x='1297' y='949'/>
+      <part name='M02' x='1306' y='949'/>
+      <part name='R01' x='1306' y='874'/>
+      <part name='R02' x='1356' y='856'/>
+      <part name='R03' x='1337' y='900'/>
+    </box>
+    <box top='137' left='651' width='313' height='284'>
+      <part name='C01' x='766' y='376'/>
+      <part name='C02' x='849' y='398'/>
+      <part name='C03' x='902' y='344'/>
+      <part name='L01' x='759' y='327'/>
+      <part name='L02' x='810' y='316'/>
+      <part name='L03' x='793' y='348'/>
+      <part name='M01' x='848' y='373'/>
+      <part name='M02' x='852' y='372'/>
+      <part name='R01' x='865' y='304'/>
+      <part name='R02' x='902' y='276'/>
+      <part name='R03' x='883' y='320'/>
+    </box>
+    <box top='116' left='108' width='277' height='236'>
+      <part name='C01' x='197' y='318'/>
+      <part name='C02' x='266' y='335'/>
+      <part name='C03' x='327' y='279'/>
+      <part name='L01' x='187' y='275'/>
+      <part name='L02' x='214' y='266'/>
+      <part name='L03' x='199' y='270'/>
+      <part name='M01' x='251' y='294'/>
+      <part name='M02' x='259' y='290'/>
+      <part name='R01' x='262' y='229'/>
+      <part name='R02' x='315' y='219'/>
+      <part name='R03' x='290' y='250'/>
+    </box>
+    <box top='741' left='765' width='155' height='153'>
+      <part name='C01' x='797' y='831'/>
+      <part name='C02' x='804' y='864'/>
+      <part name='C03' x='831' y='876'/>
+      <part name='L01' x='828' y='800'/>
+      <part name='L02' x='847' y='821'/>
+      <part name='L03' x='824' y='823'/>
+      <part name='M01' x='824' y='856'/>
+      <part name='M02' x='827' y='858'/>
+      <part name='R01' x='860' y='847'/>
+      <part name='R02' x='869' y='861'/>
+      <part name='R03' x='846' y='859'/>
+    </box>
+    <box top='1050' left='537' width='172' height='145'>
+      <part name='C01' x='590' y='1161'/>
+      <part name='C02' x='635' y='1181'/>
+      <part name='C03' x='665' y='1159'/>
+      <part name='L01' x='590' y='1124'/>
+      <part name='L02' x='620' y='1124'/>
+      <part name='L03' x='607' y='1140'/>
+      <part name='M01' x='628' y='1155'/>
+      <part name='M02' x='639' y='1156'/>
+      <part name='R01' x='648' y='1128'/>
+      <part name='R02' x='668' y='1125'/>
+      <part name='R03' x='656' y='1143'/>
+    </box>
+    <box top='748' left='105' width='187' height='158'>
+      <part name='C01' x='184' y='886'/>
+      <part name='C02' x='217' y='889'/>
+      <part name='C03' x='243' y='861'/>
+      <part name='L01' x='169' y='869'/>
+      <part name='L02' x='185' y='864'/>
+      <part name='L03' x='177' y='871'/>
+      <part name='M01' x='205' y='881'/>
+      <part name='M02' x='215' y='877'/>
+      <part name='R01' x='207' y='846'/>
+      <part name='R02' x='233' y='832'/>
+      <part name='R03' x='227' y='853'/>
+    </box>
+    <box top='1144' left='284' width='102' height='88'>
+      <part name='C01' x='315' y='1215'/>
+      <part name='C02' x='333' y='1223'/>
+      <part name='C03' x='352' y='1212'/>
+      <part name='L01' x='309' y='1195'/>
+      <part name='L02' x='322' y='1192'/>
+      <part name='L03' x='318' y='1203'/>
+      <part name='M01' x='328' y='1214'/>
+      <part name='M02' x='337' y='1213'/>
+      <part name='R01' x='340' y='1191'/>
+      <part name='R02' x='354' y='1192'/>
+      <part name='R03' x='346' y='1202'/>
+    </box>
+  </image>
+  <image file='014.jpg'>
+    <box top='142' left='1491' width='170' height='118'>
+      <part name='C01' x='1577' y='247'/>
+      <part name='C02' x='1611' y='240'/>
+      <part name='C03' x='1628' y='210'/>
+      <part name='L01' x='1559' y='233'/>
+      <part name='L02' x='1573' y='215'/>
+      <part name='L03' x='1577' y='232'/>
+      <part name='M01' x='1605' y='233'/>
+      <part name='M02' x='1607' y='231'/>
+      <part name='R01' x='1598' y='196'/>
+      <part name='R02' x='1614' y='183'/>
+      <part name='R03' x='1613' y='203'/>
+    </box>
+    <box top='536' left='1700' width='209' height='187'>
+      <part name='C01' x='1736' y='691'/>
+      <part name='C02' x='1794' y='721'/>
+      <part name='C03' x='1844' y='688'/>
+      <part name='L01' x='1731' y='645'/>
+      <part name='L02' x='1764' y='633'/>
+      <part name='L03' x='1753' y='665'/>
+      <part name='M01' x='1777' y='691'/>
+      <part name='M02' x='1800' y='686'/>
+      <part name='R01' x='1808' y='631'/>
+      <part name='R02' x='1850' y='639'/>
+      <part name='R03' x='1820' y='661'/>
+    </box>
+    <box top='513' left='1512' width='152' height='144'>
+      <part name='C01' x='1545' y='630'/>
+      <part name='C02' x='1586' y='647'/>
+      <part name='C03' x='1626' y='628'/>
+      <part name='L01' x='1541' y='595'/>
+      <part name='L02' x='1567' y='593'/>
+      <part name='L03' x='1559' y='617'/>
+      <part name='M01' x='1582' y='633'/>
+      <part name='M02' x='1588' y='633'/>
+      <part name='R01' x='1603' y='593'/>
+      <part name='R02' x='1629' y='595'/>
+      <part name='R03' x='1613' y='617'/>
+    </box>
+    <box top='768' left='1691' width='158' height='155'>
+      <part name='C01' x='1724' y='895'/>
+      <part name='C02' x='1762' y='917'/>
+      <part name='C03' x='1800' y='896'/>
+      <part name='L01' x='1718' y='862'/>
+      <part name='L02' x='1744' y='856'/>
+      <part name='L03' x='1736' y='877'/>
+      <part name='M01' x='1754' y='893'/>
+      <part name='M02' x='1770' y='893'/>
+      <part name='R01' x='1778' y='855'/>
+      <part name='R02' x='1807' y='858'/>
+      <part name='R03' x='1788' y='879'/>
+    </box>
+    <box top='1084' left='1695' width='155' height='152'>
+      <part name='C01' x='1726' y='1207'/>
+      <part name='C02' x='1763' y='1227'/>
+      <part name='C03' x='1797' y='1211'/>
+      <part name='L01' x='1719' y='1173'/>
+      <part name='L02' x='1744' y='1167'/>
+      <part name='L03' x='1736' y='1190'/>
+      <part name='M01' x='1756' y='1210'/>
+      <part name='M02' x='1769' y='1213'/>
+      <part name='R01' x='1779' y='1167'/>
+      <part name='R02' x='1808' y='1169'/>
+      <part name='R03' x='1789' y='1189'/>
+    </box>
+    <box top='136' left='1146' width='231' height='216'>
+      <part name='C01' x='1220' y='320'/>
+      <part name='C02' x='1270' y='334'/>
+      <part name='C03' x='1311' y='306'/>
+      <part name='L01' x='1201' y='275'/>
+      <part name='L02' x='1235' y='265'/>
+      <part name='L03' x='1226' y='289'/>
+      <part name='M01' x='1263' y='310'/>
+      <part name='M02' x='1268' y='310'/>
+      <part name='R01' x='1279' y='258'/>
+      <part name='R02' x='1316' y='256'/>
+      <part name='R03' x='1295' y='278'/>
+    </box>
+    <box top='477' left='1141' width='231' height='193'>
+      <part name='C01' x='1220' y='654'/>
+      <part name='C02' x='1273' y='669'/>
+      <part name='C03' x='1315' y='641'/>
+      <part name='L01' x='1212' y='621'/>
+      <part name='L02' x='1238' y='612'/>
+      <part name='L03' x='1226' y='617'/>
+      <part name='M01' x='1265' y='645'/>
+      <part name='M02' x='1271' y='645'/>
+      <part name='R01' x='1287' y='603'/>
+      <part name='R02' x='1317' y='603'/>
+      <part name='R03' x='1302' y='604'/>
+    </box>
+    <box top='785' left='1096' width='162' height='170'>
+      <part name='C01' x='1126' y='920'/>
+      <part name='C02' x='1156' y='946'/>
+      <part name='C03' x='1206' y='935'/>
+      <part name='L01' x='1122' y='876'/>
+      <part name='L02' x='1143' y='888'/>
+      <part name='L03' x='1135' y='907'/>
+      <part name='M01' x='1153' y='932'/>
+      <part name='M02' x='1158' y='935'/>
+      <part name='R01' x='1176' y='898'/>
+      <part name='R02' x='1206' y='903'/>
+      <part name='R03' x='1184' y='921'/>
+    </box>
+    <box top='1078' left='1248' width='146' height='139'>
+      <part name='C01' x='1277' y='1193'/>
+      <part name='C02' x='1313' y='1211'/>
+      <part name='C03' x='1346' y='1193'/>
+      <part name='L01' x='1273' y='1168'/>
+      <part name='L02' x='1293' y='1165'/>
+      <part name='L03' x='1284' y='1166'/>
+      <part name='M01' x='1304' y='1191'/>
+      <part name='M02' x='1321' y='1191'/>
+      <part name='R01' x='1328' y='1164'/>
+      <part name='R02' x='1348' y='1166'/>
+      <part name='R03' x='1338' y='1165'/>
+    </box>
+    <box top='1116' left='1084' width='150' height='145'>
+      <part name='C01' x='1121' y='1227'/>
+      <part name='C02' x='1157' y='1252'/>
+      <part name='C03' x='1192' y='1239'/>
+      <part name='L01' x='1120' y='1193'/>
+      <part name='L02' x='1153' y='1193'/>
+      <part name='L03' x='1136' y='1209'/>
+      <part name='M01' x='1155' y='1235'/>
+      <part name='M02' x='1161' y='1235'/>
+      <part name='R01' x='1183' y='1205'/>
+      <part name='R02' x='1208' y='1207'/>
+      <part name='R03' x='1186' y='1221'/>
+    </box>
+    <box top='494' left='718' width='114' height='116'>
+      <part name='C01' x='753' y='587'/>
+      <part name='C02' x='785' y='602'/>
+      <part name='C03' x='811' y='582'/>
+      <part name='L01' x='751' y='566'/>
+      <part name='L02' x='772' y='558'/>
+      <part name='L03' x='764' y='574'/>
+      <part name='M01' x='778' y='588'/>
+      <part name='M02' x='789' y='586'/>
+      <part name='R01' x='796' y='559'/>
+      <part name='R02' x='812' y='556'/>
+      <part name='R03' x='801' y='571'/>
+    </box>
+    <box top='518' left='591' width='107' height='107'>
+      <part name='C01' x='618' y='596'/>
+      <part name='C02' x='651' y='618'/>
+      <part name='C03' x='678' y='604'/>
+      <part name='L01' x='623' y='566'/>
+      <part name='L02' x='648' y='566'/>
+      <part name='L03' x='636' y='581'/>
+      <part name='M01' x='654' y='600'/>
+      <part name='M02' x='657' y='600'/>
+      <part name='R01' x='668' y='573'/>
+      <part name='R02' x='684' y='576'/>
+      <part name='R03' x='674' y='590'/>
+    </box>
+    <box top='759' left='699' width='128' height='123'>
+      <part name='C01' x='721' y='849'/>
+      <part name='C02' x='747' y='874'/>
+      <part name='C03' x='772' y='840'/>
+      <part name='L01' x='715' y='828'/>
+      <part name='L02' x='720' y='820'/>
+      <part name='L03' x='722' y='832'/>
+      <part name='M01' x='733' y='847'/>
+      <part name='M02' x='747' y='842'/>
+      <part name='R01' x='739' y='804'/>
+      <part name='R02' x='760' y='798'/>
+      <part name='R03' x='747' y='823'/>
+    </box>
+    <box top='810' left='562' width='127' height='122'>
+      <part name='C01' x='596' y='912'/>
+      <part name='C02' x='623' y='922'/>
+      <part name='C03' x='652' y='906'/>
+      <part name='L01' x='587' y='884'/>
+      <part name='L02' x='607' y='881'/>
+      <part name='L03' x='602' y='894'/>
+      <part name='M01' x='620' y='907'/>
+      <part name='M02' x='623' y='907'/>
+      <part name='R01' x='633' y='877'/>
+      <part name='R02' x='655' y='877'/>
+      <part name='R03' x='644' y='890'/>
+    </box>
+    <box top='559' left='319' width='78' height='66'>
+      <part name='C01' x='337' y='613'/>
+      <part name='C02' x='352' y='619'/>
+      <part name='C03' x='369' y='610'/>
+      <part name='L01' x='333' y='601'/>
+      <part name='L02' x='341' y='598'/>
+      <part name='L03' x='337' y='600'/>
+      <part name='M01' x='346' y='609'/>
+      <part name='M02' x='356' y='608'/>
+      <part name='R01' x='356' y='596'/>
+      <part name='R02' x='367' y='595'/>
+      <part name='R03' x='362' y='596'/>
+    </box>
+    <box top='736' left='267' width='103' height='99'>
+      <part name='C01' x='281' y='810'/>
+      <part name='C02' x='301' y='828'/>
+      <part name='C03' x='335' y='814'/>
+      <part name='L01' x='279' y='782'/>
+      <part name='L02' x='294' y='786'/>
+      <part name='L03' x='288' y='798'/>
+      <part name='M01' x='300' y='811'/>
+      <part name='M02' x='304' y='813'/>
+      <part name='R01' x='315' y='787'/>
+      <part name='R02' x='339' y='785'/>
+      <part name='R03' x='326' y='798'/>
+    </box>
+    <box top='1094' left='276' width='181' height='179'>
+      <part name='C01' x='309' y='1226'/>
+      <part name='C02' x='341' y='1251'/>
+      <part name='C03' x='385' y='1239'/>
+      <part name='L01' x='306' y='1187'/>
+      <part name='L02' x='336' y='1184'/>
+      <part name='L03' x='324' y='1208'/>
+      <part name='M01' x='340' y='1230'/>
+      <part name='M02' x='353' y='1233'/>
+      <part name='R01' x='372' y='1195'/>
+      <part name='R02' x='401' y='1205'/>
+      <part name='R03' x='376' y='1220'/>
+    </box>
+    <box top='922' left='392' width='59' height='57'>
+      <part name='C01' x='415' y='971'/>
+      <part name='C02' x='429' y='971'/>
+      <part name='C03' x='438' y='964'/>
+      <part name='L01' x='414' y='963'/>
+      <part name='L02' x='417' y='961'/>
+      <part name='L03' x='417' y='965'/>
+      <part name='M01' x='424' y='968'/>
+      <part name='M02' x='429' y='966'/>
+      <part name='R01' x='430' y='958'/>
+      <part name='R02' x='433' y='957'/>
+      <part name='R03' x='433' y='960'/>
+    </box>
+    <box top='166' left='1743' width='60' height='52'>
+      <part name='C01' x='1763' y='211'/>
+      <part name='C02' x='1778' y='212'/>
+      <part name='C03' x='1788' y='204'/>
+      <part name='L01' x='1764' y='204'/>
+      <part name='L02' x='1766' y='202'/>
+      <part name='L03' x='1766' y='206'/>
+      <part name='M01' x='1773' y='209'/>
+      <part name='M02' x='1778' y='207'/>
+      <part name='R01' x='1780' y='199'/>
+      <part name='R02' x='1782' y='197'/>
+      <part name='R03' x='1782' y='201'/>
+    </box>
+  </image>
+  <image file='015.jpg'>
+    <box top='233' left='1579' width='85' height='84'>
+      <part name='C01' x='1601' y='293'/>
+      <part name='C02' x='1615' y='309'/>
+      <part name='C03' x='1639' y='302'/>
+      <part name='L01' x='1611' y='279'/>
+      <part name='L02' x='1614' y='280'/>
+      <part name='L03' x='1610' y='287'/>
+      <part name='M01' x='1620' y='302'/>
+      <part name='M02' x='1623' y='302'/>
+      <part name='R01' x='1635' y='287'/>
+      <part name='R02' x='1638' y='289'/>
+      <part name='R03' x='1634' y='295'/>
+    </box>
+    <box top='469' left='1601' width='119' height='108'>
+      <part name='C01' x='1645' y='549'/>
+      <part name='C02' x='1668' y='570'/>
+      <part name='C03' x='1693' y='554'/>
+      <part name='L01' x='1645' y='516'/>
+      <part name='L02' x='1666' y='520'/>
+      <part name='L03' x='1656' y='532'/>
+      <part name='M01' x='1671' y='552'/>
+      <part name='M02' x='1674' y='553'/>
+      <part name='R01' x='1685' y='530'/>
+      <part name='R02' x='1699' y='532'/>
+      <part name='R03' x='1687' y='543'/>
+    </box>
+    <box top='860' left='1729' width='68' height='63'>
+      <part name='C01' x='1747' y='910'/>
+      <part name='C02' x='1761' y='916'/>
+      <part name='C03' x='1772' y='909'/>
+      <part name='L01' x='1750' y='899'/>
+      <part name='L02' x='1752' y='899'/>
+      <part name='L03' x='1751' y='903'/>
+      <part name='M01' x='1758' y='910'/>
+      <part name='M02' x='1763' y='910'/>
+      <part name='R01' x='1768' y='898'/>
+      <part name='R02' x='1770' y='898'/>
+      <part name='R03' x='1769' y='902'/>
+    </box>
+    <box top='1050' left='1554' width='252' height='213'>
+      <part name='C01' x='1622' y='1222'/>
+      <part name='C02' x='1671' y='1244'/>
+      <part name='C03' x='1724' y='1214'/>
+      <part name='L01' x='1604' y='1172'/>
+      <part name='L02' x='1637' y='1172'/>
+      <part name='L03' x='1631' y='1192'/>
+      <part name='M01' x='1662' y='1215'/>
+      <part name='M02' x='1675' y='1214'/>
+      <part name='R01' x='1674' y='1161'/>
+      <part name='R02' x='1715' y='1150'/>
+      <part name='R03' x='1697' y='1176'/>
+    </box>
+    <box top='239' left='1290' width='83' height='74'>
+      <part name='C01' x='1314' y='308'/>
+      <part name='C02' x='1332' y='311'/>
+      <part name='C03' x='1347' y='297'/>
+      <part name='L01' x='1310' y='291'/>
+      <part name='L02' x='1313' y='290'/>
+      <part name='L03' x='1314' y='296'/>
+      <part name='M01' x='1325' y='302'/>
+      <part name='M02' x='1334' y='299'/>
+      <part name='R01' x='1334' y='282'/>
+      <part name='R02' x='1338' y='281'/>
+      <part name='R03' x='1338' y='287'/>
+    </box>
+    <box top='453' left='1195' width='54' height='50'>
+      <part name='C01' x='1211' y='494'/>
+      <part name='C02' x='1221' y='498'/>
+      <part name='C03' x='1232' y='492'/>
+      <part name='L01' x='1207' y='482'/>
+      <part name='L02' x='1216' y='480'/>
+      <part name='L03' x='1212' y='487'/>
+      <part name='M01' x='1219' y='493'/>
+      <part name='M02' x='1223' y='493'/>
+      <part name='R01' x='1225' y='480'/>
+      <part name='R02' x='1233' y='480'/>
+      <part name='R03' x='1229' y='486'/>
+    </box>
+    <box top='1063' left='1148' width='133' height='119'>
+      <part name='C01' x='1201' y='1167'/>
+      <part name='C02' x='1231' y='1168'/>
+      <part name='C03' x='1251' y='1139'/>
+      <part name='L01' x='1180' y='1141'/>
+      <part name='L02' x='1195' y='1133'/>
+      <part name='L03' x='1199' y='1149'/>
+      <part name='M01' x='1216' y='1154'/>
+      <part name='M02' x='1230' y='1143'/>
+      <part name='R01' x='1217' y='1119'/>
+      <part name='R02' x='1235' y='1105'/>
+      <part name='R03' x='1233' y='1124'/>
+    </box>
+    <box top='437' left='754' width='95' height='90'>
+      <part name='C01' x='768' y='492'/>
+      <part name='C02' x='781' y='507'/>
+      <part name='C03' x='803' y='508'/>
+      <part name='L01' x='773' y='470'/>
+      <part name='L02' x='787' y='471'/>
+      <part name='L03' x='778' y='481'/>
+      <part name='M01' x='781' y='495'/>
+      <part name='M02' x='791' y='501'/>
+      <part name='R01' x='803' y='478'/>
+      <part name='R02' x='815' y='484'/>
+      <part name='R03' x='802' y='491'/>
+    </box>
+    <box top='1083' left='618' width='192' height='168'>
+      <part name='C01' x='679' y='1222'/>
+      <part name='C02' x='734' y='1235'/>
+      <part name='C03' x='769' y='1204'/>
+      <part name='L01' x='678' y='1183'/>
+      <part name='L02' x='703' y='1176'/>
+      <part name='L03' x='692' y='1182'/>
+      <part name='M01' x='713' y='1204'/>
+      <part name='M02' x='740' y='1199'/>
+      <part name='R01' x='740' y='1169'/>
+      <part name='R02' x='761' y='1170'/>
+      <part name='R03' x='752' y='1172'/>
+    </box>
+    <box top='119' left='189' width='125' height='107'>
+      <part name='C01' x='231' y='204'/>
+      <part name='C02' x='257' y='208'/>
+      <part name='C03' x='274' y='189'/>
+      <part name='L01' x='218' y='182'/>
+      <part name='L02' x='232' y='174'/>
+      <part name='L03' x='233' y='188'/>
+      <part name='M01' x='247' y='198'/>
+      <part name='M02' x='258' y='192'/>
+      <part name='R01' x='251' y='167'/>
+      <part name='R02' x='268' y='164'/>
+      <part name='R03' x='262' y='177'/>
+    </box>
+    <box top='864' left='182' width='179' height='157'>
+      <part name='C01' x='225' y='967'/>
+      <part name='C02' x='255' y='1000'/>
+      <part name='C03' x='295' y='995'/>
+      <part name='L01' x='241' y='932'/>
+      <part name='L02' x='270' y='937'/>
+      <part name='L03' x='252' y='951'/>
+      <part name='M01' x='258' y='977'/>
+      <part name='M02' x='273' y='983'/>
+      <part name='R01' x='298' y='952'/>
+      <part name='R02' x='314' y='963'/>
+      <part name='R03' x='294' y='972'/>
+    </box>
+    <box top='1140' left='184' width='204' height='193'>
+      <part name='C01' x='229' y='1271'/>
+      <part name='C02' x='267' y='1311'/>
+      <part name='C03' x='313' y='1308'/>
+      <part name='L01' x='251' y='1227'/>
+      <part name='L02' x='286' y='1232'/>
+      <part name='L03' x='263' y='1251'/>
+      <part name='M01' x='271' y='1284'/>
+      <part name='M02' x='290' y='1292'/>
+      <part name='R01' x='319' y='1254'/>
+      <part name='R02' x='342' y='1265'/>
+      <part name='R03' x='316' y='1277'/>
+    </box>
+    <box top='747' left='330' width='76' height='76'>
+      <part name='C01' x='352' y='808'/>
+      <part name='C02' x='370' y='815'/>
+      <part name='C03' x='388' y='806'/>
+      <part name='L01' x='359' y='800'/>
+      <part name='L02' x='362' y='800'/>
+      <part name='L03' x='361' y='805'/>
+      <part name='M01' x='372' y='810'/>
+      <part name='M02' x='373' y='810'/>
+      <part name='R01' x='382' y='798'/>
+      <part name='R02' x='385' y='798'/>
+      <part name='R03' x='383' y='802'/>
+    </box>
+  </image>
+  <image file='016.jpg'>
+    <box top='131' left='1636' width='108' height='108'>
+      <part name='C01' x='1665' y='225'/>
+      <part name='C02' x='1689' y='235'/>
+      <part name='C03' x='1711' y='223'/>
+      <part name='L01' x='1657' y='201'/>
+      <part name='L02' x='1673' y='200'/>
+      <part name='L03' x='1669' y='213'/>
+      <part name='M01' x='1684' y='224'/>
+      <part name='M02' x='1692' y='225'/>
+      <part name='R01' x='1696' y='198'/>
+      <part name='R02' x='1715' y='201'/>
+      <part name='R03' x='1704' y='212'/>
+    </box>
+    <box top='421' left='1597' width='194' height='182'>
+      <part name='C01' x='1635' y='567'/>
+      <part name='C02' x='1685' y='593'/>
+      <part name='C03' x='1725' y='571'/>
+      <part name='L01' x='1629' y='531'/>
+      <part name='L02' x='1659' y='530'/>
+      <part name='L03' x='1650' y='550'/>
+      <part name='M01' x='1680' y='574'/>
+      <part name='M02' x='1681' y='574'/>
+      <part name='R01' x='1700' y='530'/>
+      <part name='R02' x='1735' y='533'/>
+      <part name='R03' x='1714' y='550'/>
+    </box>
+    <box top='775' left='1701' width='137' height='135'>
+      <part name='C01' x='1741' y='866'/>
+      <part name='C02' x='1760' y='892'/>
+      <part name='C03' x='1788' y='890'/>
+      <part name='L01' x='1745' y='838'/>
+      <part name='L02' x='1769' y='844'/>
+      <part name='L03' x='1753' y='855'/>
+      <part name='M01' x='1765' y='878'/>
+      <part name='M02' x='1768' y='879'/>
+      <part name='R01' x='1789' y='858'/>
+      <part name='R02' x='1805' y='867'/>
+      <part name='R03' x='1787' y='873'/>
+    </box>
+    <box top='1057' left='1669' width='155' height='143'>
+      <part name='C01' x='1705' y='1178'/>
+      <part name='C02' x='1736' y='1198'/>
+      <part name='C03' x='1771' y='1183'/>
+      <part name='L01' x='1699' y='1141'/>
+      <part name='L02' x='1724' y='1141'/>
+      <part name='L03' x='1713' y='1160'/>
+      <part name='M01' x='1731' y='1177'/>
+      <part name='M02' x='1745' y='1179'/>
+      <part name='R01' x='1755' y='1144'/>
+      <part name='R02' x='1781' y='1152'/>
+      <part name='R03' x='1762' y='1165'/>
+    </box>
+    <box top='109' left='1301' width='122' height='119'>
+      <part name='C01' x='1327' y='209'/>
+      <part name='C02' x='1360' y='223'/>
+      <part name='C03' x='1383' y='206'/>
+      <part name='L01' x='1323' y='191'/>
+      <part name='L02' x='1338' y='186'/>
+      <part name='L03' x='1330' y='189'/>
+      <part name='M01' x='1351' y='207'/>
+      <part name='M02' x='1358' y='207'/>
+      <part name='R01' x='1365' y='179'/>
+      <part name='R02' x='1385' y='177'/>
+      <part name='R03' x='1375' y='177'/>
+    </box>
+    <box top='140' left='1181' width='110' height='108'>
+      <part name='C01' x='1215' y='234'/>
+      <part name='C02' x='1242' y='240'/>
+      <part name='C03' x='1261' y='220'/>
+      <part name='L01' x='1203' y='213'/>
+      <part name='L02' x='1219' y='205'/>
+      <part name='L03' x='1218' y='220'/>
+      <part name='M01' x='1236' y='227'/>
+      <part name='M02' x='1239' y='227'/>
+      <part name='R01' x='1238' y='198'/>
+      <part name='R02' x='1259' y='195'/>
+      <part name='R03' x='1251' y='207'/>
+    </box>
+    <box top='421' left='1176' width='120' height='122'>
+      <part name='C01' x='1219' y='531'/>
+      <part name='C02' x='1251' y='535'/>
+      <part name='C03' x='1273' y='516'/>
+      <part name='L01' x='1201' y='501'/>
+      <part name='L02' x='1224' y='494'/>
+      <part name='L03' x='1217' y='510'/>
+      <part name='M01' x='1240' y='522'/>
+      <part name='M02' x='1251' y='519'/>
+      <part name='R01' x='1252' y='488'/>
+      <part name='R02' x='1277' y='485'/>
+      <part name='R03' x='1265' y='499'/>
+    </box>
+    <box top='739' left='1240' width='104' height='97'>
+      <part name='C01' x='1277' y='830'/>
+      <part name='C02' x='1301' y='832'/>
+      <part name='C03' x='1317' y='809'/>
+      <part name='L01' x='1260' y='807'/>
+      <part name='L02' x='1271' y='800'/>
+      <part name='L03' x='1273' y='813'/>
+      <part name='M01' x='1288' y='821'/>
+      <part name='M02' x='1297' y='814'/>
+      <part name='R01' x='1287' y='789'/>
+      <part name='R02' x='1305' y='781'/>
+      <part name='R03' x='1301' y='797'/>
+    </box>
+    <box top='765' left='1095' width='93' height='92'>
+      <part name='C01' x='1124' y='844'/>
+      <part name='C02' x='1145' y='850'/>
+      <part name='C03' x='1161' y='839'/>
+      <part name='L01' x='1116' y='825'/>
+      <part name='L02' x='1130' y='821'/>
+      <part name='L03' x='1127' y='831'/>
+      <part name='M01' x='1139' y='841'/>
+      <part name='M02' x='1146' y='840'/>
+      <part name='R01' x='1148' y='818'/>
+      <part name='R02' x='1163' y='817'/>
+      <part name='R03' x='1156' y='826'/>
+    </box>
+    <box top='1193' left='1378' width='105' height='130'>
+      <part name='C01' x='1394' y='1292'/>
+      <part name='C02' x='1424' y='1317'/>
+      <part name='C03' x='1471' y='1302'/>
+      <part name='L01' x='1395' y='1275'/>
+      <part name='L02' x='1407' y='1279'/>
+      <part name='L03' x='1401' y='1279'/>
+      <part name='M01' x='1414' y='1301'/>
+      <part name='M02' x='1426' y='1306'/>
+      <part name='R01' x='1434' y='1285'/>
+      <part name='R02' x='1453' y='1294'/>
+      <part name='R03' x='1444' y='1292'/>
+    </box>
+    <box top='98' left='613' width='247' height='220'>
+      <part name='C01' x='667' y='277'/>
+      <part name='C02' x='724' y='306'/>
+      <part name='C03' x='771' y='281'/>
+      <part name='L01' x='663' y='239'/>
+      <part name='L02' x='694' y='237'/>
+      <part name='L03' x='676' y='237'/>
+      <part name='M01' x='711' y='274'/>
+      <part name='M02' x='735' y='274'/>
+      <part name='R01' x='745' y='234'/>
+      <part name='R02' x='777' y='237'/>
+      <part name='R03' x='762' y='236'/>
+    </box>
+    <box top='473' left='733' width='121' height='125'>
+      <part name='C01' x='753' y='570'/>
+      <part name='C02' x='776' y='590'/>
+      <part name='C03' x='806' y='580'/>
+      <part name='L01' x='752' y='540'/>
+      <part name='L02' x='769' y='542'/>
+      <part name='L03' x='761' y='558'/>
+      <part name='M01' x='772' y='572'/>
+      <part name='M02' x='783' y='576'/>
+      <part name='R01' x='792' y='549'/>
+      <part name='R02' x='814' y='557'/>
+      <part name='R03' x='798' y='566'/>
+    </box>
+    <box top='789' left='719' width='138' height='125'>
+      <part name='C01' x='746' y='883'/>
+      <part name='C02' x='770' y='904'/>
+      <part name='C03' x='800' y='893'/>
+      <part name='L01' x='745' y='854'/>
+      <part name='L02' x='763' y='857'/>
+      <part name='L03' x='754' y='872'/>
+      <part name='M01' x='765' y='886'/>
+      <part name='M02' x='776' y='890'/>
+      <part name='R01' x='785' y='863'/>
+      <part name='R02' x='807' y='870'/>
+      <part name='R03' x='790' y='881'/>
+    </box>
+    <box top='1060' left='545' width='120' height='106'>
+      <part name='C01' x='592' y='1154'/>
+      <part name='C02' x='619' y='1158'/>
+      <part name='C03' x='640' y='1137'/>
+      <part name='L01' x='584' y='1134'/>
+      <part name='L02' x='597' y='1129'/>
+      <part name='L03' x='592' y='1133'/>
+      <part name='M01' x='611' y='1145'/>
+      <part name='M02' x='619' y='1143'/>
+      <part name='R01' x='622' y='1123'/>
+      <part name='R02' x='637' y='1119'/>
+      <part name='R03' x='630' y='1122'/>
+    </box>
+    <box top='106' left='222' width='157' height='152'>
+      <part name='C01' x='260' y='224'/>
+      <part name='C02' x='285' y='247'/>
+      <part name='C03' x='321' y='238'/>
+      <part name='L01' x='258' y='186'/>
+      <part name='L02' x='286' y='190'/>
+      <part name='L03' x='270' y='202'/>
+      <part name='M01' x='282' y='225'/>
+      <part name='M02' x='297' y='229'/>
+      <part name='R01' x='315' y='198'/>
+      <part name='R02' x='340' y='207'/>
+      <part name='R03' x='320' y='215'/>
+    </box>
+    <box top='462' left='281' width='101' height='113'>
+      <part name='C01' x='295' y='550'/>
+      <part name='C02' x='322' y='565'/>
+      <part name='C03' x='347' y='552'/>
+      <part name='L01' x='294' y='533'/>
+      <part name='L02' x='308' y='532'/>
+      <part name='L03' x='301' y='532'/>
+      <part name='M01' x='317' y='552'/>
+      <part name='M02' x='324' y='552'/>
+      <part name='R01' x='333' y='533'/>
+      <part name='R02' x='349' y='536'/>
+      <part name='R03' x='341' y='534'/>
+    </box>
+    <box top='426' left='119' width='150' height='136'>
+      <part name='C01' x='170' y='527'/>
+      <part name='C02' x='193' y='545'/>
+      <part name='C03' x='225' y='536'/>
+      <part name='L01' x='175' y='486'/>
+      <part name='L02' x='201' y='490'/>
+      <part name='L03' x='186' y='504'/>
+      <part name='M01' x='192' y='527'/>
+      <part name='M02' x='206' y='529'/>
+      <part name='R01' x='224' y='502'/>
+      <part name='R02' x='238' y='510'/>
+      <part name='R03' x='221' y='521'/>
+    </box>
+    <box top='1055' left='276' width='131' height='130'>
+      <part name='C01' x='329' y='1175'/>
+      <part name='C02' x='361' y='1175'/>
+      <part name='C03' x='377' y='1151'/>
+      <part name='L01' x='308' y='1152'/>
+      <part name='L02' x='326' y='1144'/>
+      <part name='L03' x='329' y='1156'/>
+      <part name='M01' x='349' y='1165'/>
+      <part name='M02' x='361' y='1158'/>
+      <part name='R01' x='348' y='1130'/>
+      <part name='R02' x='368' y='1119'/>
+      <part name='R03' x='363' y='1135'/>
+    </box>
+    <box top='1226' left='88' width='105' height='83'>
+      <part name='C01' x='126' y='1295'/>
+      <part name='C02' x='152' y='1296'/>
+      <part name='C03' x='166' y='1284'/>
+      <part name='L01' x='125' y='1279'/>
+      <part name='L02' x='129' y='1276'/>
+      <part name='L03' x='130' y='1284'/>
+      <part name='M01' x='141' y='1291'/>
+      <part name='M02' x='149' y='1288'/>
+      <part name='R01' x='153' y='1271'/>
+      <part name='R02' x='156' y='1270'/>
+      <part name='R03' x='157' y='1277'/>
+    </box>
+  </image>
+  <image file='017.jpg'>
+    <box top='145' left='1626' width='183' height='157'>
+      <part name='C01' x='1674' y='264'/>
+      <part name='C02' x='1692' y='289'/>
+      <part name='C03' x='1729' y='288'/>
+      <part name='L01' x='1681' y='228'/>
+      <part name='L02' x='1708' y='237'/>
+      <part name='L03' x='1690' y='247'/>
+      <part name='M01' x='1697' y='271'/>
+      <part name='M02' x='1709' y='275'/>
+      <part name='R01' x='1732' y='253'/>
+      <part name='R02' x='1752' y='259'/>
+      <part name='R03' x='1732' y='267'/>
+    </box>
+    <box top='457' left='1733' width='72' height='61'>
+      <part name='C01' x='1756' y='508'/>
+      <part name='C02' x='1771' y='510'/>
+      <part name='C03' x='1779' y='500'/>
+      <part name='L01' x='1749' y='497'/>
+      <part name='L02' x='1754' y='492'/>
+      <part name='L03' x='1757' y='500'/>
+      <part name='M01' x='1765' y='504'/>
+      <part name='M02' x='1768' y='502'/>
+      <part name='R01' x='1764' y='487'/>
+      <part name='R02' x='1774' y='483'/>
+      <part name='R03' x='1772' y='492'/>
+    </box>
+    <box top='479' left='1647' width='47' height='43'>
+      <part name='C01' x='1664' y='513'/>
+      <part name='C02' x='1673' y='519'/>
+      <part name='C03' x='1683' y='513'/>
+      <part name='L01' x='1663' y='502'/>
+      <part name='L02' x='1670' y='501'/>
+      <part name='L03' x='1668' y='506'/>
+      <part name='M01' x='1672' y='512'/>
+      <part name='M02' x='1676' y='512'/>
+      <part name='R01' x='1678' y='502'/>
+      <part name='R02' x='1685' y='502'/>
+      <part name='R03' x='1682' y='507'/>
+    </box>
+    <box top='730' left='1545' width='242' height='205'>
+      <part name='C01' x='1650' y='908'/>
+      <part name='C02' x='1698' y='905'/>
+      <part name='C03' x='1724' y='869'/>
+      <part name='L01' x='1617' y='871'/>
+      <part name='L02' x='1642' y='848'/>
+      <part name='L03' x='1648' y='877'/>
+      <part name='M01' x='1677' y='887'/>
+      <part name='M02' x='1694' y='877'/>
+      <part name='R01' x='1682' y='827'/>
+      <part name='R02' x='1710' y='816'/>
+      <part name='R03' x='1705' y='847'/>
+    </box>
+    <box top='1061' left='1596' width='194' height='195'>
+      <part name='C01' x='1660' y='1231'/>
+      <part name='C02' x='1711' y='1250'/>
+      <part name='C03' x='1750' y='1222'/>
+      <part name='L01' x='1649' y='1192'/>
+      <part name='L02' x='1685' y='1179'/>
+      <part name='L03' x='1676' y='1207'/>
+      <part name='M01' x='1699' y='1230'/>
+      <part name='M02' x='1714' y='1226'/>
+      <part name='R01' x='1727' y='1175'/>
+      <part name='R02' x='1757' y='1178'/>
+      <part name='R03' x='1736' y='1202'/>
+    </box>
+    <box top='209' left='1295' width='72' height='62'>
+      <part name='C01' x='1319' y='259'/>
+      <part name='C02' x='1330' y='265'/>
+      <part name='C03' x='1342' y='260'/>
+      <part name='L01' x='1317' y='247'/>
+      <part name='L02' x='1324' y='245'/>
+      <part name='L03' x='1321' y='246'/>
+      <part name='M01' x='1327' y='257'/>
+      <part name='M02' x='1334' y='257'/>
+      <part name='R01' x='1337' y='246'/>
+      <part name='R02' x='1345' y='247'/>
+      <part name='R03' x='1341' y='247'/>
+    </box>
+    <box top='155' left='1099' width='143' height='133'>
+      <part name='C01' x='1132' y='244'/>
+      <part name='C02' x='1167' y='281'/>
+      <part name='C03' x='1200' y='260'/>
+      <part name='L01' x='1139' y='195'/>
+      <part name='L02' x='1169' y='201'/>
+      <part name='L03' x='1157' y='224'/>
+      <part name='M01' x='1173' y='253'/>
+      <part name='M02' x='1177' y='253'/>
+      <part name='R01' x='1192' y='221'/>
+      <part name='R02' x='1210' y='224'/>
+      <part name='R03' x='1196' y='240'/>
+    </box>
+    <box top='523' left='1280' width='90' height='90'>
+      <part name='C01' x='1298' y='598'/>
+      <part name='C02' x='1320' y='606'/>
+      <part name='C03' x='1339' y='596'/>
+      <part name='L01' x='1295' y='579'/>
+      <part name='L02' x='1308' y='577'/>
+      <part name='L03' x='1305' y='591'/>
+      <part name='M01' x='1317' y='597'/>
+      <part name='M02' x='1319' y='597'/>
+      <part name='R01' x='1325' y='575'/>
+      <part name='R02' x='1340' y='576'/>
+      <part name='R03' x='1332' y='589'/>
+    </box>
+    <box top='857' left='1277' width='90' height='80'>
+      <part name='C01' x='1298' y='922'/>
+      <part name='C02' x='1318' y='932'/>
+      <part name='C03' x='1340' y='920'/>
+      <part name='L01' x='1293' y='903'/>
+      <part name='L02' x='1307' y='899'/>
+      <part name='L03' x='1302' y='911'/>
+      <part name='M01' x='1315' y='918'/>
+      <part name='M02' x='1317' y='918'/>
+      <part name='R01' x='1323' y='896'/>
+      <part name='R02' x='1341' y='895'/>
+      <part name='R03' x='1331' y='905'/>
+    </box>
+    <box top='825' left='1134' width='114' height='98'>
+      <part name='C01' x='1167' y='903'/>
+      <part name='C02' x='1190' y='912'/>
+      <part name='C03' x='1210' y='902'/>
+      <part name='L01' x='1163' y='884'/>
+      <part name='L02' x='1176' y='882'/>
+      <part name='L03' x='1171' y='882'/>
+      <part name='M01' x='1184' y='899'/>
+      <part name='M02' x='1195' y='898'/>
+      <part name='R01' x='1200' y='881'/>
+      <part name='R02' x='1214' y='882'/>
+      <part name='R03' x='1207' y='881'/>
+    </box>
+    <box top='1097' left='1130' width='160' height='162'>
+      <part name='C01' x='1164' y='1231'/>
+      <part name='C02' x='1203' y='1253'/>
+      <part name='C03' x='1241' y='1234'/>
+      <part name='L01' x='1159' y='1200'/>
+      <part name='L02' x='1182' y='1203'/>
+      <part name='L03' x='1170' y='1200'/>
+      <part name='M01' x='1196' y='1234'/>
+      <part name='M02' x='1217' y='1235'/>
+      <part name='R01' x='1222' y='1204'/>
+      <part name='R02' x='1248' y='1207'/>
+      <part name='R03' x='1235' y='1204'/>
+    </box>
+    <box top='1163' left='1314' width='131' height='129'>
+      <part name='C01' x='1343' y='1267'/>
+      <part name='C02' x='1372' y='1280'/>
+      <part name='C03' x='1409' y='1267'/>
+      <part name='L01' x='1337' y='1238'/>
+      <part name='L02' x='1359' y='1239'/>
+      <part name='L03' x='1352' y='1256'/>
+      <part name='M01' x='1371' y='1271'/>
+      <part name='M02' x='1374' y='1271'/>
+      <part name='R01' x='1386' y='1239'/>
+      <part name='R02' x='1411' y='1243'/>
+      <part name='R03' x='1396' y='1259'/>
+    </box>
+    <box top='232' left='703' width='166' height='163'>
+      <part name='C01' x='731' y='358'/>
+      <part name='C02' x='770' y='387'/>
+      <part name='C03' x='823' y='361'/>
+      <part name='L01' x='726' y='313'/>
+      <part name='L02' x='752' y='308'/>
+      <part name='L03' x='742' y='335'/>
+      <part name='M01' x='767' y='360'/>
+      <part name='M02' x='773' y='359'/>
+      <part name='R01' x='790' y='303'/>
+      <part name='R02' x='833' y='306'/>
+      <part name='R03' x='808' y='329'/>
+    </box>
+    <box top='149' left='567' width='208' height='179'>
+      <part name='C01' x='594' y='286'/>
+      <part name='C02' x='640' y='323'/>
+      <part name='C03' x='699' y='300'/>
+      <part name='L01' x='590' y='238'/>
+      <part name='L02' x='624' y='251'/>
+      <part name='L03' x='608' y='268'/>
+      <part name='M01' x='634' y='300'/>
+      <part name='M02' x='655' y='305'/>
+      <part name='R01' x='666' y='273'/>
+      <part name='R02' x='696' y='278'/>
+      <part name='R03' x='682' y='273'/>
+    </box>
+    <box top='199' left='379' width='173' height='174'>
+      <part name='C01' x='433' y='343'/>
+      <part name='C02' x='473' y='368'/>
+      <part name='C03' x='514' y='345'/>
+      <part name='L01' x='426' y='301'/>
+      <part name='L02' x='470' y='296'/>
+      <part name='L03' x='450' y='318'/>
+      <part name='M01' x='473' y='347'/>
+      <part name='M02' x='482' y='345'/>
+      <part name='R01' x='505' y='302'/>
+      <part name='R02' x='535' y='296'/>
+      <part name='R03' x='511' y='320'/>
+    </box>
+    <box top='192' left='186' width='177' height='181'>
+      <part name='C01' x='242' y='339'/>
+      <part name='C02' x='294' y='364'/>
+      <part name='C03' x='340' y='326'/>
+      <part name='L01' x='238' y='301'/>
+      <part name='L02' x='280' y='298'/>
+      <part name='L03' x='261' y='323'/>
+      <part name='M01' x='283' y='349'/>
+      <part name='M02' x='303' y='341'/>
+      <part name='R01' x='314' y='293'/>
+      <part name='R02' x='343' y='276'/>
+      <part name='R03' x='327' y='311'/>
+    </box>
+    <box top='759' left='712' width='127' height='117'>
+      <part name='C01' x='737' y='851'/>
+      <part name='C02' x='757' y='863'/>
+      <part name='C03' x='786' y='853'/>
+      <part name='L01' x='735' y='829'/>
+      <part name='L02' x='748' y='829'/>
+      <part name='L03' x='741' y='828'/>
+      <part name='M01' x='756' y='850'/>
+      <part name='M02' x='762' y='850'/>
+      <part name='R01' x='772' y='831'/>
+      <part name='R02' x='786' y='834'/>
+      <part name='R03' x='779' y='833'/>
+    </box>
+    <box top='762' left='591' width='113' height='107'>
+      <part name='C01' x='628' y='848'/>
+      <part name='C02' x='662' y='864'/>
+      <part name='C03' x='684' y='846'/>
+      <part name='L01' x='632' y='834'/>
+      <part name='L02' x='652' y='826'/>
+      <part name='L03' x='647' y='841'/>
+      <part name='M01' x='657' y='853'/>
+      <part name='M02' x='666' y='850'/>
+      <part name='R01' x='673' y='824'/>
+      <part name='R02' x='687' y='820'/>
+      <part name='R03' x='680' y='835'/>
+    </box>
+    <box top='1064' left='282' width='171' height='147'>
+      <part name='C01' x='322' y='1185'/>
+      <part name='C02' x='359' y='1206'/>
+      <part name='C03' x='395' y='1185'/>
+      <part name='L01' x='315' y='1152'/>
+      <part name='L02' x='341' y='1147'/>
+      <part name='L03' x='332' y='1169'/>
+      <part name='M01' x='350' y='1187'/>
+      <part name='M02' x='368' y='1187'/>
+      <part name='R01' x='373' y='1148'/>
+      <part name='R02' x='401' y='1153'/>
+      <part name='R03' x='386' y='1167'/>
+    </box>
+    <box top='1143' left='134' width='93' height='96'>
+      <part name='C01' x='167' y='1227'/>
+      <part name='C02' x='194' y='1232'/>
+      <part name='C03' x='213' y='1213'/>
+      <part name='L01' x='154' y='1204'/>
+      <part name='L02' x='172' y='1197'/>
+      <part name='L03' x='169' y='1211'/>
+      <part name='M01' x='184' y='1222'/>
+      <part name='M02' x='195' y='1218'/>
+      <part name='R01' x='191' y='1191'/>
+      <part name='R02' x='210' y='1187'/>
+      <part name='R03' x='202' y='1201'/>
+    </box>
+  </image>
+  <image file='018.jpg'>
+    <box top='118' left='1621' width='140' height='126'>
+      <part name='C01' x='1668' y='225'/>
+      <part name='C02' x='1698' y='237'/>
+      <part name='C03' x='1726' y='217'/>
+      <part name='L01' x='1661' y='198'/>
+      <part name='L02' x='1686' y='193'/>
+      <part name='L03' x='1675' y='210'/>
+      <part name='M01' x='1690' y='223'/>
+      <part name='M02' x='1703' y='221'/>
+      <part name='R01' x='1711' y='190'/>
+      <part name='R02' x='1729' y='187'/>
+      <part name='R03' x='1719' y='206'/>
+    </box>
+    <box top='301' left='1809' width='73' height='70'>
+      <part name='C01' x='1837' y='364'/>
+      <part name='C02' x='1855' y='365'/>
+      <part name='C03' x='1864' y='348'/>
+      <part name='L01' x='1829' y='353'/>
+      <part name='L02' x='1836' y='348'/>
+      <part name='L03' x='1834' y='352'/>
+      <part name='M01' x='1846' y='357'/>
+      <part name='M02' x='1853' y='352'/>
+      <part name='R01' x='1848' y='340'/>
+      <part name='R02' x='1858' y='334'/>
+      <part name='R03' x='1855' y='339'/>
+    </box>
+    <box top='471' left='1696' width='128' height='123'>
+      <part name='C01' x='1722' y='570'/>
+      <part name='C02' x='1756' y='587'/>
+      <part name='C03' x='1790' y='559'/>
+      <part name='L01' x='1714' y='542'/>
+      <part name='L02' x='1728' y='535'/>
+      <part name='L03' x='1729' y='554'/>
+      <part name='M01' x='1745' y='566'/>
+      <part name='M02' x='1759' y='559'/>
+      <part name='R01' x='1753' y='526'/>
+      <part name='R02' x='1778' y='517'/>
+      <part name='R03' x='1770' y='537'/>
+    </box>
+    <box top='500' left='1570' width='115' height='108'>
+      <part name='C01' x='1618' y='601'/>
+      <part name='C02' x='1646' y='603'/>
+      <part name='C03' x='1664' y='580'/>
+      <part name='L01' x='1600' y='578'/>
+      <part name='L02' x='1615' y='567'/>
+      <part name='L03' x='1616' y='583'/>
+      <part name='M01' x='1633' y='589'/>
+      <part name='M02' x='1644' y='584'/>
+      <part name='R01' x='1638' y='556'/>
+      <part name='R02' x='1660' y='548'/>
+      <part name='R03' x='1654' y='564'/>
+    </box>
+    <box top='885' left='1575' width='104' height='99'>
+      <part name='C01' x='1615' y='964'/>
+      <part name='C02' x='1637' y='979'/>
+      <part name='C03' x='1658' y='965'/>
+      <part name='L01' x='1612' y='940'/>
+      <part name='L02' x='1630' y='936'/>
+      <part name='L03' x='1623' y='950'/>
+      <part name='M01' x='1633' y='963'/>
+      <part name='M02' x='1642' y='963'/>
+      <part name='R01' x='1651' y='940'/>
+      <part name='R02' x='1661' y='940'/>
+      <part name='R03' x='1654' y='953'/>
+    </box>
+    <box top='1070' left='1656' width='123' height='115'>
+      <part name='C01' x='1685' y='1164'/>
+      <part name='C02' x='1721' y='1179'/>
+      <part name='C03' x='1748' y='1153'/>
+      <part name='L01' x='1675' y='1133'/>
+      <part name='L02' x='1694' y='1126'/>
+      <part name='L03' x='1690' y='1145'/>
+      <part name='M01' x='1706' y='1157'/>
+      <part name='M02' x='1724' y='1153'/>
+      <part name='R01' x='1720' y='1120'/>
+      <part name='R02' x='1748' y='1119'/>
+      <part name='R03' x='1735' y='1134'/>
+    </box>
+    <box top='1263' left='1586' width='70' height='62'>
+      <part name='C01' x='1613' y='1318'/>
+      <part name='C02' x='1632' y='1319'/>
+      <part name='C03' x='1643' y='1304'/>
+      <part name='L01' x='1612' y='1305'/>
+      <part name='L02' x='1614' y='1304'/>
+      <part name='L03' x='1615' y='1308'/>
+      <part name='M01' x='1624' y='1313'/>
+      <part name='M02' x='1632' y='1308'/>
+      <part name='R01' x='1631' y='1295'/>
+      <part name='R02' x='1633' y='1293'/>
+      <part name='R03' x='1635' y='1298'/>
+    </box>
+    <box top='143' left='1222' width='118' height='115'>
+      <part name='C01' x='1244' y='232'/>
+      <part name='C02' x='1264' y='252'/>
+      <part name='C03' x='1297' y='248'/>
+      <part name='L01' x='1245' y='204'/>
+      <part name='L02' x='1268' y='209'/>
+      <part name='L03' x='1254' y='218'/>
+      <part name='M01' x='1269' y='242'/>
+      <part name='M02' x='1271' y='242'/>
+      <part name='R01' x='1291' y='216'/>
+      <part name='R02' x='1313' y='221'/>
+      <part name='R03' x='1296' y='231'/>
+    </box>
+    <box top='353' left='1108' width='49' height='43'>
+      <part name='C01' x='1125' y='392'/>
+      <part name='C02' x='1137' y='393'/>
+      <part name='C03' x='1146' y='385'/>
+      <part name='L01' x='1123' y='383'/>
+      <part name='L02' x='1126' y='382'/>
+      <part name='L03' x='1126' y='385'/>
+      <part name='M01' x='1132' y='389'/>
+      <part name='M02' x='1138' y='387'/>
+      <part name='R01' x='1139' y='379'/>
+      <part name='R02' x='1141' y='378'/>
+      <part name='R03' x='1140' y='381'/>
+    </box>
+    <box top='433' left='1245' width='169' height='139'>
+      <part name='C01' x='1287' y='543'/>
+      <part name='C02' x='1321' y='562'/>
+      <part name='C03' x='1355' y='542'/>
+      <part name='L01' x='1279' y='512'/>
+      <part name='L02' x='1303' y='507'/>
+      <part name='L03' x='1296' y='529'/>
+      <part name='M01' x='1312' y='542'/>
+      <part name='M02' x='1330' y='542'/>
+      <part name='R01' x='1333' y='506'/>
+      <part name='R02' x='1361' y='508'/>
+      <part name='R03' x='1348' y='525'/>
+    </box>
+    <box top='500' left='1135' width='81' height='81'>
+      <part name='C01' x='1153' y='563'/>
+      <part name='C02' x='1170' y='576'/>
+      <part name='C03' x='1190' y='567'/>
+      <part name='L01' x='1152' y='546'/>
+      <part name='L02' x='1166' y='548'/>
+      <part name='L03' x='1158' y='555'/>
+      <part name='M01' x='1170' y='569'/>
+      <part name='M02' x='1173' y='569'/>
+      <part name='R01' x='1181' y='549'/>
+      <part name='R02' x='1197' y='550'/>
+      <part name='R03' x='1188' y='559'/>
+    </box>
+    <box top='741' left='1274' width='144' height='142'>
+      <part name='C01' x='1308' y='854'/>
+      <part name='C02' x='1347' y='875'/>
+      <part name='C03' x='1382' y='856'/>
+      <part name='L01' x='1299' y='819'/>
+      <part name='L02' x='1328' y='813'/>
+      <part name='L03' x='1318' y='838'/>
+      <part name='M01' x='1344' y='860'/>
+      <part name='M02' x='1348' y='860'/>
+      <part name='R01' x='1361' y='813'/>
+      <part name='R02' x='1392' y='816'/>
+      <part name='R03' x='1375' y='834'/>
+    </box>
+    <box top='808' left='1145' width='79' height='85'>
+      <part name='C01' x='1163' y='878'/>
+      <part name='C02' x='1180' y='890'/>
+      <part name='C03' x='1205' y='879'/>
+      <part name='L01' x='1159' y='857'/>
+      <part name='L02' x='1175' y='859'/>
+      <part name='L03' x='1167' y='868'/>
+      <part name='M01' x='1179' y='882'/>
+      <part name='M02' x='1183' y='882'/>
+      <part name='R01' x='1192' y='860'/>
+      <part name='R02' x='1210' y='862'/>
+      <part name='R03' x='1200' y='871'/>
+    </box>
+    <box top='1068' left='1101' width='151' height='131'>
+      <part name='C01' x='1153' y='1174'/>
+      <part name='C02' x='1190' y='1187'/>
+      <part name='C03' x='1219' y='1165'/>
+      <part name='L01' x='1134' y='1135'/>
+      <part name='L02' x='1159' y='1140'/>
+      <part name='L03' x='1156' y='1155'/>
+      <part name='M01' x='1171' y='1171'/>
+      <part name='M02' x='1203' y='1168'/>
+      <part name='R01' x='1189' y='1136'/>
+      <part name='R02' x='1219' y='1125'/>
+      <part name='R03' x='1204' y='1145'/>
+    </box>
+    <box top='130' left='727' width='112' height='112'>
+      <part name='C01' x='751' y='222'/>
+      <part name='C02' x='778' y='235'/>
+      <part name='C03' x='802' y='219'/>
+      <part name='L01' x='745' y='197'/>
+      <part name='L02' x='761' y='194'/>
+      <part name='L03' x='758' y='210'/>
+      <part name='M01' x='772' y='222'/>
+      <part name='M02' x='782' y='222'/>
+      <part name='R01' x='785' y='192'/>
+      <part name='R02' x='807' y='194'/>
+      <part name='R03' x='796' y='207'/>
+    </box>
+    <box top='139' left='602' width='97' height='109'>
+      <part name='C01' x='623' y='224'/>
+      <part name='C02' x='641' y='239'/>
+      <part name='C03' x='670' y='233'/>
+      <part name='L01' x='620' y='197'/>
+      <part name='L02' x='641' y='198'/>
+      <part name='L03' x='631' y='208'/>
+      <part name='M01' x='640' y='227'/>
+      <part name='M02' x='650' y='228'/>
+      <part name='R01' x='663' y='205'/>
+      <part name='R02' x='682' y='210'/>
+      <part name='R03' x='668' y='218'/>
+    </box>
+    <box top='486' left='602' width='115' height='104'>
+      <part name='C01' x='638' y='574'/>
+      <part name='C02' x='664' y='587'/>
+      <part name='C03' x='693' y='573'/>
+      <part name='L01' x='632' y='546'/>
+      <part name='L02' x='652' y='545'/>
+      <part name='L03' x='644' y='559'/>
+      <part name='M01' x='663' y='574'/>
+      <part name='M02' x='667' y='574'/>
+      <part name='R01' x='677' y='545'/>
+      <part name='R02' x='697' y='544'/>
+      <part name='R03' x='685' y='559'/>
+    </box>
+    <box top='841' left='708' width='149' height='143'>
+      <part name='C01' x='754' y='966'/>
+      <part name='C02' x='792' y='973'/>
+      <part name='C03' x='815' y='946'/>
+      <part name='L01' x='735' y='933'/>
+      <part name='L02' x='757' y='926'/>
+      <part name='L03' x='757' y='946'/>
+      <part name='M01' x='779' y='956'/>
+      <part name='M02' x='793' y='951'/>
+      <part name='R01' x='785' y='916'/>
+      <part name='R02' x='814' y='908'/>
+      <part name='R03' x='804' y='930'/>
+    </box>
+    <box top='860' left='673' width='41' height='39'>
+      <part name='C01' x='687' y='892'/>
+      <part name='C02' x='697' y='896'/>
+      <part name='C03' x='706' y='892'/>
+      <part name='L01' x='691' y='885'/>
+      <part name='L02' x='693' y='885'/>
+      <part name='L03' x='692' y='888'/>
+      <part name='M01' x='696' y='892'/>
+      <part name='M02' x='698' y='892'/>
+      <part name='R01' x='702' y='886'/>
+      <part name='R02' x='704' y='886'/>
+      <part name='R03' x='703' y='889'/>
+    </box>
+    <box top='914' left='567' width='128' height='124'>
+      <part name='C01' x='594' y='1014'/>
+      <part name='C02' x='631' y='1028'/>
+      <part name='C03' x='664' y='1014'/>
+      <part name='L01' x='591' y='991'/>
+      <part name='L02' x='613' y='991'/>
+      <part name='L03' x='602' y='991'/>
+      <part name='M01' x='627' y='1013'/>
+      <part name='M02' x='632' y='1013'/>
+      <part name='R01' x='646' y='990'/>
+      <part name='R02' x='667' y='989'/>
+      <part name='R03' x='658' y='989'/>
+    </box>
+    <box top='1197' left='805' width='83' height='79'>
+      <part name='C01' x='826' y='1262'/>
+      <part name='C02' x='843' y='1270'/>
+      <part name='C03' x='861' y='1261'/>
+      <part name='L01' x='821' y='1244'/>
+      <part name='L02' x='833' y='1242'/>
+      <part name='L03' x='830' y='1253'/>
+      <part name='M01' x='841' y='1261'/>
+      <part name='M02' x='847' y='1260'/>
+      <part name='R01' x='850' y='1240'/>
+      <part name='R02' x='865' y='1241'/>
+      <part name='R03' x='857' y='1250'/>
+    </box>
+    <box top='1167' left='1295' width='96' height='68'>
+      <part name='C01' x='1326' y='1215'/>
+      <part name='C02' x='1349' y='1224'/>
+      <part name='C03' x='1363' y='1209'/>
+      <part name='L01' x='1320' y='1199'/>
+      <part name='L02' x='1333' y='1195'/>
+      <part name='L03' x='1327' y='1196'/>
+      <part name='M01' x='1340' y='1212'/>
+      <part name='M02' x='1349' y='1209'/>
+      <part name='R01' x='1353' y='1192'/>
+      <part name='R02' x='1362' y='1191'/>
+      <part name='R03' x='1358' y='1191'/>
+    </box>
+    <box top='135' left='304' width='121' height='110'>
+      <part name='C01' x='337' y='225'/>
+      <part name='C02' x='363' y='236'/>
+      <part name='C03' x='386' y='220'/>
+      <part name='L01' x='327' y='197'/>
+      <part name='L02' x='344' y='196'/>
+      <part name='L03' x='340' y='208'/>
+      <part name='M01' x='358' y='221'/>
+      <part name='M02' x='360' y='221'/>
+      <part name='R01' x='367' y='189'/>
+      <part name='R02' x='386' y='184'/>
+      <part name='R03' x='378' y='200'/>
+    </box>
+    <box top='209' left='193' width='90' height='93'>
+      <part name='C01' x='223' y='290'/>
+      <part name='C02' x='248' y='291'/>
+      <part name='C03' x='261' y='271'/>
+      <part name='L01' x='213' y='274'/>
+      <part name='L02' x='223' y='268'/>
+      <part name='L03' x='218' y='271'/>
+      <part name='M01' x='237' y='281'/>
+      <part name='M02' x='246' y='276'/>
+      <part name='R01' x='243' y='258'/>
+      <part name='R02' x='257' y='253'/>
+      <part name='R03' x='250' y='255'/>
+    </box>
+    <box top='269' left='85' width='102' height='86'>
+      <part name='C01' x='115' y='338'/>
+      <part name='C02' x='137' y='344'/>
+      <part name='C03' x='155' y='333'/>
+      <part name='L01' x='110' y='318'/>
+      <part name='L02' x='123' y='316'/>
+      <part name='L03' x='120' y='327'/>
+      <part name='M01' x='134' y='335'/>
+      <part name='M02' x='136' y='335'/>
+      <part name='R01' x='142' y='314'/>
+      <part name='R02' x='156' y='312'/>
+      <part name='R03' x='149' y='324'/>
+    </box>
+    <box top='432' left='219' width='151' height='150'>
+      <part name='C01' x='266' y='562'/>
+      <part name='C02' x='307' y='570'/>
+      <part name='C03' x='331' y='543'/>
+      <part name='L01' x='247' y='527'/>
+      <part name='L02' x='268' y='518'/>
+      <part name='L03' x='270' y='539'/>
+      <part name='M01' x='294' y='551'/>
+      <part name='M02' x='308' y='544'/>
+      <part name='R01' x='300' y='506'/>
+      <part name='R02' x='329' y='496'/>
+      <part name='R03' x='317' y='519'/>
+    </box>
+    <box top='770' left='219' width='174' height='153'>
+      <part name='C01' x='264' y='884'/>
+      <part name='C02' x='302' y='917'/>
+      <part name='C03' x='346' y='897'/>
+      <part name='L01' x='262' y='832'/>
+      <part name='L02' x='297' y='842'/>
+      <part name='L03' x='279' y='857'/>
+      <part name='M01' x='294' y='889'/>
+      <part name='M02' x='312' y='892'/>
+      <part name='R01' x='333' y='850'/>
+      <part name='R02' x='360' y='853'/>
+      <part name='R03' x='337' y='871'/>
+    </box>
+    <box top='1197' left='205' width='88' height='84'>
+      <part name='C01' x='228' y='1261'/>
+      <part name='C02' x='253' y='1275'/>
+      <part name='C03' x='274' y='1264'/>
+      <part name='L01' x='238' y='1245'/>
+      <part name='L02' x='240' y='1245'/>
+      <part name='L03' x='239' y='1251'/>
+      <part name='M01' x='247' y='1264'/>
+      <part name='M02' x='258' y='1263'/>
+      <part name='R01' x='267' y='1247'/>
+      <part name='R02' x='270' y='1247'/>
+      <part name='R03' x='268' y='1253'/>
+    </box>
+    <box top='1217' left='101' width='84' height='78'>
+      <part name='C01' x='128' y='1281'/>
+      <part name='C02' x='148' y='1291'/>
+      <part name='C03' x='169' y='1282'/>
+      <part name='L01' x='125' y='1262'/>
+      <part name='L02' x='139' y='1262'/>
+      <part name='L03' x='133' y='1273'/>
+      <part name='M01' x='147' y='1283'/>
+      <part name='M02' x='149' y='1282'/>
+      <part name='R01' x='159' y='1263'/>
+      <part name='R02' x='171' y='1263'/>
+      <part name='R03' x='162' y='1274'/>
+    </box>
+    <box top='296' left='1498' width='69' height='78'>
+      <part name='C01' x='1512' y='350'/>
+      <part name='C02' x='1525' y='363'/>
+      <part name='C03' x='1544' y='360'/>
+      <part name='L01' x='1522' y='336'/>
+      <part name='L02' x='1525' y='337'/>
+      <part name='L03' x='1522' y='341'/>
+      <part name='M01' x='1527' y='354'/>
+      <part name='M02' x='1531' y='354'/>
+      <part name='R01' x='1543' y='342'/>
+      <part name='R02' x='1546' y='344'/>
+      <part name='R03' x='1542' y='348'/>
+    </box>
+  </image>
+  <image file='019.jpg'>
+    <box top='429' left='1576' width='193' height='152'>
+      <part name='C01' x='1639' y='562'/>
+      <part name='C02' x='1681' y='570'/>
+      <part name='C03' x='1711' y='544'/>
+      <part name='L01' x='1621' y='524'/>
+      <part name='L02' x='1648' y='513'/>
+      <part name='L03' x='1642' y='537'/>
+      <part name='M01' x='1667' y='552'/>
+      <part name='M02' x='1684' y='546'/>
+      <part name='R01' x='1683' y='504'/>
+      <part name='R02' x='1713' y='502'/>
+      <part name='R03' x='1698' y='523'/>
+    </box>
+    <box top='758' left='1677' width='133' height='126'>
+      <part name='C01' x='1724' y='873'/>
+      <part name='C02' x='1756' y='877'/>
+      <part name='C03' x='1775' y='851'/>
+      <part name='L01' x='1704' y='846'/>
+      <part name='L02' x='1722' y='839'/>
+      <part name='L03' x='1721' y='853'/>
+      <part name='M01' x='1744' y='860'/>
+      <part name='M02' x='1754' y='856'/>
+      <part name='R01' x='1745' y='824'/>
+      <part name='R02' x='1770' y='814'/>
+      <part name='R03' x='1761' y='834'/>
+    </box>
+    <box top='832' left='1580' width='104' height='101'>
+      <part name='C01' x='1612' y='924'/>
+      <part name='C02' x='1638' y='928'/>
+      <part name='C03' x='1655' y='911'/>
+      <part name='L01' x='1598' y='904'/>
+      <part name='L02' x='1614' y='899'/>
+      <part name='L03' x='1615' y='911'/>
+      <part name='M01' x='1633' y='919'/>
+      <part name='M02' x='1635' y='918'/>
+      <part name='R01' x='1635' y='889'/>
+      <part name='R02' x='1656' y='884'/>
+      <part name='R03' x='1647' y='899'/>
+    </box>
+    <box top='1063' left='1571' width='186' height='166'>
+      <part name='C01' x='1621' y='1207'/>
+      <part name='C02' x='1663' y='1221'/>
+      <part name='C03' x='1701' y='1196'/>
+      <part name='L01' x='1605' y='1167'/>
+      <part name='L02' x='1629' y='1169'/>
+      <part name='L03' x='1629' y='1187'/>
+      <part name='M01' x='1657' y='1205'/>
+      <part name='M02' x='1666' y='1204'/>
+      <part name='R01' x='1666' y='1164'/>
+      <part name='R02' x='1699' y='1155'/>
+      <part name='R03' x='1684' y='1176'/>
+    </box>
+    <box top='159' left='1233' width='155' height='135'>
+      <part name='C01' x='1272' y='255'/>
+      <part name='C02' x='1299' y='286'/>
+      <part name='C03' x='1336' y='278'/>
+      <part name='L01' x='1282' y='221'/>
+      <part name='L02' x='1310' y='223'/>
+      <part name='L03' x='1294' y='241'/>
+      <part name='M01' x='1300' y='268'/>
+      <part name='M02' x='1314' y='267'/>
+      <part name='R01' x='1337' y='240'/>
+      <part name='R02' x='1348' y='251'/>
+      <part name='R03' x='1332' y='259'/>
+    </box>
+    <box top='459' left='1184' width='181' height='167'>
+      <part name='C01' x='1231' y='576'/>
+      <part name='C02' x='1256' y='612'/>
+      <part name='C03' x='1298' y='608'/>
+      <part name='L01' x='1242' y='537'/>
+      <part name='L02' x='1275' y='547'/>
+      <part name='L03' x='1253' y='559'/>
+      <part name='M01' x='1260' y='589'/>
+      <part name='M02' x='1274' y='593'/>
+      <part name='R01' x='1302' y='566'/>
+      <part name='R02' x='1320' y='576'/>
+      <part name='R03' x='1299' y='587'/>
+    </box>
+    <box top='847' left='1217' width='150' height='144'>
+      <part name='C01' x='1250' y='968'/>
+      <part name='C02' x='1297' y='981'/>
+      <part name='C03' x='1335' y='950'/>
+      <part name='L01' x='1233' y='927'/>
+      <part name='L02' x='1261' y='915'/>
+      <part name='L03' x='1259' y='939'/>
+      <part name='M01' x='1288' y='953'/>
+      <part name='M02' x='1292' y='952'/>
+      <part name='R01' x='1298' y='903'/>
+      <part name='R02' x='1333' y='900'/>
+      <part name='R03' x='1317' y='923'/>
+    </box>
+    <box top='1127' left='1219' width='169' height='149'>
+      <part name='C01' x='1258' y='1243'/>
+      <part name='C02' x='1297' y='1265'/>
+      <part name='C03' x='1343' y='1246'/>
+      <part name='L01' x='1245' y='1196'/>
+      <part name='L02' x='1275' y='1206'/>
+      <part name='L03' x='1267' y='1225'/>
+      <part name='M01' x='1288' y='1251'/>
+      <part name='M02' x='1307' y='1251'/>
+      <part name='R01' x='1312' y='1210'/>
+      <part name='R02' x='1349' y='1212'/>
+      <part name='R03' x='1328' y='1231'/>
+    </box>
+    <box top='159' left='721' width='107' height='96'>
+      <part name='C01' x='748' y='234'/>
+      <part name='C02' x='772' y='247'/>
+      <part name='C03' x='794' y='236'/>
+      <part name='L01' x='746' y='217'/>
+      <part name='L02' x='766' y='215'/>
+      <part name='L03' x='758' y='226'/>
+      <part name='M01' x='774' y='240'/>
+      <part name='M02' x='777' y='239'/>
+      <part name='R01' x='786' y='215'/>
+      <part name='R02' x='800' y='212'/>
+      <part name='R03' x='790' y='227'/>
+    </box>
+    <box top='138' left='580' width='110' height='102'>
+      <part name='C01' x='611' y='214'/>
+      <part name='C02' x='632' y='232'/>
+      <part name='C03' x='658' y='224'/>
+      <part name='L01' x='613' y='196'/>
+      <part name='L02' x='630' y='198'/>
+      <part name='L03' x='622' y='199'/>
+      <part name='M01' x='632' y='221'/>
+      <part name='M02' x='638' y='221'/>
+      <part name='R01' x='653' y='205'/>
+      <part name='R02' x='663' y='209'/>
+      <part name='R03' x='658' y='209'/>
+    </box>
+    <box top='452' left='586' width='122' height='110'>
+      <part name='C01' x='625' y='539'/>
+      <part name='C02' x='651' y='553'/>
+      <part name='C03' x='673' y='539'/>
+      <part name='L01' x='616' y='520'/>
+      <part name='L02' x='639' y='519'/>
+      <part name='L03' x='629' y='529'/>
+      <part name='M01' x='647' y='544'/>
+      <part name='M02' x='653' y='543'/>
+      <part name='R01' x='660' y='518'/>
+      <part name='R02' x='679' y='510'/>
+      <part name='R03' x='668' y='525'/>
+    </box>
+    <box top='1077' left='611' width='199' height='153'>
+      <part name='C01' x='670' y='1215'/>
+      <part name='C02' x='712' y='1220'/>
+      <part name='C03' x='745' y='1177'/>
+      <part name='L01' x='645' y='1176'/>
+      <part name='L02' x='666' y='1165'/>
+      <part name='L03' x='671' y='1189'/>
+      <part name='M01' x='695' y='1197'/>
+      <part name='M02' x='711' y='1188'/>
+      <part name='R01' x='697' y='1148'/>
+      <part name='R02' x='728' y='1135'/>
+      <part name='R03' x='719' y='1163'/>
+    </box>
+    <box top='204' left='297' width='96' height='106'>
+      <part name='C01' x='321' y='280'/>
+      <part name='C02' x='336' y='301'/>
+      <part name='C03' x='363' y='297'/>
+      <part name='L01' x='324' y='252'/>
+      <part name='L02' x='345' y='258'/>
+      <part name='L03' x='333' y='266'/>
+      <part name='M01' x='336' y='286'/>
+      <part name='M02' x='345' y='289'/>
+      <part name='R01' x='364' y='269'/>
+      <part name='R02' x='377' y='275'/>
+      <part name='R03' x='362' y='281'/>
+    </box>
+    <box top='258' left='402' width='81' height='80'>
+      <part name='C01' x='419' y='318'/>
+      <part name='C02' x='432' y='332'/>
+      <part name='C03' x='454' y='330'/>
+      <part name='L01' x='424' y='300'/>
+      <part name='L02' x='432' y='302'/>
+      <part name='L03' x='427' y='311'/>
+      <part name='M01' x='436' y='325'/>
+      <part name='M02' x='439' y='325'/>
+      <part name='R01' x='455' y='306'/>
+      <part name='R02' x='465' y='308'/>
+      <part name='R03' x='453' y='318'/>
+    </box>
+    <box top='516' left='176' width='109' height='90'>
+      <part name='C01' x='205' y='593'/>
+      <part name='C02' x='232' y='603'/>
+      <part name='C03' x='255' y='584'/>
+      <part name='L01' x='195' y='566'/>
+      <part name='L02' x='212' y='565'/>
+      <part name='L03' x='209' y='577'/>
+      <part name='M01' x='226' y='588'/>
+      <part name='M02' x='233' y='586'/>
+      <part name='R01' x='233' y='559'/>
+      <part name='R02' x='253' y='551'/>
+      <part name='R03' x='246' y='568'/>
+    </box>
+    <box top='745' left='209' width='180' height='181'>
+      <part name='C01' x='256' y='903'/>
+      <part name='C02' x='305' y='919'/>
+      <part name='C03' x='340' y='889'/>
+      <part name='L01' x='238' y='865'/>
+      <part name='L02' x='269' y='860'/>
+      <part name='L03' x='264' y='880'/>
+      <part name='M01' x='295' y='899'/>
+      <part name='M02' x='305' y='897'/>
+      <part name='R01' x='307' y='850'/>
+      <part name='R02' x='343' y='842'/>
+      <part name='R03' x='326' y='866'/>
+    </box>
+    <box top='1066' left='213' width='139' height='142'>
+      <part name='C01' x='243' y='1168'/>
+      <part name='C02' x='265' y='1201'/>
+      <part name='C03' x='304' y='1198'/>
+      <part name='L01' x='257' y='1136'/>
+      <part name='L02' x='278' y='1149'/>
+      <part name='L03' x='268' y='1143'/>
+      <part name='M01' x='262' y='1179'/>
+      <part name='M02' x='278' y='1190'/>
+      <part name='R01' x='303' y='1169'/>
+      <part name='R02' x='318' y='1176'/>
+      <part name='R03' x='311' y='1173'/>
+    </box>
+    <box top='1205' left='344' width='107' height='100'>
+      <part name='C01' x='365' y='1271'/>
+      <part name='C02' x='380' y='1295'/>
+      <part name='C03' x='412' y='1293'/>
+      <part name='L01' x='369' y='1246'/>
+      <part name='L02' x='391' y='1257'/>
+      <part name='L03' x='375' y='1264'/>
+      <part name='M01' x='385' y='1284'/>
+      <part name='M02' x='391' y='1286'/>
+      <part name='R01' x='410' y='1266'/>
+      <part name='R02' x='427' y='1267'/>
+      <part name='R03' x='409' y='1278'/>
+    </box>
+  </image>
+  <image file='020.jpg'>
+    <box top='128' left='1612' width='127' height='122'>
+      <part name='C01' x='1656' y='229'/>
+      <part name='C02' x='1685' y='242'/>
+      <part name='C03' x='1714' y='225'/>
+      <part name='L01' x='1648' y='206'/>
+      <part name='L02' x='1674' y='197'/>
+      <part name='L03' x='1664' y='217'/>
+      <part name='M01' x='1686' y='231'/>
+      <part name='M02' x='1688' y='231'/>
+      <part name='R01' x='1702' y='199'/>
+      <part name='R02' x='1722' y='190'/>
+      <part name='R03' x='1706' y='213'/>
+    </box>
+    <box top='487' left='1659' width='156' height='156'>
+      <part name='C01' x='1703' y='622'/>
+      <part name='C02' x='1746' y='628'/>
+      <part name='C03' x='1772' y='598'/>
+      <part name='L01' x='1681' y='588'/>
+      <part name='L02' x='1703' y='579'/>
+      <part name='L03' x='1706' y='602'/>
+      <part name='M01' x='1735' y='611'/>
+      <part name='M02' x='1739' y='610'/>
+      <part name='R01' x='1736' y='565'/>
+      <part name='R02' x='1767' y='555'/>
+      <part name='R03' x='1756' y='578'/>
+    </box>
+    <box top='548' left='1509' width='125' height='113'>
+      <part name='C01' x='1547' y='646'/>
+      <part name='C02' x='1580' y='652'/>
+      <part name='C03' x='1601' y='630'/>
+      <part name='L01' x='1531' y='616'/>
+      <part name='L02' x='1549' y='608'/>
+      <part name='L03' x='1549' y='626'/>
+      <part name='M01' x='1570' y='634'/>
+      <part name='M02' x='1580' y='632'/>
+      <part name='R01' x='1575' y='597'/>
+      <part name='R02' x='1600' y='593'/>
+      <part name='R03' x='1590' y='611'/>
+    </box>
+    <box top='891' left='1665' width='179' height='159'>
+      <part name='C01' x='1696' y='1016'/>
+      <part name='C02' x='1745' y='1036'/>
+      <part name='C03' x='1789' y='1022'/>
+      <part name='L01' x='1693' y='984'/>
+      <part name='L02' x='1718' y='981'/>
+      <part name='L03' x='1706' y='988'/>
+      <part name='M01' x='1740' y='1015'/>
+      <part name='M02' x='1744' y='1015'/>
+      <part name='R01' x='1763' y='977'/>
+      <part name='R02' x='1795' y='977'/>
+      <part name='R03' x='1781' y='982'/>
+    </box>
+    <box top='791' left='1521' width='55' height='49'>
+      <part name='C01' x='1540' y='833'/>
+      <part name='C02' x='1553' y='832'/>
+      <part name='C03' x='1563' y='822'/>
+      <part name='L01' x='1539' y='824'/>
+      <part name='L02' x='1541' y='823'/>
+      <part name='L03' x='1541' y='826'/>
+      <part name='M01' x='1548' y='830'/>
+      <part name='M02' x='1554' y='827'/>
+      <part name='R01' x='1555' y='819'/>
+      <part name='R02' x='1557' y='818'/>
+      <part name='R03' x='1557' y='821'/>
+    </box>
+    <box top='187' left='1280' width='133' height='115'>
+      <part name='C01' x='1316' y='289'/>
+      <part name='C02' x='1349' y='294'/>
+      <part name='C03' x='1369' y='275'/>
+      <part name='L01' x='1301' y='262'/>
+      <part name='L02' x='1320' y='255'/>
+      <part name='L03' x='1320' y='272'/>
+      <part name='M01' x='1339' y='282'/>
+      <part name='M02' x='1350' y='279'/>
+      <part name='R01' x='1346' y='245'/>
+      <part name='R02' x='1370' y='241'/>
+      <part name='R03' x='1359' y='259'/>
+    </box>
+    <box top='153' left='1133' width='113' height='117'>
+      <part name='C01' x='1155' y='238'/>
+      <part name='C02' x='1183' y='262'/>
+      <part name='C03' x='1212' y='252'/>
+      <part name='L01' x='1155' y='204'/>
+      <part name='L02' x='1181' y='212'/>
+      <part name='L03' x='1168' y='224'/>
+      <part name='M01' x='1183' y='249'/>
+      <part name='M02' x='1188' y='250'/>
+      <part name='R01' x='1207' y='220'/>
+      <part name='R02' x='1229' y='217'/>
+      <part name='R03' x='1210' y='234'/>
+    </box>
+    <box top='488' left='1271' width='128' height='112'>
+      <part name='C01' x='1308' y='587'/>
+      <part name='C02' x='1337' y='593'/>
+      <part name='C03' x='1357' y='578'/>
+      <part name='L01' x='1292' y='557'/>
+      <part name='L02' x='1312' y='551'/>
+      <part name='L03' x='1311' y='569'/>
+      <part name='M01' x='1328' y='583'/>
+      <part name='M02' x='1342' y='579'/>
+      <part name='R01' x='1338' y='545'/>
+      <part name='R02' x='1361' y='544'/>
+      <part name='R03' x='1350' y='559'/>
+    </box>
+    <box top='449' left='1143' width='109' height='109'>
+      <part name='C01' x='1163' y='523'/>
+      <part name='C02' x='1187' y='552'/>
+      <part name='C03' x='1221' y='545'/>
+      <part name='L01' x='1170' y='488'/>
+      <part name='L02' x='1192' y='496'/>
+      <part name='L03' x='1178' y='508'/>
+      <part name='M01' x='1186' y='531'/>
+      <part name='M02' x='1197' y='535'/>
+      <part name='R01' x='1217' y='509'/>
+      <part name='R02' x='1236' y='516'/>
+      <part name='R03' x='1217' y='525'/>
+    </box>
+    <box top='932' left='1059' width='125' height='105'>
+      <part name='C01' x='1100' y='1020'/>
+      <part name='C02' x='1130' y='1032'/>
+      <part name='C03' x='1157' y='1010'/>
+      <part name='L01' x='1097' y='1000'/>
+      <part name='L02' x='1105' y='997'/>
+      <part name='L03' x='1104' y='1007'/>
+      <part name='M01' x='1116' y='1020'/>
+      <part name='M02' x='1136' y='1015'/>
+      <part name='R01' x='1140' y='990'/>
+      <part name='R02' x='1146' y='988'/>
+      <part name='R03' x='1145' y='999'/>
+    </box>
+    <box top='1162' left='1306' width='133' height='119'>
+      <part name='C01' x='1343' y='1263'/>
+      <part name='C02' x='1374' y='1269'/>
+      <part name='C03' x='1395' y='1248'/>
+      <part name='L01' x='1329' y='1234'/>
+      <part name='L02' x='1349' y='1227'/>
+      <part name='L03' x='1349' y='1245'/>
+      <part name='M01' x='1371' y='1259'/>
+      <part name='M02' x='1376' y='1256'/>
+      <part name='R01' x='1374' y='1220'/>
+      <part name='R02' x='1395' y='1216'/>
+      <part name='R03' x='1387' y='1234'/>
+    </box>
+    <box top='1176' left='1178' width='107' height='106'>
+      <part name='C01' x='1205' y='1254'/>
+      <part name='C02' x='1227' y='1273'/>
+      <part name='C03' x='1257' y='1264'/>
+      <part name='L01' x='1200' y='1224'/>
+      <part name='L02' x='1223' y='1221'/>
+      <part name='L03' x='1214' y='1239'/>
+      <part name='M01' x='1224' y='1259'/>
+      <part name='M02' x='1234' y='1259'/>
+      <part name='R01' x='1251' y='1229'/>
+      <part name='R02' x='1269' y='1236'/>
+      <part name='R03' x='1252' y='1247'/>
+    </box>
+    <box top='209' left='723' width='72' height='71'>
+      <part name='C01' x='742' y='263'/>
+      <part name='C02' x='759' y='274'/>
+      <part name='C03' x='778' y='265'/>
+      <part name='L01' x='739' y='244'/>
+      <part name='L02' x='756' y='241'/>
+      <part name='L03' x='748' y='252'/>
+      <part name='M01' x='755' y='265'/>
+      <part name='M02' x='763' y='265'/>
+      <part name='R01' x='771' y='243'/>
+      <part name='R02' x='783' y='245'/>
+      <part name='R03' x='773' y='254'/>
+    </box>
+    <box top='180' left='559' width='121' height='109'>
+      <part name='C01' x='586' y='269'/>
+      <part name='C02' x='621' y='286'/>
+      <part name='C03' x='655' y='264'/>
+      <part name='L01' x='576' y='236'/>
+      <part name='L02' x='598' y='237'/>
+      <part name='L03' x='594' y='253'/>
+      <part name='M01' x='615' y='269'/>
+      <part name='M02' x='618' y='269'/>
+      <part name='R01' x='629' y='231'/>
+      <part name='R02' x='657' y='231'/>
+      <part name='R03' x='642' y='248'/>
+    </box>
+    <box top='474' left='732' width='147' height='127'>
+      <part name='C01' x='781' y='580'/>
+      <part name='C02' x='827' y='587'/>
+      <part name='C03' x='850' y='549'/>
+      <part name='L01' x='752' y='541'/>
+      <part name='L02' x='780' y='529'/>
+      <part name='L03' x='779' y='552'/>
+      <part name='M01' x='812' y='563'/>
+      <part name='M02' x='817' y='561'/>
+      <part name='R01' x='812' y='511'/>
+      <part name='R02' x='843' y='497'/>
+      <part name='R03' x='834' y='523'/>
+    </box>
+    <box top='536' left='565' width='152' height='128'>
+      <part name='C01' x='598' y='635'/>
+      <part name='C02' x='640' y='659'/>
+      <part name='C03' x='686' y='641'/>
+      <part name='L01' x='593' y='599'/>
+      <part name='L02' x='625' y='594'/>
+      <part name='L03' x='613' y='613'/>
+      <part name='M01' x='641' y='639'/>
+      <part name='M02' x='644' y='639'/>
+      <part name='R01' x='663' y='596'/>
+      <part name='R02' x='697' y='600'/>
+      <part name='R03' x='676' y='616'/>
+    </box>
+    <box top='796' left='573' width='109' height='117'>
+      <part name='C01' x='587' y='888'/>
+      <part name='C02' x='627' y='910'/>
+      <part name='C03' x='663' y='888'/>
+      <part name='L01' x='581' y='859'/>
+      <part name='L02' x='607' y='856'/>
+      <part name='L03' x='593' y='855'/>
+      <part name='M01' x='615' y='891'/>
+      <part name='M02' x='632' y='890'/>
+      <part name='R01' x='646' y='856'/>
+      <part name='R02' x='669' y='857'/>
+      <part name='R03' x='658' y='855'/>
+    </box>
+    <box top='1125' left='714' width='108' height='110'>
+      <part name='C01' x='728' y='1210'/>
+      <part name='C02' x='759' y='1227'/>
+      <part name='C03' x='792' y='1209'/>
+      <part name='L01' x='722' y='1179'/>
+      <part name='L02' x='742' y='1180'/>
+      <part name='L03' x='738' y='1196'/>
+      <part name='M01' x='756' y='1212'/>
+      <part name='M02' x='760' y='1211'/>
+      <part name='R01' x='771' y='1177'/>
+      <part name='R02' x='798' y='1178'/>
+      <part name='R03' x='781' y='1193'/>
+    </box>
+    <box top='449' left='291' width='118' height='120'>
+      <part name='C01' x='323' y='549'/>
+      <part name='C02' x='353' y='562'/>
+      <part name='C03' x='380' y='547'/>
+      <part name='L01' x='318' y='525'/>
+      <part name='L02' x='335' y='524'/>
+      <part name='L03' x='327' y='528'/>
+      <part name='M01' x='346' y='548'/>
+      <part name='M02' x='360' y='547'/>
+      <part name='R01' x='366' y='523'/>
+      <part name='R02' x='384' y='522'/>
+      <part name='R03' x='376' y='525'/>
+    </box>
+    <box top='780' left='296' width='105' height='99'>
+      <part name='C01' x='319' y='859'/>
+      <part name='C02' x='351' y='875'/>
+      <part name='C03' x='377' y='862'/>
+      <part name='L01' x='311' y='831'/>
+      <part name='L02' x='335' y='827'/>
+      <part name='L03' x='328' y='845'/>
+      <part name='M01' x='342' y='862'/>
+      <part name='M02' x='357' y='861'/>
+      <part name='R01' x='361' y='825'/>
+      <part name='R02' x='386' y='828'/>
+      <part name='R03' x='372' y='843'/>
+    </box>
+    <box top='1144' left='217' width='137' height='112'>
+      <part name='C01' x='263' y='1241'/>
+      <part name='C02' x='305' y='1246'/>
+      <part name='C03' x='337' y='1213'/>
+      <part name='L01' x='245' y='1214'/>
+      <part name='L02' x='268' y='1203'/>
+      <part name='L03' x='256' y='1207'/>
+      <part name='M01' x='293' y='1228'/>
+      <part name='M02' x='304' y='1223'/>
+      <part name='R01' x='305' y='1189'/>
+      <part name='R02' x='330' y='1182'/>
+      <part name='R03' x='318' y='1184'/>
+    </box>
+  </image>
+  <image file='021.jpg'>
+    <box top='150' left='1630' width='126' height='112'>
+      <part name='C01' x='1663' y='244'/>
+      <part name='C02' x='1700' y='257'/>
+      <part name='C03' x='1727' y='236'/>
+      <part name='L01' x='1657' y='218'/>
+      <part name='L02' x='1674' y='214'/>
+      <part name='L03' x='1665' y='215'/>
+      <part name='M01' x='1688' y='236'/>
+      <part name='M02' x='1705' y='233'/>
+      <part name='R01' x='1705' y='205'/>
+      <part name='R02' x='1727' y='204'/>
+      <part name='R03' x='1717' y='204'/>
+    </box>
+    <box top='483' left='1701' width='116' height='114'>
+      <part name='C01' x='1731' y='574'/>
+      <part name='C02' x='1769' y='584'/>
+      <part name='C03' x='1794' y='558'/>
+      <part name='L01' x='1718' y='545'/>
+      <part name='L02' x='1738' y='538'/>
+      <part name='L03' x='1738' y='554'/>
+      <part name='M01' x='1758' y='568'/>
+      <part name='M02' x='1770' y='565'/>
+      <part name='R01' x='1765' y='525'/>
+      <part name='R02' x='1794' y='522'/>
+      <part name='R03' x='1779' y='541'/>
+    </box>
+    <box top='532' left='1507' width='118' height='106'>
+      <part name='C01' x='1541' y='613'/>
+      <part name='C02' x='1569' y='622'/>
+      <part name='C03' x='1599' y='608'/>
+      <part name='L01' x='1528' y='577'/>
+      <part name='L02' x='1552' y='573'/>
+      <part name='L03' x='1545' y='591'/>
+      <part name='M01' x='1563' y='609'/>
+      <part name='M02' x='1570' y='608'/>
+      <part name='R01' x='1583' y='574'/>
+      <part name='R02' x='1605' y='575'/>
+      <part name='R03' x='1591' y='593'/>
+    </box>
+    <box top='782' left='1670' width='121' height='118'>
+      <part name='C01' x='1702' y='878'/>
+      <part name='C02' x='1729' y='892'/>
+      <part name='C03' x='1760' y='877'/>
+      <part name='L01' x='1696' y='845'/>
+      <part name='L02' x='1720' y='847'/>
+      <part name='L03' x='1708' y='861'/>
+      <part name='M01' x='1727' y='879'/>
+      <part name='M02' x='1731' y='879'/>
+      <part name='R01' x='1748' y='849'/>
+      <part name='R02' x='1768' y='849'/>
+      <part name='R03' x='1750' y='865'/>
+    </box>
+    <box top='1233' left='1782' width='62' height='61'>
+      <part name='C01' x='1796' y='1287'/>
+      <part name='C02' x='1819' y='1289'/>
+      <part name='C03' x='1827' y='1275'/>
+      <part name='L01' x='1794' y='1273'/>
+      <part name='L02' x='1797' y='1272'/>
+      <part name='L03' x='1797' y='1276'/>
+      <part name='M01' x='1807' y='1281'/>
+      <part name='M02' x='1815' y='1276'/>
+      <part name='R01' x='1815' y='1263'/>
+      <part name='R02' x='1817' y='1262'/>
+      <part name='R03' x='1818' y='1267'/>
+    </box>
+    <box top='1262' left='1701' width='60' height='46'>
+      <part name='C01' x='1718' y='1302'/>
+      <part name='C02' x='1739' y='1304'/>
+      <part name='C03' x='1752' y='1294'/>
+      <part name='L01' x='1717' y='1286'/>
+      <part name='L02' x='1720' y='1285'/>
+      <part name='L03' x='1720' y='1290'/>
+      <part name='M01' x='1732' y='1295'/>
+      <part name='M02' x='1736' y='1294'/>
+      <part name='R01' x='1742' y='1281'/>
+      <part name='R02' x='1745' y='1280'/>
+      <part name='R03' x='1744' y='1285'/>
+    </box>
+    <box top='1273' left='1608' width='62' height='47'>
+      <part name='C01' x='1615' y='1304'/>
+      <part name='C02' x='1634' y='1315'/>
+      <part name='C03' x='1653' y='1311'/>
+      <part name='L01' x='1619' y='1287'/>
+      <part name='L02' x='1630' y='1289'/>
+      <part name='L03' x='1624' y='1298'/>
+      <part name='M01' x='1634' y='1308'/>
+      <part name='M02' x='1635' y='1308'/>
+      <part name='R01' x='1646' y='1290'/>
+      <part name='R02' x='1657' y='1292'/>
+      <part name='R03' x='1648' y='1302'/>
+    </box>
+    <box top='226' left='1104' width='133' height='116'>
+      <part name='C01' x='1148' y='329'/>
+      <part name='C02' x='1180' y='336'/>
+      <part name='C03' x='1204' y='312'/>
+      <part name='L01' x='1133' y='302'/>
+      <part name='L02' x='1152' y='293'/>
+      <part name='L03' x='1153' y='310'/>
+      <part name='M01' x='1171' y='318'/>
+      <part name='M02' x='1179' y='314'/>
+      <part name='R01' x='1177' y='282'/>
+      <part name='R02' x='1202' y='277'/>
+      <part name='R03' x='1193' y='295'/>
+    </box>
+    <box top='438' left='1284' width='65' height='59'>
+      <part name='C01' x='1299' y='487'/>
+      <part name='C02' x='1317' y='492'/>
+      <part name='C03' x='1332' y='484'/>
+      <part name='L01' x='1298' y='477'/>
+      <part name='L02' x='1306' y='474'/>
+      <part name='L03' x='1302' y='475'/>
+      <part name='M01' x='1312' y='485'/>
+      <part name='M02' x='1319' y='484'/>
+      <part name='R01' x='1321' y='471'/>
+      <part name='R02' x='1331' y='471'/>
+      <part name='R03' x='1326' y='471'/>
+    </box>
+    <box top='480' left='1104' width='52' height='48'>
+      <part name='C01' x='1121' y='521'/>
+      <part name='C02' x='1133' y='524'/>
+      <part name='C03' x='1145' y='519'/>
+      <part name='L01' x='1122' y='511'/>
+      <part name='L02' x='1125' y='511'/>
+      <part name='L03' x='1124' y='514'/>
+      <part name='M01' x='1129' y='520'/>
+      <part name='M02' x='1134' y='520'/>
+      <part name='R01' x='1140' y='511'/>
+      <part name='R02' x='1142' y='511'/>
+      <part name='R03' x='1141' y='515'/>
+    </box>
+    <box top='466' left='1049' width='53' height='52'>
+      <part name='C01' x='1058' y='501'/>
+      <part name='C02' x='1071' y='514'/>
+      <part name='C03' x='1088' y='511'/>
+      <part name='L01' x='1062' y='487'/>
+      <part name='L02' x='1071' y='491'/>
+      <part name='L03' x='1064' y='499'/>
+      <part name='M01' x='1072' y='508'/>
+      <part name='M02' x='1075' y='508'/>
+      <part name='R01' x='1084' y='495'/>
+      <part name='R02' x='1091' y='494'/>
+      <part name='R03' x='1085' y='504'/>
+    </box>
+    <box top='665' left='1378' width='62' height='55'>
+      <part name='C01' x='1393' y='716'/>
+      <part name='C02' x='1410' y='717'/>
+      <part name='C03' x='1422' y='711'/>
+      <part name='L01' x='1389' y='697'/>
+      <part name='L02' x='1397' y='696'/>
+      <part name='L03' x='1396' y='704'/>
+      <part name='M01' x='1405' y='710'/>
+      <part name='M02' x='1409' y='708'/>
+      <part name='R01' x='1411' y='692'/>
+      <part name='R02' x='1419' y='690'/>
+      <part name='R03' x='1416' y='699'/>
+    </box>
+    <box top='876' left='1228' width='106' height='101'>
+      <part name='C01' x='1251' y='957'/>
+      <part name='C02' x='1280' y='970'/>
+      <part name='C03' x='1307' y='958'/>
+      <part name='L01' x='1247' y='931'/>
+      <part name='L02' x='1267' y='928'/>
+      <part name='L03' x='1259' y='943'/>
+      <part name='M01' x='1277' y='956'/>
+      <part name='M02' x='1280' y='956'/>
+      <part name='R01' x='1291' y='928'/>
+      <part name='R02' x='1311' y='930'/>
+      <part name='R03' x='1298' y='943'/>
+    </box>
+    <box top='799' left='1134' width='86' height='79'>
+      <part name='C01' x='1159' y='870'/>
+      <part name='C02' x='1183' y='877'/>
+      <part name='C03' x='1197' y='868'/>
+      <part name='L01' x='1153' y='853'/>
+      <part name='L02' x='1166' y='849'/>
+      <part name='L03' x='1160' y='850'/>
+      <part name='M01' x='1176' y='866'/>
+      <part name='M02' x='1186' y='864'/>
+      <part name='R01' x='1189' y='845'/>
+      <part name='R02' x='1202' y='844'/>
+      <part name='R03' x='1196' y='844'/>
+    </box>
+    <box top='1213' left='1355' width='66' height='59'>
+      <part name='C01' x='1367' y='1259'/>
+      <part name='C02' x='1378' y='1268'/>
+      <part name='C03' x='1396' y='1264'/>
+      <part name='L01' x='1362' y='1240'/>
+      <part name='L02' x='1371' y='1238'/>
+      <part name='L03' x='1369' y='1250'/>
+      <part name='M01' x='1375' y='1258'/>
+      <part name='M02' x='1380' y='1260'/>
+      <part name='R01' x='1384' y='1239'/>
+      <part name='R02' x='1397' y='1245'/>
+      <part name='R03' x='1387' y='1252'/>
+    </box>
+    <box top='1221' left='1203' width='75' height='63'>
+      <part name='C01' x='1220' y='1270'/>
+      <part name='C02' x='1238' y='1277'/>
+      <part name='C03' x='1253' y='1270'/>
+      <part name='L01' x='1217' y='1254'/>
+      <part name='L02' x='1230' y='1254'/>
+      <part name='L03' x='1224' y='1262'/>
+      <part name='M01' x='1235' y='1271'/>
+      <part name='M02' x='1237' y='1271'/>
+      <part name='R01' x='1243' y='1253'/>
+      <part name='R02' x='1257' y='1253'/>
+      <part name='R03' x='1249' y='1261'/>
+    </box>
+    <box top='602' left='314' width='145' height='137'>
+      <part name='C01' x='337' y='696'/>
+      <part name='C02' x='369' y='726'/>
+      <part name='C03' x='406' y='720'/>
+      <part name='L01' x='338' y='656'/>
+      <part name='L02' x='364' y='659'/>
+      <part name='L03' x='352' y='679'/>
+      <part name='M01' x='367' y='706'/>
+      <part name='M02' x='380' y='709'/>
+      <part name='R01' x='400' y='670'/>
+      <part name='R02' x='428' y='686'/>
+      <part name='R03' x='405' y='694'/>
+    </box>
+  </image>
+  <image file='022.jpg'>
+    <box top='663' left='1512' width='166' height='132'>
+      <part name='C01' x='1567' y='779'/>
+      <part name='C02' x='1608' y='787'/>
+      <part name='C03' x='1639' y='762'/>
+      <part name='L01' x='1545' y='741'/>
+      <part name='L02' x='1573' y='733'/>
+      <part name='L03' x='1572' y='756'/>
+      <part name='M01' x='1600' y='772'/>
+      <part name='M02' x='1604' y='770'/>
+      <part name='R01' x='1608' y='724'/>
+      <part name='R02' x='1643' y='721'/>
+      <part name='R03' x='1627' y='744'/>
+    </box>
+    <box top='177' left='548' width='209' height='181'>
+      <part name='C01' x='633' y='335'/>
+      <part name='C02' x='689' y='344'/>
+      <part name='C03' x='727' y='297'/>
+      <part name='L01' x='609' y='295'/>
+      <part name='L02' x='644' y='270'/>
+      <part name='L03' x='638' y='303'/>
+      <part name='M01' x='677' y='321'/>
+      <part name='M02' x='690' y='314'/>
+      <part name='R01' x='691' y='260'/>
+      <part name='R02' x='720' y='240'/>
+      <part name='R03' x='706' y='278'/>
+    </box>
+    <box top='182' left='257' width='192' height='173'>
+      <part name='C01' x='274' y='295'/>
+      <part name='C02' x='316' y='344'/>
+      <part name='C03' x='378' y='331'/>
+      <part name='L01' x='278' y='239'/>
+      <part name='L02' x='311' y='255'/>
+      <part name='L03' x='294' y='277'/>
+      <part name='M01' x='313' y='311'/>
+      <part name='M02' x='331' y='321'/>
+      <part name='R01' x='357' y='271'/>
+      <part name='R02' x='396' y='291'/>
+      <part name='R03' x='363' y='302'/>
+    </box>
+    <box top='768' left='634' width='141' height='131'>
+      <part name='C01' x='681' y='885'/>
+      <part name='C02' x='724' y='893'/>
+      <part name='C03' x='755' y='866'/>
+      <part name='L01' x='670' y='861'/>
+      <part name='L02' x='692' y='852'/>
+      <part name='L03' x='681' y='856'/>
+      <part name='M01' x='711' y='876'/>
+      <part name='M02' x='726' y='871'/>
+      <part name='R01' x='729' y='841'/>
+      <part name='R02' x='753' y='837'/>
+      <part name='R03' x='741' y='838'/>
+    </box>
+    <box top='1171' left='771' width='73' height='66'>
+      <part name='C01' x='788' y='1226'/>
+      <part name='C02' x='806' y='1234'/>
+      <part name='C03' x='821' y='1226'/>
+      <part name='L01' x='785' y='1213'/>
+      <part name='L02' x='794' y='1212'/>
+      <part name='L03' x='790' y='1213'/>
+      <part name='M01' x='802' y='1226'/>
+      <part name='M02' x='808' y='1226'/>
+      <part name='R01' x='812' y='1211'/>
+      <part name='R02' x='822' y='1212'/>
+      <part name='R03' x='817' y='1211'/>
+    </box>
+    <box top='1207' left='688' width='63' height='55'>
+      <part name='C01' x='704' y='1254'/>
+      <part name='C02' x='719' y='1259'/>
+      <part name='C03' x='735' y='1251'/>
+      <part name='L01' x='698' y='1236'/>
+      <part name='L02' x='708' y='1234'/>
+      <part name='L03' x='706' y='1244'/>
+      <part name='M01' x='716' y='1250'/>
+      <part name='M02' x='719' y='1249'/>
+      <part name='R01' x='722' y='1230'/>
+      <part name='R02' x='736' y='1229'/>
+      <part name='R03' x='729' y='1239'/>
+    </box>
+    <box top='1173' left='586' width='69' height='62'>
+      <part name='C01' x='609' y='1222'/>
+      <part name='C02' x='624' y='1231'/>
+      <part name='C03' x='643' y='1220'/>
+      <part name='L01' x='603' y='1203'/>
+      <part name='L02' x='617' y='1205'/>
+      <part name='L03' x='612' y='1213'/>
+      <part name='M01' x='624' y='1224'/>
+      <part name='M02' x='626' y='1224'/>
+      <part name='R01' x='633' y='1204'/>
+      <part name='R02' x='645' y='1203'/>
+      <part name='R03' x='639' y='1213'/>
+    </box>
+    <box top='889' left='214' width='147' height='146'>
+      <part name='C01' x='242' y='1016'/>
+      <part name='C02' x='287' y='1032'/>
+      <part name='C03' x='331' y='1015'/>
+      <part name='L01' x='232' y='973'/>
+      <part name='L02' x='266' y='972'/>
+      <part name='L03' x='254' y='994'/>
+      <part name='M01' x='282' y='1016'/>
+      <part name='M02' x='289' y='1016'/>
+      <part name='R01' x='305' y='973'/>
+      <part name='R02' x='338' y='973'/>
+      <part name='R03' x='318' y='993'/>
+    </box>
+    <box top='1093' left='366' width='114' height='106'>
+      <part name='C01' x='409' y='1183'/>
+      <part name='C02' x='434' y='1192'/>
+      <part name='C03' x='458' y='1177'/>
+      <part name='L01' x='399' y='1161'/>
+      <part name='L02' x='420' y='1150'/>
+      <part name='L03' x='416' y='1170'/>
+      <part name='M01' x='431' y='1183'/>
+      <part name='M02' x='438' y='1179'/>
+      <part name='R01' x='446' y='1147'/>
+      <part name='R02' x='462' y='1145'/>
+      <part name='R03' x='450' y='1164'/>
+    </box>
+    <box top='1215' left='266' width='94' height='88'>
+      <part name='C01' x='294' y='1291'/>
+      <part name='C02' x='323' y='1297'/>
+      <part name='C03' x='346' y='1277'/>
+      <part name='L01' x='288' y='1270'/>
+      <part name='L02' x='313' y='1262'/>
+      <part name='L03' x='304' y='1277'/>
+      <part name='M01' x='323' y='1287'/>
+      <part name='M02' x='325' y='1286'/>
+      <part name='R01' x='334' y='1256'/>
+      <part name='R02' x='349' y='1246'/>
+      <part name='R03' x='339' y='1268'/>
+    </box>
+  </image>
+  <image file='023.jpg'>
+  </image>
+  <image file='024.jpg'>
+  </image>
+  <image file='025.jpg'>
+  </image>
+  <image file='026.jpg'>
+  </image>
+  <image file='027.jpg'>
+  </image>
+  <image file='028.jpg'>
+  </image>
+  <image file='029.jpg'>
+  </image>
+  <image file='030.jpg'>
+  </image>
+  <image file='031.jpg'>
+  </image>
+  <image file='032.jpg'>
+  </image>
+  <image file='033.jpg'>
+  </image>
+  <image file='034.jpg'>
+  </image>
+  <image file='035.jpg'>
+  </image>
+  <image file='036.jpg'>
+  </image>
+  <image file='037.jpg'>
+  </image>
+  <image file='038.jpg'>
+  </image>
+  <image file='039.jpg'>
+  </image>
+  <image file='040.jpg'>
+  </image>
+  <image file='041.jpg'>
+  </image>
+  <image file='042.jpg'>
+  </image>
+  <image file='043.jpg'>
+  </image>
+  <image file='044.jpg'>
+  </image>
+  <image file='045.jpg'>
+  </image>
+  <image file='046.jpg'>
+  </image>
+  <image file='047.jpg'>
+  </image>
+  <image file='048.jpg'>
+  </image>
+  <image file='049.jpg'>
+  </image>
+  <image file='050.jpg'>
+  </image>
+  <image file='051.jpg'>
+  </image>
+  <image file='052.jpg'>
+  </image>
+  <image file='053.jpg'>
+  </image>
+  <image file='054.jpg'>
+  </image>
+  <image file='055.jpg'>
+  </image>
+  <image file='056.jpg'>
+  </image>
+  <image file='057.jpg'>
+  </image>
+  <image file='058.jpg'>
+  </image>
+  <image file='059.jpg'>
+  </image>
+  <image file='060.jpg'>
+  </image>
+  <image file='061.jpg'>
+  </image>
+  <image file='062.jpg'>
+  </image>
+</images>
+</dataset>
