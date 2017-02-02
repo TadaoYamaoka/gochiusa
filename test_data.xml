@@ -1,0 +1,242 @@
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file="023.jpg">
+    <box height="174" left="1681" top="1124" width="174">
+      <part name="C01" x="1728" y="1261" />
+      <part name="C02" x="1773" y="1280" />
+      <part name="C03" x="1818" y="1249" />
+      <part name="L01" x="1714" y="1214" />
+      <part name="L02" x="1748" y="1207" />
+      <part name="L03" x="1736" y="1230" />
+      <part name="M01" x="1759" y="1252" />
+      <part name="M02" x="1781" y="1250" />
+      <part name="R01" x="1788" y="1205" />
+      <part name="R02" x="1822" y="1208" />
+      <part name="R03" x="1803" y="1226" />
+    </box>
+    <box height="157" left="1486" top="1141" width="157">
+      <part name="C01" x="1514" y="1264" />
+      <part name="C02" x="1566" y="1282" />
+      <part name="C03" x="1607" y="1253" />
+      <part name="L01" x="1514" y="1232" />
+      <part name="L02" x="1550" y="1224" />
+      <part name="L03" x="1537" y="1244" />
+      <part name="M01" x="1563" y="1266" />
+      <part name="M02" x="1572" y="1263" />
+      <part name="R01" x="1586" y="1220" />
+      <part name="R02" x="1615" y="1207" />
+      <part name="R03" x="1597" y="1234" />
+    </box>
+    <box height="72" left="1312" top="189" width="72">
+      <part name="C01" x="1331" y="245" />
+      <part name="C02" x="1350" y="253" />
+      <part name="C03" x="1371" y="242" />
+      <part name="L01" x="1326" y="226" />
+      <part name="L02" x="1339" y="226" />
+      <part name="L03" x="1335" y="235" />
+      <part name="M01" x="1348" y="245" />
+      <part name="M02" x="1350" y="245" />
+      <part name="R01" x="1358" y="225" />
+      <part name="R02" x="1370" y="224" />
+      <part name="R03" x="1363" y="234" />
+    </box>
+    <box height="97" left="1180" top="150" width="98">
+      <part name="C01" x="1216" y="229" />
+      <part name="C02" x="1241" y="235" />
+      <part name="C03" x="1257" y="220" />
+      <part name="L01" x="1206" y="208" />
+      <part name="L02" x="1216" y="200" />
+      <part name="L03" x="1220" y="215" />
+      <part name="M01" x="1231" y="221" />
+      <part name="M02" x="1241" y="218" />
+      <part name="R01" x="1237" y="195" />
+      <part name="R02" x="1252" y="189" />
+      <part name="R03" x="1247" y="205" />
+    </box>
+    <box height="136" left="1123" top="423" width="136">
+      <part name="C01" x="1179" y="538" />
+      <part name="C02" x="1217" y="538" />
+      <part name="C03" x="1238" y="510" />
+      <part name="L01" x="1158" y="514" />
+      <part name="L02" x="1175" y="498" />
+      <part name="L03" x="1182" y="517" />
+      <part name="M01" x="1203" y="522" />
+      <part name="M02" x="1214" y="515" />
+      <part name="R01" x="1199" y="479" />
+      <part name="R02" x="1224" y="468" />
+      <part name="R03" x="1218" y="492" />
+    </box>
+    <box height="54" left="1180" top="898" width="54">
+      <part name="C01" x="1189" y="937" />
+      <part name="C02" x="1208" y="946" />
+      <part name="C03" x="1229" y="935" />
+      <part name="L01" x="1187" y="926" />
+      <part name="L02" x="1200" y="924" />
+      <part name="L03" x="1195" y="925" />
+      <part name="M01" x="1204" y="939" />
+      <part name="M02" x="1211" y="937" />
+      <part name="R01" x="1217" y="924" />
+      <part name="R02" x="1227" y="924" />
+      <part name="R03" x="1223" y="925" />
+    </box>
+    <box height="133" left="1233" top="1090" width="134">
+      <part name="C01" x="1264" y="1190" />
+      <part name="C02" x="1306" y="1209" />
+      <part name="C03" x="1350" y="1182" />
+      <part name="L01" x="1259" y="1160" />
+      <part name="L02" x="1280" y="1156" />
+      <part name="L03" x="1270" y="1158" />
+      <part name="M01" x="1295" y="1184" />
+      <part name="M02" x="1312" y="1183" />
+      <part name="R01" x="1317" y="1152" />
+      <part name="R02" x="1341" y="1153" />
+      <part name="R03" x="1329" y="1152" />
+    </box>
+    <box height="110" left="763" top="134" width="109">
+      <part name="C01" x="798" y="222" />
+      <part name="C02" x="828" y="231" />
+      <part name="C03" x="853" y="210" />
+      <part name="L01" x="788" y="200" />
+      <part name="L02" x="801" y="191" />
+      <part name="L03" x="804" y="207" />
+      <part name="M01" x="818" y="217" />
+      <part name="M02" x="829" y="213" />
+      <part name="R01" x="823" y="182" />
+      <part name="R02" x="847" y="178" />
+      <part name="R03" x="837" y="194" />
+    </box>
+    <box height="63" left="713" top="214" width="62">
+      <part name="C01" x="726" y="259" />
+      <part name="C02" x="745" y="270" />
+      <part name="C03" x="761" y="259" />
+      <part name="L01" x="724" y="246" />
+      <part name="L02" x="735" y="243" />
+      <part name="L03" x="732" y="252" />
+      <part name="M01" x="742" y="261" />
+      <part name="M02" x="747" y="261" />
+      <part name="R01" x="751" y="243" />
+      <part name="R02" x="764" y="245" />
+      <part name="R03" x="756" y="252" />
+    </box>
+    <box height="98" left="723" top="455" width="98">
+      <part name="C01" x="748" y="529" />
+      <part name="C02" x="774" y="543" />
+      <part name="C03" x="801" y="525" />
+      <part name="L01" x="743" y="506" />
+      <part name="L02" x="758" y="506" />
+      <part name="L03" x="755" y="517" />
+      <part name="M01" x="769" y="534" />
+      <part name="M02" x="778" y="532" />
+      <part name="R01" x="780" y="505" />
+      <part name="R02" x="801" y="502" />
+      <part name="R03" x="790" y="517" />
+    </box>
+    <box height="78" left="612" top="455" width="79">
+      <part name="C01" x="627" y="513" />
+      <part name="C02" x="652" y="525" />
+      <part name="C03" x="677" y="510" />
+      <part name="L01" x="625" y="495" />
+      <part name="L02" x="639" y="492" />
+      <part name="L03" x="633" y="493" />
+      <part name="M01" x="647" y="514" />
+      <part name="M02" x="656" y="512" />
+      <part name="R01" x="663" y="492" />
+      <part name="R02" x="678" y="493" />
+      <part name="R03" x="671" y="492" />
+    </box>
+    <box height="107" left="573" top="803" width="107">
+      <part name="C01" x="598" y="886" />
+      <part name="C02" x="635" y="898" />
+      <part name="C03" x="661" y="880" />
+      <part name="L01" x="592" y="865" />
+      <part name="L02" x="613" y="858" />
+      <part name="L03" x="608" y="874" />
+      <part name="M01" x="631" y="886" />
+      <part name="M02" x="634" y="886" />
+      <part name="R01" x="641" y="854" />
+      <part name="R02" x="661" y="848" />
+      <part name="R03" x="651" y="865" />
+    </box>
+    <box height="121" left="288" top="165" width="120">
+      <part name="C01" x="333" y="268" />
+      <part name="C02" x="363" y="271" />
+      <part name="C03" x="389" y="250" />
+      <part name="L01" x="313" y="237" />
+      <part name="L02" x="333" y="231" />
+      <part name="L03" x="335" y="248" />
+      <part name="M01" x="356" y="258" />
+      <part name="M02" x="359" y="257" />
+      <part name="R01" x="359" y="222" />
+      <part name="R02" x="383" y="214" />
+      <part name="R03" x="375" y="232" />
+    </box>
+    <box height="102" left="142" top="108" width="102">
+      <part name="C01" x="177" y="191" />
+      <part name="C02" x="211" y="195" />
+      <part name="C03" x="227" y="174" />
+      <part name="L01" x="166" y="173" />
+      <part name="L02" x="180" y="162" />
+      <part name="L03" x="183" y="179" />
+      <part name="M01" x="200" y="185" />
+      <part name="M02" x="210" y="180" />
+      <part name="R01" x="202" y="152" />
+      <part name="R02" x="220" y="145" />
+      <part name="R03" x="215" y="161" />
+    </box>
+    <box height="102" left="340" top="457" width="101">
+      <part name="C01" x="365" y="531" />
+      <part name="C02" x="389" y="548" />
+      <part name="C03" x="413" y="535" />
+      <part name="L01" x="364" y="506" />
+      <part name="L02" x="383" y="506" />
+      <part name="L03" x="375" y="516" />
+      <part name="M01" x="390" y="536" />
+      <part name="M02" x="392" y="536" />
+      <part name="R01" x="402" y="512" />
+      <part name="R02" x="417" y="510" />
+      <part name="R03" x="406" y="522" />
+    </box>
+    <box height="111" left="189" top="452" width="111">
+      <part name="C01" x="216" y="536" />
+      <part name="C02" x="244" y="551" />
+      <part name="C03" x="272" y="534" />
+      <part name="L01" x="212" y="505" />
+      <part name="L02" x="234" y="500" />
+      <part name="L03" x="227" y="517" />
+      <part name="M01" x="240" y="535" />
+      <part name="M02" x="249" y="533" />
+      <part name="R01" x="259" y="507" />
+      <part name="R02" x="276" y="509" />
+      <part name="R03" x="264" y="521" />
+    </box>
+    <box height="65" left="320" top="897" width="65">
+      <part name="C01" x="329" y="944" />
+      <part name="C02" x="352" y="955" />
+      <part name="C03" x="374" y="947" />
+      <part name="L01" x="329" y="928" />
+      <part name="L02" x="342" y="927" />
+      <part name="L03" x="336" y="927" />
+      <part name="M01" x="346" y="944" />
+      <part name="M02" x="357" y="944" />
+      <part name="R01" x="362" y="928" />
+      <part name="R02" x="376" y="931" />
+      <part name="R03" x="370" y="930" />
+    </box>
+    <box height="64" left="198" top="898" width="64">
+      <part name="C01" x="211" y="951" />
+      <part name="C02" x="234" y="955" />
+      <part name="C03" x="250" y="940" />
+      <part name="L01" x="216" y="934" />
+      <part name="L02" x="218" y="933" />
+      <part name="L03" x="218" y="939" />
+      <part name="M01" x="230" y="948" />
+      <part name="M02" x="236" y="945" />
+      <part name="R01" x="242" y="926" />
+      <part name="R02" x="244" y="926" />
+      <part name="R03" x="243" y="933" />
+    </box>
+  </image>
+</images>
+</dataset>
