@@ -1,1 +1,1 @@
-imglab --parts "C01 C02 C03 L01 L02 L03 R01 R02 R03 M01 M02" gochiusa.xml
+imglab --parts "C01 C02 C03 L01 L02 L03 L04 R01 R02 R03 R04 M01 M02 M03 M04" gochiusa.xml
