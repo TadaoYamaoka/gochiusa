@@ -25,7 +25,7 @@ parser = argparse.ArgumentParser(description='Predict facial landmark')
 parser.add_argument('testfile', type=str, help='testfile created by imglab tool')
 parser.add_argument('model', type=str, help='model file')
 parser.add_argument('--batchsize', '-b', type=int, default=16, help='Number of images in each mini-batch')
-parser.add_argument('--iteration', '-i', type=int, default=10, help='Number of iteration times')
+parser.add_argument('--iteration', '-i', type=int, default=1, help='Number of iteration times')
 args = parser.parse_args()
 
 model = MyChain()
@@ -63,4 +63,4 @@ for i in range(args.iteration):
     print("test loss = {}".format(loss.data))
 
     for i in range(args.batchsize):
-        show_img_and_landmark(x.data[i][0], y.data[i].reshape((11,2)))
+        show_img_and_landmark(x.data[i][0], y.data[i].reshape((landmark,2)))

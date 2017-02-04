@@ -25,13 +25,18 @@ for image in list(images):
     img = io.imread(image.get("file"))
     img_width = img.data.shape[1]
     img_height = img.data.shape[0]
-    for box in list(image):
+    for ibox, box in enumerate(list(image)):
         parts = {}
         for part in list(box):
             parts[part.get("name")] = [int(part.get("x")), int(part.get("y"))]
 
-        if "L01" not in parts or "R02" not in parts:
-            print(image.get("file"))
+
+        notfound = False
+        for label in ("C01", "C02", "C03", "L01", "L02", "L03", "L04", "R01", "R02", "R03", "R04", "M01", "M02", "M03", "M04"):
+            if label not in parts:
+                print("not exist {} in box:{}, file:{}".format(label, ibox+1, image.get("file")))
+                notfound = True
+        if notfound:
             continue
 
         c = center(parts["L01"], parts["R02"])

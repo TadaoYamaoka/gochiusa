@@ -35,9 +35,10 @@ model = MyChain()
 
 model.to_gpu()
 
-optimizer = optimizers.SGD()
+#optimizer = optimizers.SGD()
+optimizer = optimizers.RMSprop(lr=0.0001)
 optimizer.setup(model)
-optimizer.add_hook(chainer.optimizer.WeightDecay(0.0005))
+#optimizer.add_hook(chainer.optimizer.WeightDecay(0.0005))
 
 # Init/Resume
 if args.initmodel:
@@ -87,6 +88,13 @@ def mini_batch_data(train_data):
 
     return x, t
 
+def save_model(sufix = ""):
+    # Save the model and the optimizer
+    print('save the model')
+    serializers.save_npz('model' + sufix, model)
+    print('save the optimizer')
+    serializers.save_npz('state' + sufix, optimizer)
+
 for epo in range(args.epoch):
     sum_loss = 0
 
@@ -121,11 +129,9 @@ for epo in range(args.epoch):
 
     print("train loss = {}, test loss = {}".format(sum_loss / args.iteration, loss.data))
 
-    # for debug
-    #show_img_and_landmark(cuda.to_cpu(x.data)[0][0], cuda.to_cpu(y.data)[0].reshape((11,2)))
+    # Save the model and the optimizer
+    if (epo+1) % 100 == 0 or epo == args.epoch - 1:
+        save_model(str(epo+1))
 
-# Save the model and the optimizer
-print('save the model')
-serializers.save_npz('model', model)
-print('save the optimizer')
-serializers.save_npz('state', optimizer)
+    # for debug
+    #show_img_and_landmark(cuda.to_cpu(x.data)[0][0], cuda.to_cpu(y.data)[0].reshape((landmark,2)))

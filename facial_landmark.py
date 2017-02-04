@@ -19,7 +19,7 @@ import cv2
 from matplotlib import pylab as plt
 
 imgsize = 100
-landmark = 11
+landmark = 15
 
 class MyChain(Chain):
     def __init__(self):
@@ -65,8 +65,12 @@ def read_image_data(xmlfile, data):
             for part in list(box):
                 parts[part.get("name")] = [int(part.get("x")), int(part.get("y")), 1]
 
-            if "L01" not in parts or "R02" not in parts:
-                print("parts not found. " + image.get("file"))
+            notfound = False
+            for label in ("C01", "C02", "C03", "L01", "L02", "L03", "L04", "R01", "R02", "R03", "R04", "M01", "M02", "M03", "M04"):
+                if label not in parts:
+                    print("not exist {} in box:{}, file:{}".format(label, ibox+1, image.get("file")))
+                    notfound = True
+            if notfound:
                 continue
 
             c = get_center(parts["L01"], parts["R02"])
@@ -113,7 +117,7 @@ def data_augmentation(data):
 
     # ランドマーク座標をnumpyの配列に変換
     parts_np = np.array([
-        parts["C01"], parts["C02"], parts["C03"], parts["L01"], parts["L02"], parts["L03"], parts["R01"], parts["R02"], parts["R03"], parts["M01"], parts["M02"]], dtype=np.float32)
+        parts["C01"], parts["C02"], parts["C03"], parts["L01"], parts["L02"], parts["L03"], parts["L04"], parts["R01"], parts["R02"], parts["R03"], parts["R04"], parts["M01"], parts["M02"], parts["M03"], parts["M04"]], dtype=np.float32)
 
     # ランドマークの座標変換
     parts_converted = parts_np.dot(matrix.T) / 100.0
@@ -126,11 +130,11 @@ def show_img_and_landmark(img, parts):
     plt.imshow(1.0 - img, cmap='gray')
     for t in parts[0:3]:
         plt.plot(t[0]*100, t[1]*100, 'or')
-    for t in parts[3:6]:
+    for t in parts[3:7]:
         plt.plot(t[0]*100, t[1]*100, 'og')
-    for t in parts[6:9]:
+    for t in parts[7:11]:
         plt.plot(t[0]*100, t[1]*100, 'ob')
-    for t in parts[9:11]:
+    for t in parts[11:15]:
         plt.plot(t[0]*100, t[1]*100, 'oy')
     plt.axis([0, 100, 100, 0])
     plt.show()
