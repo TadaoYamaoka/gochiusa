@@ -14,6 +14,7 @@ from PIL import ImageOps
 import math
 import sys
 import argparse
+from datetime import datetime
 
 import random
 import cv2
@@ -95,6 +96,8 @@ def save_model(sufix = ""):
     print('save the optimizer')
     serializers.save_npz('state' + sufix, optimizer)
 
+print("{}, start training".format(datetime.now()))
+
 for epo in range(args.epoch):
     sum_loss = 0
 
@@ -127,7 +130,7 @@ for epo in range(args.epoch):
     y = model(x)
     loss = F.mean_squared_error(y, t)
 
-    print("train loss = {}, test loss = {}".format(sum_loss / args.iteration, loss.data))
+    print("{}, epoch = {}, train loss = {}, test loss = {}".format(datetime.now(), epo+1, sum_loss / args.iteration, loss.data))
 
     # Save the model and the optimizer
     if (epo+1) % 100 == 0 or epo == args.epoch - 1:
