@@ -38,6 +38,7 @@ model.to_gpu()
 
 #optimizer = optimizers.SGD()
 optimizer = optimizers.RMSprop(lr=0.0001)
+#optimizer = optimizers.Adam()
 optimizer.setup(model)
 #optimizer.add_hook(chainer.optimizer.WeightDecay(0.0005))
 
@@ -133,7 +134,7 @@ for epo in range(args.epoch):
     print("{}, epoch = {}, train loss = {}, test loss = {}".format(datetime.now(), epo+1, sum_loss / args.iteration, loss.data))
 
     # Save the model and the optimizer
-    if (epo+1) % 100 == 0 or epo == args.epoch - 1:
+    if (epo+1) % 1000 == 0 or epo == args.epoch - 1:
         save_model(str(epo+1))
 
     # for debug
