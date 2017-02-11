@@ -30,14 +30,15 @@ parser.add_argument('--iteration', '-i', type=int, default=100, help='Number of 
 parser.add_argument('--epoch', '-e', type=int, default=1, help='Number of epoch times')
 parser.add_argument('--initmodel', '-m', default='', help='Initialize the model from given file')
 parser.add_argument('--resume', '-r', default='', help='Resume the optimization from snapshot')
+parser.add_argument('--lr', type=float, default=0.0001, help='Learning rate')
 args = parser.parse_args()
 
 model = MyChain()
 
 model.to_gpu()
 
-#optimizer = optimizers.SGD()
-optimizer = optimizers.RMSprop(lr=0.0001)
+#optimizer = optimizers.SGD(lr=args.lr)
+optimizer = optimizers.RMSprop(lr=args.lr)
 #optimizer = optimizers.Adam()
 optimizer.setup(model)
 #optimizer.add_hook(chainer.optimizer.WeightDecay(0.0005))
@@ -131,10 +132,10 @@ for epo in range(args.epoch):
     y = model(x)
     loss = F.mean_squared_error(y, t)
 
-    print("{}, epoch = {}, train loss = {}, test loss = {}".format(datetime.now(), epo+1, sum_loss / args.iteration, loss.data))
+    print("{}, epoch = {}, train loss = {}, test loss = {}".format(datetime.now(), epo+1, sum_loss / args.iteration, loss.data), flush=True)
 
     # Save the model and the optimizer
-    if (epo+1) % 1000 == 0 or epo == args.epoch - 1:
+    if (epo+1) % 10000 == 0 or epo == args.epoch - 1:
         save_model(str(epo+1))
 
     # for debug
