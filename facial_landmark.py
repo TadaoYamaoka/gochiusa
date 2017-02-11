@@ -112,15 +112,33 @@ def data_augmentation(data):
 
     # アフィン変換
     #  回転、拡大の後に、回転の中心が(50, 50)になるように平行移動
-    matrix = cv2.getRotationMatrix2D(center, angle, scale) + np.array([[0, 0, -center[0] + 50], [0, 0, -center[1] + 50]])
+    #  平行移動にランダムな値を加える
+    matrix = cv2.getRotationMatrix2D(center, angle, scale) + np.array([[0, 0, -center[0] + 50 + random.uniform(-3, 3)], [0, 0, -center[1] + 50 + random.uniform(-3, 3)]])
     dst = cv2.warpAffine(img, matrix, (100, 100))
 
     # ランドマーク座標をnumpyの配列に変換
     parts_np = np.array([
-        parts["C01"], parts["C02"], parts["C03"], parts["L01"], parts["L02"], parts["L03"], parts["L04"], parts["R01"], parts["R02"], parts["R03"], parts["R04"], parts["M01"], parts["M02"], parts["M03"], parts["M04"]], dtype=np.float32)
+        parts["C01"], parts["C02"], parts["C03"],
+        parts["L01"], parts["L02"], parts["L03"], parts["L04"],
+        parts["R01"], parts["R02"], parts["R03"], parts["R04"],
+        parts["M01"], parts["M02"], parts["M03"], parts["M04"]
+        ], dtype=np.float32)
 
     # ランドマークの座標変換
     parts_converted = parts_np.dot(matrix.T) / 100.0
+
+    # ランダムに反転
+    if random.randint(0, 1) == 1:
+        dst = cv2.flip(dst, 1)
+        for i in range(len(parts_converted)):
+            parts_converted[i][0] = 1.0 - parts_converted[i][0]
+
+        parts_converted = np.array([
+            parts_converted[2], parts_converted[1], parts_converted[0], # C
+            parts_converted[8], parts_converted[7], parts_converted[9], parts_converted[10], # R -> L
+            parts_converted[4], parts_converted[3], parts_converted[5], parts_converted[6], # L -> R
+            parts_converted[12], parts_converted[11], parts_converted[13], parts_converted[14] # M
+            ], dtype=np.float32)
 
     # 変換されたデータを返す
     return {'img' : dst, 'parts' : parts_converted}
