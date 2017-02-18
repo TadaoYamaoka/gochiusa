@@ -21,13 +21,16 @@ from matplotlib import pylab as plt
 imgsize = 100
 landmark = 15
 
+def out_size(in_size, ksize, poolsize):
+    return math.ceil((in_size - ksize + 1)  / poolsize)
+
 class MyChain(Chain):
     def __init__(self):
         super(MyChain, self).__init__(
             l1=L.Convolution2D(in_channels = 1, out_channels = 16, ksize = 4),
             l2=L.Convolution2D(in_channels = 16, out_channels = 32, ksize = 5),
             l3=L.Convolution2D(in_channels = 32, out_channels = 64, ksize = 5),
-            l4=L.Linear(int(((imgsize-2)/2-3)/2-4)**2*64, 400),
+            l4=L.Linear((out_size(out_size(imgsize, 4, 2), 5, 2) - 5 + 1)**2*64, 400),
             l5=L.Linear(400, landmark*2)
         )
         
