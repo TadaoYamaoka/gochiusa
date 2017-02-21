@@ -2,7 +2,7 @@
 <name>imglab dataset</name>
 <comment>Created by imglab tool.</comment>
 <images>
-  <image file="000.jpg">
+  <image file="gochiusa\000.jpg">
     <box height="317" left="822" top="7" width="317">
       <part name="C01" x="907" y="261" />
       <part name="C02" x="1001" y="290" />
@@ -55,7 +55,7 @@
       <part name="R04" x="1296" y="960" />
     </box>
   </image>
-  <image file="001.jpg">
+  <image file="gochiusa\001.jpg">
     <box height="240" left="244" top="187" width="240">
       <part name="C01" x="336" y="390" />
       <part name="C02" x="407" y="392" />
@@ -74,7 +74,7 @@
       <part name="R04" x="422" y="309" />
     </box>
   </image>
-  <image file="002.jpg">
+  <image file="gochiusa\002.jpg">
     <box height="203" left="157" top="107" width="203">
       <part name="C01" x="188" y="252" />
       <part name="C02" x="240" y="287" />
@@ -161,7 +161,7 @@
       <part name="R04" x="484" y="932" />
     </box>
   </image>
-  <image file="003.jpg">
+  <image file="gochiusa\003.jpg">
     <box height="237" left="1561" top="71" width="238">
       <part name="C01" x="1624" y="253" />
       <part name="C02" x="1676" y="284" />
@@ -350,7 +350,7 @@
       <part name="R04" x="447" y="322" />
     </box>
   </image>
-  <image file="004.jpg">
+  <image file="gochiusa\004.jpg">
     <box height="292" left="1519" top="88" width="291">
       <part name="C01" x="1565" y="203" />
       <part name="C02" x="1559" y="283" />
@@ -488,7 +488,7 @@
       <part name="R04" x="334" y="929" />
     </box>
   </image>
-  <image file="005.jpg">
+  <image file="gochiusa\005.jpg">
     <box height="106" left="1586" top="119" width="105">
       <part name="C01" x="1626" y="205" />
       <part name="C02" x="1656" y="210" />
@@ -694,7 +694,7 @@
       <part name="R04" x="1641" y="971" />
     </box>
   </image>
-  <image file="006.jpg">
+  <image file="gochiusa\006.jpg">
     <box height="116" left="1659" top="170" width="116">
       <part name="C01" x="1668" y="207" />
       <part name="C02" x="1681" y="257" />
@@ -1002,7 +1002,7 @@
       <part name="R04" x="810" y="325" />
     </box>
   </image>
-  <image file="007.jpg">
+  <image file="gochiusa\007.jpg">
     <box height="100" left="1610" top="157" width="100">
       <part name="C01" x="1637" y="238" />
       <part name="C02" x="1670" y="245" />
@@ -1310,7 +1310,7 @@
       <part name="R04" x="1185" y="483" />
     </box>
   </image>
-  <image file="008.jpg">
+  <image file="gochiusa\008.jpg">
     <box height="121" left="1704" top="146" width="121">
       <part name="C01" x="1724" y="224" />
       <part name="C02" x="1742" y="249" />
@@ -1652,7 +1652,7 @@
       <part name="R04" x="161" y="246" />
     </box>
   </image>
-  <image file="009.jpg">
+  <image file="gochiusa\009.jpg">
     <box height="102" left="1685" top="171" width="101">
       <part name="C01" x="1715" y="254" />
       <part name="C02" x="1745" y="261" />
@@ -2028,7 +2028,7 @@
       <part name="R04" x="1249" y="292" />
     </box>
   </image>
-  <image file="010.jpg">
+  <image file="gochiusa\010.jpg">
     <box height="96" left="1675" top="172" width="96">
       <part name="C01" x="1691" y="236" />
       <part name="C02" x="1712" y="256" />
@@ -2370,7 +2370,7 @@
       <part name="R04" x="173" y="1300" />
     </box>
   </image>
-  <image file="011.jpg">
+  <image file="gochiusa\011.jpg">
     <box height="126" left="1682" top="142" width="126">
       <part name="C01" x="1719" y="244" />
       <part name="C02" x="1751" y="255" />
@@ -2763,7 +2763,7 @@
       <part name="R04" x="233" y="607" />
     </box>
   </image>
-  <image file="012.jpg">
+  <image file="gochiusa\012.jpg">
     <box height="111" left="1695" top="156" width="111">
       <part name="C01" x="1713" y="232" />
       <part name="C02" x="1740" y="254" />
@@ -3054,7 +3054,7 @@
       <part name="R04" x="668" y="877" />
     </box>
   </image>
-  <image file="013.jpg">
+  <image file="gochiusa\013.jpg">
     <box height="84" left="1595" top="126" width="84">
       <part name="C01" x="1621" y="188" />
       <part name="C02" x="1638" y="201" />
@@ -3226,7 +3226,7 @@
       <part name="R04" x="346" y="1202" />
     </box>
   </image>
-  <image file="014.jpg">
+  <image file="gochiusa\014.jpg">
     <box height="102" left="1536" top="157" width="101">
       <part name="C01" x="1577" y="247" />
       <part name="C02" x="1611" y="240" />
@@ -3551,7 +3551,7 @@
       <part name="R04" x="1782" y="201" />
     </box>
   </image>
-  <image file="015.jpg">
+  <image file="gochiusa\015.jpg">
     <box height="68" left="1591" top="250" width="67">
       <part name="C01" x="1601" y="293" />
       <part name="C02" x="1615" y="309" />
@@ -3774,7 +3774,7 @@
       <part name="R04" x="383" y="802" />
     </box>
   </image>
-  <image file="016.jpg">
+  <image file="gochiusa\016.jpg">
     <box height="86" left="1643" top="158" width="86">
       <part name="C01" x="1665" y="225" />
       <part name="C02" x="1689" y="235" />
@@ -4099,7 +4099,7 @@
       <part name="R04" x="157" y="1277" />
     </box>
   </image>
-  <image file="017.jpg">
+  <image file="gochiusa\017.jpg">
     <box height="131" left="1651" top="178" width="131">
       <part name="C01" x="1674" y="264" />
       <part name="C02" x="1692" y="289" />
@@ -4441,7 +4441,7 @@
       <part name="R04" x="202" y="1201" />
     </box>
   </image>
-  <image file="018.jpg">
+  <image file="gochiusa\018.jpg">
     <box height="113" left="1639" top="136" width="112">
       <part name="C01" x="1668" y="225" />
       <part name="C02" x="1698" y="237" />
@@ -4953,7 +4953,7 @@
       <part name="R04" x="1542" y="348" />
     </box>
   </image>
-  <image file="019.jpg">
+  <image file="gochiusa\019.jpg">
     <box height="148" left="1593" top="439" width="148">
       <part name="C01" x="1639" y="562" />
       <part name="C02" x="1681" y="570" />
@@ -5261,7 +5261,7 @@
       <part name="R04" x="409" y="1278" />
     </box>
   </image>
-  <image file="020.jpg">
+  <image file="gochiusa\020.jpg">
     <box height="111" left="1630" top="143" width="111">
       <part name="C01" x="1656" y="229" />
       <part name="C02" x="1685" y="242" />
@@ -5620,7 +5620,7 @@
       <part name="R04" x="318" y="1184" />
     </box>
   </image>
-  <image file="021.jpg">
+  <image file="gochiusa\021.jpg">
     <box height="118" left="1633" top="152" width="118">
       <part name="C01" x="1663" y="244" />
       <part name="C02" x="1700" y="257" />
@@ -5911,7 +5911,7 @@
       <part name="R04" x="405" y="694" />
     </box>
   </image>
-  <image file="022.jpg">
+  <image file="gochiusa\022.jpg">
     <box height="146" left="1521" top="658" width="146">
       <part name="C01" x="1567" y="779" />
       <part name="C02" x="1608" y="787" />

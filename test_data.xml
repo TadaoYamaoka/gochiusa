@@ -2,7 +2,7 @@
 <name>imglab dataset</name>
 <comment>Created by imglab tool.</comment>
 <images>
-  <image file="023.jpg">
+  <image file="gochiusa\023.jpg">
     <box height="174" left="1681" top="1124" width="174">
       <part name="C01" x="1728" y="1261" />
       <part name="C02" x="1773" y="1280" />
@@ -310,7 +310,7 @@
       <part name="R04" x="243" y="933" />
     </box>
   </image>
-  <image file="024.jpg">
+  <image file="gochiusa\024.jpg">
     <box height="130" left="1627" top="141" width="131">
       <part name="C01" x="1651" y="227" />
       <part name="C02" x="1676" y="255" />
