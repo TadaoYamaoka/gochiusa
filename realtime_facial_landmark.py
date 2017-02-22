@@ -39,7 +39,7 @@ while True:
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
     # 顔領域を切り出してミニバッチに追加
-    data = []
+    img_data = []
     matrix = []
     for d in dets:
         w = d.right() - d.left()
@@ -51,11 +51,24 @@ while True:
         dst = cv2.warpAffine(gray, M, (100, 100))
         cropped = 1.0 - np.array(dst, dtype=np.float32) / 256.0
         cv2.imshow('cropped', dst)
-        data.append(cropped)
+        img_data.append(cropped)
         matrix.append(M)
 
-    for d in dets:
-        cv2.rectangle(frame, (d.left(), d.top()), (d.right(), d.bottom()), (0, 0, 255))
+    # 顔器官検出
+    if len(img_data) > 0:
+        x = Variable(np.array(img_data, dtype=np.float32))
+        x = F.reshape(x, (len(img_data), 1, imgsize, imgsize))
+        y = model(x)
+
+        for i, d in enumerate(dets):
+            cv2.rectangle(frame, (d.left(), d.top()), (d.right(), d.bottom()), (0, 0, 255))
+            q = y.data[i].reshape(landmark, 2) * 100
+            # 元の座標に変換
+            M = matrix[i]
+            invMT = cv2.invertAffineTransform(M).T
+            for k in range(landmark):
+                p = np.append(q[k], 1).dot(invMT)
+                cv2.circle(frame, (int(p[0]), int(p[1])), 2, (0, 0, 255), 1)
 
     cv2.imshow('Video', frame)
     if cv2.waitKey(1) & 0xFF == ord('q'):
