@@ -44,10 +44,15 @@ while True:
     for d in dets:
         w = d.right() - d.left()
         h = d.bottom() - d.top();
+        l = d.left()
+        t = d.top()
         if h > w:
+            l -= (h - w) / 2
             w = h
+        else:
+            t -= (w - h) / 2
         scale = 100.0 / w
-        M = np.array([[scale, 0, -d.left() * scale], [0, scale, -d.top() * scale]])
+        M = np.array([[scale, 0, -l * scale], [0, scale, -t * scale]])
         dst = cv2.warpAffine(gray, M, (100, 100))
         cropped = 1.0 - np.array(dst, dtype=np.float32) / 256.0
         cv2.imshow('cropped', dst)
