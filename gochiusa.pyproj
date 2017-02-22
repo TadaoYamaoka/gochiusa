@@ -25,6 +25,7 @@
   <ItemGroup>
     <Compile Include="detect_object_detector.py" />
     <Compile Include="normalize.py" />
+    <Compile Include="realtime_facial_landmark.py" />
     <Compile Include="predict_facial_landmark.py" />
     <Compile Include="facial_landmark.py" />
     <Compile Include="train_facial_landmark.py" />
