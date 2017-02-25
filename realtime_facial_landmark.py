@@ -20,6 +20,7 @@ from facial_landmark import *
 
 parser = argparse.ArgumentParser(description='Realtime predict facial landmark')
 parser.add_argument('model', type=str, help='model file')
+parser.add_argument('--output', '-o', type=str, help='output avi format file')
 args = parser.parse_args()
 
 model = MyChain()
@@ -28,6 +29,10 @@ serializers.load_npz(args.model, model)
 detector = dlib.simple_object_detector("detector.svm")
 
 video_capture = cv2.VideoCapture(1)
+
+if args.output is not None:
+    fourcc = cv2.VideoWriter_fourcc(*'XVID')
+    out = cv2.VideoWriter(args.output, fourcc, 30, (640, 480))
 
 while True:
     ret, frame = video_capture.read()
@@ -76,8 +81,14 @@ while True:
                 cv2.circle(frame, (int(p[0]), int(p[1])), 2, (0, 0, 255), 1)
 
     cv2.imshow('Video', frame)
+
+    if args.output is not None:
+        out.write(frame)
+
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
 video_capture.release()
+if args.output is not None:
+    out.release()
 cv2.destroyAllWindows()
