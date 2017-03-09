@@ -21,22 +21,22 @@ from matplotlib import pylab as plt
 imgsize = 100
 landmark = 15
 
-def out_size(in_size, ksize, poolsize):
-    return math.ceil((in_size - ksize + 1)  / poolsize)
+def out_size(in_size, ksize, stride):
+    return math.ceil((in_size - ksize)  / stride + 1)
 
 class MyChain(Chain):
     def __init__(self):
         super(MyChain, self).__init__(
-            l1=L.Convolution2D(in_channels = 1, out_channels = 16, ksize = 4),
-            l2=L.Convolution2D(in_channels = 16, out_channels = 32, ksize = 5),
+            l1=L.Convolution2D(in_channels = 1, out_channels = 16, ksize = 4, stride = 2),
+            l2=L.Convolution2D(in_channels = 16, out_channels = 32, ksize = 5, stride = 2),
             l3=L.Convolution2D(in_channels = 32, out_channels = 64, ksize = 5),
             l4=L.Linear((out_size(out_size(imgsize, 4, 2), 5, 2) - 5 + 1)**2*64, 400),
             l5=L.Linear(400, landmark*2)
         )
         
     def __call__(self, x):
-        h1 = F.max_pooling_2d(F.relu(self.l1(x)), 2)
-        h2 = F.max_pooling_2d(F.relu(self.l2(h1)), 2)
+        h1 = F.relu(self.l1(x))
+        h2 = F.relu(self.l2(h1))
         h3 = F.relu(self.l3(h2))
         h3_reshape = F.reshape(h3, (len(h3.data), int(h3.data.size / len(h3.data))))
         h4 = F.relu(self.l4(h3_reshape))
