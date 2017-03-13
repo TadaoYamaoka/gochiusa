@@ -19,7 +19,7 @@ import cv2
 from matplotlib import pylab as plt
 
 imgsize = 100
-landmark = 15
+landmark = 16
 
 def out_size(in_size, ksize, poolsize):
     return math.ceil((in_size - ksize + 1)  / poolsize)
@@ -142,6 +142,11 @@ def data_augmentation(data):
             parts_converted[4], parts_converted[3], parts_converted[5], parts_converted[6], # L -> R
             parts_converted[12], parts_converted[11], parts_converted[13], parts_converted[14] # M
             ], dtype=np.float32)
+
+    # 口の横幅、縦幅を追加
+    mw = math.sqrt((parts["M01"][0] - parts["M02"][0])**2 + (parts["M01"][1] - parts["M02"][1])**2) * scale / 100.0
+    mh = math.sqrt((parts["M03"][0] - parts["M04"][0])**2 + (parts["M03"][1] - parts["M04"][1])**2) * scale / 100.0
+    parts_converted = np.append(parts_converted, [mw, mh])
 
     # 変換されたデータを返す
     return {'img' : dst, 'parts' : parts_converted}
